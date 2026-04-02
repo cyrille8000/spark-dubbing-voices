@@ -1,0 +1,6372 @@
+{
+  "af": [
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.098,
+      "ratio": 0.993
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.104,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.153,
+      "ratio": 0.99
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.175,
+      "ratio": 1.009
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.344,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.376,
+      "ratio": 0.978
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.567,
+      "ratio": 1.033
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.654,
+      "ratio": 0.956
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.682,
+      "ratio": 1.051
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.694,
+      "ratio": 1.044
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.711,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.819,
+      "ratio": 0.943
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 0.89,
+      "ratio": 0.934
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.062,
+      "ratio": 0.943
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.07,
+      "ratio": 1.074
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.102,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.222,
+      "ratio": 0.937
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.395,
+      "ratio": 1.097
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.42,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.436,
+      "ratio": 1.111
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.535,
+      "ratio": 1.124
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.589,
+      "ratio": 1.094
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.672,
+      "ratio": 1.103
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.678,
+      "ratio": 1.085
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 1.704,
+      "ratio": 1.125
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 2.826,
+      "ratio": 1.218
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 2.85,
+      "ratio": 1.163
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 2.852,
+      "ratio": 1.201
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 2.858,
+      "ratio": 1.185
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "af-ZA-Standard-A",
+      "duration_diff": 3.671,
+      "ratio": 1.24
+    }
+  ],
+  "ar": [
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.039,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.06,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ar-XA-Standard-D",
+      "duration_diff": 0.088,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.108,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ar-XA-Standard-D",
+      "duration_diff": 0.116,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ar-XA-Standard-A",
+      "duration_diff": 0.14,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.153,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ar-XA-Standard-A",
+      "duration_diff": 0.196,
+      "ratio": 1.011
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.274,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.378,
+      "ratio": 1.02
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.494,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.551,
+      "ratio": 0.967
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.63,
+      "ratio": 1.036
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.661,
+      "ratio": 1.046
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.665,
+      "ratio": 0.961
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.676,
+      "ratio": 0.96
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.68,
+      "ratio": 0.963
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 0.747,
+      "ratio": 1.041
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.792,
+      "ratio": 0.963
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 0.906,
+      "ratio": 0.954
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 1.25,
+      "ratio": 0.936
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 1.384,
+      "ratio": 0.936
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ar-XA-Standard-D",
+      "duration_diff": 1.692,
+      "ratio": 0.903
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 1.897,
+      "ratio": 1.081
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 2.9,
+      "ratio": 1.143
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ar-XA-Standard-C",
+      "duration_diff": 3.354,
+      "ratio": 0.839
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 3.783,
+      "ratio": 1.226
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 4.806,
+      "ratio": 1.225
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 6.152,
+      "ratio": 1.371
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ar-XA-Standard-B",
+      "duration_diff": 7.828,
+      "ratio": 1.601
+    }
+  ],
+  "bg": [
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.281,
+      "ratio": 1.018
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.309,
+      "ratio": 1.026
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.447,
+      "ratio": 1.046
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.531,
+      "ratio": 1.035
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.806,
+      "ratio": 1.077
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 0.862,
+      "ratio": 1.06
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.078,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.09,
+      "ratio": 1.091
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.134,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.348,
+      "ratio": 1.14
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.354,
+      "ratio": 1.126
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.389,
+      "ratio": 1.122
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.409,
+      "ratio": 1.11
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.468,
+      "ratio": 1.099
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.514,
+      "ratio": 1.1
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.516,
+      "ratio": 1.108
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.52,
+      "ratio": 1.132
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.664,
+      "ratio": 1.14
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.74,
+      "ratio": 1.143
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 1.769,
+      "ratio": 1.128
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.13,
+      "ratio": 1.204
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.192,
+      "ratio": 1.157
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.362,
+      "ratio": 1.197
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.425,
+      "ratio": 1.158
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.452,
+      "ratio": 1.191
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.625,
+      "ratio": 1.206
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 2.857,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 3.5,
+      "ratio": 1.268
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 3.555,
+      "ratio": 1.226
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "bg-BG-Standard-B",
+      "duration_diff": 4.322,
+      "ratio": 1.292
+    }
+  ],
+  "ca": [
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 1.116,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 1.18,
+      "ratio": 1.104
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 1.757,
+      "ratio": 1.132
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 1.776,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 1.776,
+      "ratio": 1.171
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.12,
+      "ratio": 1.14
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.17,
+      "ratio": 1.168
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.428,
+      "ratio": 1.179
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.482,
+      "ratio": 1.219
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.548,
+      "ratio": 1.185
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.655,
+      "ratio": 1.198
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.736,
+      "ratio": 1.165
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.88,
+      "ratio": 1.208
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.923,
+      "ratio": 1.22
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 2.995,
+      "ratio": 1.194
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.102,
+      "ratio": 1.233
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.106,
+      "ratio": 1.197
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.204,
+      "ratio": 1.238
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.209,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.276,
+      "ratio": 1.227
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.338,
+      "ratio": 1.252
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.373,
+      "ratio": 1.224
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.403,
+      "ratio": 1.267
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.592,
+      "ratio": 1.298
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.773,
+      "ratio": 1.302
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 3.878,
+      "ratio": 1.235
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 4.716,
+      "ratio": 1.362
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 4.861,
+      "ratio": 1.302
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 4.981,
+      "ratio": 1.291
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ca-ES-Standard-B",
+      "duration_diff": 4.986,
+      "ratio": 1.405
+    }
+  ],
+  "cmn": [
+    {
+      "voice": "Leda",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.014,
+      "ratio": 1.001
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.031,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "cmn-TW-Standard-B",
+      "duration_diff": 0.036,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "cmn-CN-Standard-D",
+      "duration_diff": 0.066,
+      "ratio": 0.996
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "cmn-TW-Standard-B",
+      "duration_diff": 0.069,
+      "ratio": 0.996
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "cmn-CN-Standard-D",
+      "duration_diff": 0.114,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "cmn-CN-Standard-D",
+      "duration_diff": 0.119,
+      "ratio": 0.993
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.136,
+      "ratio": 0.99
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.136,
+      "ratio": 0.991
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "cmn-TW-Standard-C",
+      "duration_diff": 0.142,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.143,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.202,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "cmn-CN-Standard-D",
+      "duration_diff": 0.257,
+      "ratio": 1.016
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.262,
+      "ratio": 1.014
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "cmn-TW-Standard-C",
+      "duration_diff": 0.293,
+      "ratio": 1.02
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.296,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.347,
+      "ratio": 1.016
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "cmn-CN-Standard-A",
+      "duration_diff": 0.366,
+      "ratio": 0.98
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "cmn-CN-Standard-B",
+      "duration_diff": 0.394,
+      "ratio": 0.977
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.511,
+      "ratio": 1.03
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.647,
+      "ratio": 1.043
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "cmn-CN-Standard-B",
+      "duration_diff": 0.684,
+      "ratio": 0.961
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.926,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.951,
+      "ratio": 1.063
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 0.986,
+      "ratio": 1.045
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "cmn-CN-Standard-B",
+      "duration_diff": 1.118,
+      "ratio": 0.921
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "cmn-CN-Standard-B",
+      "duration_diff": 1.41,
+      "ratio": 0.918
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "cmn-CN-Standard-B",
+      "duration_diff": 1.995,
+      "ratio": 0.879
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 2.625,
+      "ratio": 1.165
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "cmn-TW-Standard-A",
+      "duration_diff": 4.496,
+      "ratio": 1.237
+    }
+  ],
+  "cs": [
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 0.751,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 0.792,
+      "ratio": 1.067
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 0.994,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.322,
+      "ratio": 1.09
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.446,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.453,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.564,
+      "ratio": 1.131
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.594,
+      "ratio": 1.105
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.632,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.908,
+      "ratio": 1.134
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 1.932,
+      "ratio": 1.147
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.032,
+      "ratio": 1.135
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.108,
+      "ratio": 1.174
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.155,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.186,
+      "ratio": 1.12
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.353,
+      "ratio": 1.176
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.428,
+      "ratio": 1.219
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.499,
+      "ratio": 1.24
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.614,
+      "ratio": 1.235
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.645,
+      "ratio": 1.179
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.77,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.85,
+      "ratio": 1.211
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.852,
+      "ratio": 1.241
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 2.99,
+      "ratio": 1.21
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 3.138,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 3.16,
+      "ratio": 1.279
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 3.782,
+      "ratio": 1.317
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 4.196,
+      "ratio": 1.33
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 4.678,
+      "ratio": 1.305
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "cs-CZ-Standard-B",
+      "duration_diff": 5.189,
+      "ratio": 1.399
+    }
+  ],
+  "da": [
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 1.643,
+      "ratio": 1.181
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 1.845,
+      "ratio": 1.18
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 1.884,
+      "ratio": 1.215
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.046,
+      "ratio": 1.17
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.385,
+      "ratio": 1.247
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.618,
+      "ratio": 1.207
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.788,
+      "ratio": 1.32
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.806,
+      "ratio": 1.224
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 2.896,
+      "ratio": 1.306
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.082,
+      "ratio": 1.275
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.116,
+      "ratio": 1.313
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.188,
+      "ratio": 1.293
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.317,
+      "ratio": 1.325
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.334,
+      "ratio": 1.366
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.402,
+      "ratio": 1.368
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.526,
+      "ratio": 1.308
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.624,
+      "ratio": 1.309
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.717,
+      "ratio": 1.289
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.766,
+      "ratio": 1.411
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.905,
+      "ratio": 1.316
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.926,
+      "ratio": 1.334
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.944,
+      "ratio": 1.284
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 3.993,
+      "ratio": 1.535
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.228,
+      "ratio": 1.318
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.236,
+      "ratio": 1.372
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.254,
+      "ratio": 1.386
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.686,
+      "ratio": 1.493
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.842,
+      "ratio": 1.359
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 4.856,
+      "ratio": 1.338
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "da-DK-Standard-F",
+      "duration_diff": 5.039,
+      "ratio": 1.435
+    }
+  ],
+  "de": [
+    {
+      "voice": "Orus",
+      "gcp_voice": "de-DE-Standard-H",
+      "duration_diff": 0.088,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.105,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.121,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.346,
+      "ratio": 0.968
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.415,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.433,
+      "ratio": 1.023
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.492,
+      "ratio": 0.967
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.538,
+      "ratio": 0.973
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "de-DE-Standard-H",
+      "duration_diff": 0.657,
+      "ratio": 1.048
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.7,
+      "ratio": 1.043
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.704,
+      "ratio": 1.048
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.931,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 0.982,
+      "ratio": 1.064
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 1.193,
+      "ratio": 1.071
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 1.201,
+      "ratio": 1.077
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 1.586,
+      "ratio": 1.101
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 1.82,
+      "ratio": 1.143
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 1.898,
+      "ratio": 1.136
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.335,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.408,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.443,
+      "ratio": 1.122
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.666,
+      "ratio": 1.184
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.82,
+      "ratio": 1.202
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 2.874,
+      "ratio": 1.182
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 3.559,
+      "ratio": 1.295
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 4.032,
+      "ratio": 1.254
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 4.643,
+      "ratio": 1.399
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 5.772,
+      "ratio": 1.354
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 7.77,
+      "ratio": 1.612
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "de-DE-Standard-G",
+      "duration_diff": 8.008,
+      "ratio": 1.765
+    }
+  ],
+  "el": [
+    {
+      "voice": "Aoede",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.14,
+      "ratio": 1.011
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.23,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.724,
+      "ratio": 1.07
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.76,
+      "ratio": 1.082
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.781,
+      "ratio": 1.072
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.833,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 0.909,
+      "ratio": 1.072
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 1.291,
+      "ratio": 1.097
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 1.305,
+      "ratio": 1.082
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 1.699,
+      "ratio": 1.139
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 1.799,
+      "ratio": 1.148
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.004,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.259,
+      "ratio": 1.205
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.269,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.33,
+      "ratio": 1.14
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.444,
+      "ratio": 1.206
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.544,
+      "ratio": 1.257
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.595,
+      "ratio": 1.216
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.599,
+      "ratio": 1.203
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.655,
+      "ratio": 1.188
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.682,
+      "ratio": 1.207
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.824,
+      "ratio": 1.229
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.857,
+      "ratio": 1.217
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 2.86,
+      "ratio": 1.229
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 3.073,
+      "ratio": 1.262
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 3.297,
+      "ratio": 1.321
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 3.308,
+      "ratio": 1.238
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 3.555,
+      "ratio": 1.253
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 3.558,
+      "ratio": 1.271
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "el-GR-Standard-B",
+      "duration_diff": 4.467,
+      "ratio": 1.385
+    }
+  ],
+  "en": [
+    {
+      "voice": "Puck",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.026,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.098,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.167,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "en-GB-Standard-D",
+      "duration_diff": 0.202,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.257,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.386,
+      "ratio": 0.977
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.525,
+      "ratio": 1.031
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.592,
+      "ratio": 1.037
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.619,
+      "ratio": 1.034
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.689,
+      "ratio": 1.036
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 0.904,
+      "ratio": 1.05
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 1.032,
+      "ratio": 1.066
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 1.503,
+      "ratio": 1.089
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 1.651,
+      "ratio": 1.113
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 1.871,
+      "ratio": 1.12
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 1.909,
+      "ratio": 1.118
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 2.222,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 2.332,
+      "ratio": 1.125
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 2.445,
+      "ratio": 1.184
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 2.594,
+      "ratio": 1.147
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.012,
+      "ratio": 1.202
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.112,
+      "ratio": 1.166
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.294,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.533,
+      "ratio": 1.267
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.72,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 3.995,
+      "ratio": 1.317
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 4.714,
+      "ratio": 1.259
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 5.634,
+      "ratio": 1.357
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 6.226,
+      "ratio": 1.477
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "en-GB-Standard-C",
+      "duration_diff": 7.091,
+      "ratio": 1.486
+    }
+  ],
+  "es": [
+    {
+      "voice": "Leda",
+      "gcp_voice": "es-US-Standard-B",
+      "duration_diff": 0.054,
+      "ratio": 0.996
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 0.105,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 0.236,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 0.324,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 0.733,
+      "ratio": 1.053
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 0.803,
+      "ratio": 1.051
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 1.245,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 1.421,
+      "ratio": 1.105
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 1.549,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 1.551,
+      "ratio": 1.108
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 1.822,
+      "ratio": 1.104
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "es-ES-Standard-F",
+      "duration_diff": 2.018,
+      "ratio": 0.858
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 2.223,
+      "ratio": 1.141
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 2.454,
+      "ratio": 1.163
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 2.548,
+      "ratio": 1.163
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 2.62,
+      "ratio": 1.221
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 2.93,
+      "ratio": 1.222
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.112,
+      "ratio": 1.239
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.242,
+      "ratio": 1.18
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.31,
+      "ratio": 1.235
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.365,
+      "ratio": 1.203
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.439,
+      "ratio": 1.215
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 3.464,
+      "ratio": 1.213
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.024,
+      "ratio": 1.319
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.194,
+      "ratio": 1.331
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.56,
+      "ratio": 1.28
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.671,
+      "ratio": 1.342
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.708,
+      "ratio": 1.382
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 4.95,
+      "ratio": 1.362
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "es-US-Standard-A",
+      "duration_diff": 7.992,
+      "ratio": 1.567
+    }
+  ],
+  "fi": [
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 0.207,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 0.517,
+      "ratio": 1.04
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 0.861,
+      "ratio": 1.077
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 0.964,
+      "ratio": 1.093
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.1,
+      "ratio": 1.091
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.106,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.125,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.238,
+      "ratio": 1.118
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.316,
+      "ratio": 1.093
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.345,
+      "ratio": 1.105
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.397,
+      "ratio": 1.119
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.467,
+      "ratio": 1.096
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.473,
+      "ratio": 1.123
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.546,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.553,
+      "ratio": 1.098
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.609,
+      "ratio": 1.102
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.924,
+      "ratio": 1.147
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 1.933,
+      "ratio": 1.157
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.056,
+      "ratio": 1.145
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.127,
+      "ratio": 1.139
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.336,
+      "ratio": 1.158
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.405,
+      "ratio": 1.184
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.858,
+      "ratio": 1.222
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.954,
+      "ratio": 1.191
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 2.984,
+      "ratio": 1.225
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 3.254,
+      "ratio": 1.236
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 3.355,
+      "ratio": 1.245
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 3.52,
+      "ratio": 1.316
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 4.453,
+      "ratio": 1.369
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "fi-FI-Standard-B",
+      "duration_diff": 4.482,
+      "ratio": 1.378
+    }
+  ],
+  "fil": [
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 0.025,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "fil-PH-Standard-A",
+      "duration_diff": 0.117,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 0.428,
+      "ratio": 1.027
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 0.732,
+      "ratio": 1.043
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 0.857,
+      "ratio": 1.059
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 1.21,
+      "ratio": 1.085
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 1.545,
+      "ratio": 1.093
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "fil-PH-Standard-A",
+      "duration_diff": 1.81,
+      "ratio": 1.123
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 1.895,
+      "ratio": 1.119
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.0,
+      "ratio": 1.151
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.058,
+      "ratio": 1.133
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.085,
+      "ratio": 1.151
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.088,
+      "ratio": 1.106
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.219,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "fil-PH-Standard-A",
+      "duration_diff": 2.294,
+      "ratio": 1.127
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.352,
+      "ratio": 1.145
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "fil-PH-Standard-A",
+      "duration_diff": 2.355,
+      "ratio": 1.176
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.367,
+      "ratio": 1.132
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.442,
+      "ratio": 1.151
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.534,
+      "ratio": 1.143
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.824,
+      "ratio": 1.18
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.848,
+      "ratio": 1.157
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.903,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 2.924,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 3.053,
+      "ratio": 1.167
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 3.127,
+      "ratio": 1.161
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "fil-PH-Standard-A",
+      "duration_diff": 3.176,
+      "ratio": 1.218
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 3.218,
+      "ratio": 1.253
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 3.767,
+      "ratio": 1.198
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "fil-PH-Standard-D",
+      "duration_diff": 4.016,
+      "ratio": 1.18
+    }
+  ],
+  "fr": [
+    {
+      "voice": "Despina",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.03,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.068,
+      "ratio": 0.996
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.074,
+      "ratio": 0.995
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.089,
+      "ratio": 0.993
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.112,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.205,
+      "ratio": 1.014
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.209,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.235,
+      "ratio": 1.018
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.24,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.243,
+      "ratio": 1.016
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.247,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.256,
+      "ratio": 1.018
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.281,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.331,
+      "ratio": 0.975
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.378,
+      "ratio": 0.983
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.412,
+      "ratio": 0.976
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.458,
+      "ratio": 0.973
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "fr-CA-Standard-A",
+      "duration_diff": 0.492,
+      "ratio": 1.039
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.521,
+      "ratio": 0.964
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.523,
+      "ratio": 1.035
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.566,
+      "ratio": 0.969
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "fr-CA-Standard-C",
+      "duration_diff": 0.648,
+      "ratio": 0.965
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.683,
+      "ratio": 0.961
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 0.752,
+      "ratio": 1.041
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 1.236,
+      "ratio": 1.062
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 1.567,
+      "ratio": 1.078
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 3.27,
+      "ratio": 1.224
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 3.389,
+      "ratio": 1.235
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 4.314,
+      "ratio": 1.322
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "fr-CA-Standard-D",
+      "duration_diff": 6.703,
+      "ratio": 1.485
+    }
+  ],
+  "he": [
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.089,
+      "ratio": 1.009
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.255,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.262,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.264,
+      "ratio": 1.019
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.33,
+      "ratio": 1.029
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "he-IL-Standard-C",
+      "duration_diff": 0.33,
+      "ratio": 0.976
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.41,
+      "ratio": 1.025
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.589,
+      "ratio": 1.041
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.718,
+      "ratio": 1.06
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.758,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.772,
+      "ratio": 1.051
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 0.941,
+      "ratio": 1.094
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.004,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.01,
+      "ratio": 1.092
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.039,
+      "ratio": 1.076
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.136,
+      "ratio": 1.092
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.174,
+      "ratio": 1.08
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.212,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.304,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.5,
+      "ratio": 1.138
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.693,
+      "ratio": 1.142
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.798,
+      "ratio": 1.137
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.812,
+      "ratio": 1.182
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.816,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 1.98,
+      "ratio": 1.139
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 2.112,
+      "ratio": 1.173
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 2.3,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 2.301,
+      "ratio": 1.213
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 2.995,
+      "ratio": 1.215
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "he-IL-Standard-A",
+      "duration_diff": 3.004,
+      "ratio": 1.194
+    }
+  ],
+  "hi": [
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.001,
+      "ratio": 1.0
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "hi-IN-Standard-F",
+      "duration_diff": 0.151,
+      "ratio": 1.013
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "hi-IN-Standard-A",
+      "duration_diff": 0.154,
+      "ratio": 1.011
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.276,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.302,
+      "ratio": 0.979
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.309,
+      "ratio": 0.978
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "hi-IN-Standard-C",
+      "duration_diff": 0.322,
+      "ratio": 0.98
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.379,
+      "ratio": 1.025
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "hi-IN-Standard-F",
+      "duration_diff": 0.386,
+      "ratio": 0.968
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "hi-IN-Standard-A",
+      "duration_diff": 0.416,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "hi-IN-Standard-A",
+      "duration_diff": 0.476,
+      "ratio": 1.033
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.484,
+      "ratio": 0.965
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.49,
+      "ratio": 1.034
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "hi-IN-Standard-F",
+      "duration_diff": 0.567,
+      "ratio": 0.956
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.579,
+      "ratio": 0.967
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "hi-IN-Standard-A",
+      "duration_diff": 0.654,
+      "ratio": 1.047
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "hi-IN-Standard-C",
+      "duration_diff": 0.677,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "hi-IN-Standard-A",
+      "duration_diff": 0.81,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "hi-IN-Standard-C",
+      "duration_diff": 0.812,
+      "ratio": 1.07
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.814,
+      "ratio": 1.065
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.841,
+      "ratio": 0.943
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 0.858,
+      "ratio": 0.939
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 1.096,
+      "ratio": 1.082
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 1.211,
+      "ratio": 1.079
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 1.456,
+      "ratio": 1.106
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 1.468,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 2.388,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 2.656,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "hi-IN-Standard-F",
+      "duration_diff": 3.785,
+      "ratio": 0.687
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "hi-IN-Standard-D",
+      "duration_diff": 3.837,
+      "ratio": 1.245
+    }
+  ],
+  "hu": [
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.002,
+      "ratio": 1.0
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.082,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.302,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.356,
+      "ratio": 1.032
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.423,
+      "ratio": 1.035
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.438,
+      "ratio": 1.024
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.444,
+      "ratio": 0.974
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.584,
+      "ratio": 1.048
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.649,
+      "ratio": 1.044
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.835,
+      "ratio": 1.047
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 0.997,
+      "ratio": 1.067
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.029,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.103,
+      "ratio": 1.083
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.162,
+      "ratio": 1.09
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.198,
+      "ratio": 1.099
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.448,
+      "ratio": 1.114
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.912,
+      "ratio": 1.115
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 1.96,
+      "ratio": 1.171
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.028,
+      "ratio": 1.161
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.03,
+      "ratio": 1.16
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.049,
+      "ratio": 1.141
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.061,
+      "ratio": 1.184
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.072,
+      "ratio": 1.134
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.14,
+      "ratio": 1.179
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.184,
+      "ratio": 1.153
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.224,
+      "ratio": 1.159
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 2.487,
+      "ratio": 1.212
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 3.22,
+      "ratio": 1.233
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 3.346,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "hu-HU-Standard-B",
+      "duration_diff": 3.74,
+      "ratio": 1.247
+    }
+  ],
+  "id": [
+    {
+      "voice": "Algieba",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.02,
+      "ratio": 1.001
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.02,
+      "ratio": 0.999
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.066,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.09,
+      "ratio": 1.005
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.093,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.109,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.122,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.134,
+      "ratio": 0.991
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.154,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.159,
+      "ratio": 1.011
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.163,
+      "ratio": 0.989
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.294,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.312,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.369,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.381,
+      "ratio": 0.976
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.439,
+      "ratio": 0.972
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "id-ID-Standard-C",
+      "duration_diff": 0.444,
+      "ratio": 0.973
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.461,
+      "ratio": 0.973
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.463,
+      "ratio": 0.972
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.533,
+      "ratio": 1.031
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.582,
+      "ratio": 1.04
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "id-ID-Standard-D",
+      "duration_diff": 0.594,
+      "ratio": 1.034
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "id-ID-Standard-B",
+      "duration_diff": 0.68,
+      "ratio": 0.954
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.812,
+      "ratio": 1.037
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.881,
+      "ratio": 1.063
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.912,
+      "ratio": 0.962
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 0.968,
+      "ratio": 1.067
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 1.054,
+      "ratio": 1.065
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 1.603,
+      "ratio": 1.072
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "id-ID-Standard-A",
+      "duration_diff": 3.042,
+      "ratio": 1.206
+    }
+  ],
+  "it": [
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.098,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "it-IT-Standard-F",
+      "duration_diff": 0.112,
+      "ratio": 0.993
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.198,
+      "ratio": 0.988
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.363,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.484,
+      "ratio": 1.031
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.687,
+      "ratio": 1.049
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.766,
+      "ratio": 1.057
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "it-IT-Standard-F",
+      "duration_diff": 0.776,
+      "ratio": 0.934
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "it-IT-Standard-F",
+      "duration_diff": 0.89,
+      "ratio": 0.944
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 0.996,
+      "ratio": 1.063
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.199,
+      "ratio": 1.071
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.395,
+      "ratio": 1.094
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.637,
+      "ratio": 1.129
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.671,
+      "ratio": 1.104
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.718,
+      "ratio": 1.093
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.744,
+      "ratio": 1.127
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.844,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.863,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 1.907,
+      "ratio": 1.124
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 2.05,
+      "ratio": 1.135
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 2.264,
+      "ratio": 1.147
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 2.355,
+      "ratio": 1.177
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 2.69,
+      "ratio": 1.191
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 2.755,
+      "ratio": 1.2
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 3.16,
+      "ratio": 1.198
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 3.36,
+      "ratio": 1.205
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 3.562,
+      "ratio": 1.208
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 3.696,
+      "ratio": 1.305
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 4.194,
+      "ratio": 1.227
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "it-IT-Standard-E",
+      "duration_diff": 6.933,
+      "ratio": 1.499
+    }
+  ],
+  "ja": [
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ja-JP-Standard-D",
+      "duration_diff": 0.03,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ja-JP-Standard-D",
+      "duration_diff": 0.039,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ja-JP-Standard-A",
+      "duration_diff": 0.085,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.154,
+      "ratio": 0.991
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.242,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ja-JP-Standard-A",
+      "duration_diff": 0.264,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.296,
+      "ratio": 0.98
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.307,
+      "ratio": 0.976
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.324,
+      "ratio": 0.979
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.527,
+      "ratio": 0.964
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.644,
+      "ratio": 0.969
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.708,
+      "ratio": 0.953
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.748,
+      "ratio": 0.942
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.754,
+      "ratio": 0.951
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ja-JP-Standard-A",
+      "duration_diff": 0.826,
+      "ratio": 1.053
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.967,
+      "ratio": 0.927
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 0.986,
+      "ratio": 0.936
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.019,
+      "ratio": 0.934
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.171,
+      "ratio": 0.929
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.189,
+      "ratio": 0.93
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.353,
+      "ratio": 0.907
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ja-JP-Standard-A",
+      "duration_diff": 1.418,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.424,
+      "ratio": 0.903
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.448,
+      "ratio": 0.898
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.518,
+      "ratio": 0.895
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 1.632,
+      "ratio": 0.898
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 2.109,
+      "ratio": 0.879
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ja-JP-Standard-A",
+      "duration_diff": 2.292,
+      "ratio": 1.21
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 2.779,
+      "ratio": 0.873
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ja-JP-Standard-C",
+      "duration_diff": 2.981,
+      "ratio": 0.849
+    }
+  ],
+  "ko": [
+    {
+      "voice": "Achird",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.026,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.04,
+      "ratio": 0.997
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 0.05,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.052,
+      "ratio": 0.997
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 0.1,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.1,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.125,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 0.18,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.195,
+      "ratio": 0.989
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 0.203,
+      "ratio": 1.013
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.216,
+      "ratio": 1.014
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.223,
+      "ratio": 0.987
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.275,
+      "ratio": 1.018
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.286,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.294,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.35,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.353,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 0.527,
+      "ratio": 1.035
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ko-KR-Standard-A",
+      "duration_diff": 0.564,
+      "ratio": 1.036
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 0.601,
+      "ratio": 0.962
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 0.62,
+      "ratio": 1.037
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 0.672,
+      "ratio": 0.963
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 0.694,
+      "ratio": 0.956
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ko-KR-Standard-C",
+      "duration_diff": 0.81,
+      "ratio": 0.943
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 0.817,
+      "ratio": 1.049
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 1.275,
+      "ratio": 0.921
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 2.03,
+      "ratio": 1.114
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 2.347,
+      "ratio": 1.118
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ko-KR-Standard-B",
+      "duration_diff": 3.205,
+      "ratio": 1.213
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ko-KR-Standard-D",
+      "duration_diff": 4.207,
+      "ratio": 0.748
+    }
+  ],
+  "ms": [
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.01,
+      "ratio": 1.0
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ms-MY-Standard-A",
+      "duration_diff": 0.055,
+      "ratio": 0.997
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.072,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ms-MY-Standard-B",
+      "duration_diff": 0.1,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ms-MY-Standard-B",
+      "duration_diff": 0.164,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ms-MY-Standard-A",
+      "duration_diff": 0.168,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.202,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ms-MY-Standard-B",
+      "duration_diff": 0.202,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ms-MY-Standard-A",
+      "duration_diff": 0.21,
+      "ratio": 1.013
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ms-MY-Standard-A",
+      "duration_diff": 0.273,
+      "ratio": 1.019
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.279,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.284,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ms-MY-Standard-B",
+      "duration_diff": 0.292,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ms-MY-Standard-D",
+      "duration_diff": 0.338,
+      "ratio": 1.025
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ms-MY-Standard-A",
+      "duration_diff": 0.381,
+      "ratio": 1.024
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.5,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.832,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.92,
+      "ratio": 1.058
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 0.924,
+      "ratio": 1.061
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.268,
+      "ratio": 1.08
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.34,
+      "ratio": 1.08
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.34,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.629,
+      "ratio": 1.1
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.706,
+      "ratio": 1.091
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.722,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 1.98,
+      "ratio": 1.104
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 2.129,
+      "ratio": 1.126
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 2.204,
+      "ratio": 1.15
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 2.344,
+      "ratio": 1.139
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ms-MY-Standard-C",
+      "duration_diff": 2.576,
+      "ratio": 1.133
+    }
+  ],
+  "nb": [
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 2.196,
+      "ratio": 1.229
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 2.29,
+      "ratio": 1.209
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 2.576,
+      "ratio": 1.307
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 2.695,
+      "ratio": 1.228
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.082,
+      "ratio": 1.294
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.185,
+      "ratio": 1.301
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "nb-NO-Standard-G",
+      "duration_diff": 3.27,
+      "ratio": 1.322
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.364,
+      "ratio": 1.306
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.378,
+      "ratio": 1.299
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.473,
+      "ratio": 1.262
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "nb-NO-Standard-G",
+      "duration_diff": 3.534,
+      "ratio": 1.329
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.574,
+      "ratio": 1.309
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.633,
+      "ratio": 1.29
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 3.687,
+      "ratio": 1.328
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.164,
+      "ratio": 1.321
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.254,
+      "ratio": 1.377
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.381,
+      "ratio": 1.338
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.432,
+      "ratio": 1.398
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.476,
+      "ratio": 1.435
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "nb-NO-Standard-G",
+      "duration_diff": 4.6,
+      "ratio": 1.398
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 4.842,
+      "ratio": 1.489
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 5.024,
+      "ratio": 1.454
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "nb-NO-Standard-G",
+      "duration_diff": 5.085,
+      "ratio": 1.368
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 5.197,
+      "ratio": 1.442
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 5.347,
+      "ratio": 1.447
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 5.672,
+      "ratio": 1.359
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 5.929,
+      "ratio": 1.456
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 6.046,
+      "ratio": 1.448
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "nb-NO-Standard-G",
+      "duration_diff": 6.212,
+      "ratio": 1.541
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "nb-NO-Standard-F",
+      "duration_diff": 7.612,
+      "ratio": 1.55
+    }
+  ],
+  "nl": [
+    {
+      "voice": "Orus",
+      "gcp_voice": "nl-NL-Standard-G",
+      "duration_diff": 0.36,
+      "ratio": 0.98
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "nl-BE-Standard-D",
+      "duration_diff": 0.438,
+      "ratio": 0.963
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 1.246,
+      "ratio": 1.089
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 1.246,
+      "ratio": 1.102
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 1.347,
+      "ratio": 1.068
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 1.511,
+      "ratio": 1.135
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 1.646,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 1.867,
+      "ratio": 1.138
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 1.935,
+      "ratio": 1.131
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 2.002,
+      "ratio": 1.157
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 2.176,
+      "ratio": 1.141
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 2.308,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 2.342,
+      "ratio": 1.229
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 2.505,
+      "ratio": 1.169
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 2.567,
+      "ratio": 1.208
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 2.71,
+      "ratio": 1.255
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 2.908,
+      "ratio": 1.218
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 3.18,
+      "ratio": 1.198
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 3.203,
+      "ratio": 1.235
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 3.342,
+      "ratio": 1.223
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 3.706,
+      "ratio": 1.321
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 4.38,
+      "ratio": 1.332
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 4.64,
+      "ratio": 1.42
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 4.893,
+      "ratio": 1.446
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 5.763,
+      "ratio": 1.448
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "nl-BE-Standard-C",
+      "duration_diff": 6.054,
+      "ratio": 1.507
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 7.116,
+      "ratio": 1.668
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 7.557,
+      "ratio": 1.71
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 7.754,
+      "ratio": 1.735
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "nl-NL-Standard-F",
+      "duration_diff": 8.631,
+      "ratio": 1.728
+    }
+  ],
+  "pl": [
+    {
+      "voice": "Achird",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 0.75,
+      "ratio": 1.064
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 0.79,
+      "ratio": 1.061
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 0.985,
+      "ratio": 1.067
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 0.985,
+      "ratio": 1.095
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.059,
+      "ratio": 1.086
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.17,
+      "ratio": 1.097
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.212,
+      "ratio": 1.071
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.327,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.367,
+      "ratio": 1.105
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.563,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 1.595,
+      "ratio": 1.125
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.012,
+      "ratio": 1.129
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.091,
+      "ratio": 1.169
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.151,
+      "ratio": 1.133
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "pl-PL-Standard-F",
+      "duration_diff": 2.421,
+      "ratio": 0.801
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.447,
+      "ratio": 1.197
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.6,
+      "ratio": 1.196
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.602,
+      "ratio": 1.196
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.616,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 2.853,
+      "ratio": 1.194
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 3.382,
+      "ratio": 1.24
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 3.754,
+      "ratio": 1.296
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 3.766,
+      "ratio": 1.356
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 3.989,
+      "ratio": 1.247
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 4.422,
+      "ratio": 1.261
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 4.476,
+      "ratio": 1.314
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 5.033,
+      "ratio": 1.395
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 5.146,
+      "ratio": 1.452
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 9.329,
+      "ratio": 1.848
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "pl-PL-Standard-G",
+      "duration_diff": 10.678,
+      "ratio": 1.919
+    }
+  ],
+  "pt": [
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.009,
+      "ratio": 1.0
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "pt-BR-Standard-E",
+      "duration_diff": 0.019,
+      "ratio": 0.999
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.045,
+      "ratio": 1.003
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.049,
+      "ratio": 1.003
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.082,
+      "ratio": 0.995
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.091,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.102,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.135,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.138,
+      "ratio": 0.991
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.144,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.164,
+      "ratio": 0.99
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.166,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "pt-BR-Standard-D",
+      "duration_diff": 0.189,
+      "ratio": 0.988
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.218,
+      "ratio": 1.013
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.227,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.27,
+      "ratio": 1.014
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.271,
+      "ratio": 1.014
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.272,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.279,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "pt-BR-Standard-E",
+      "duration_diff": 0.297,
+      "ratio": 0.983
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.369,
+      "ratio": 0.979
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 0.391,
+      "ratio": 0.981
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "pt-PT-Standard-E",
+      "duration_diff": 0.413,
+      "ratio": 1.026
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "pt-BR-Standard-C",
+      "duration_diff": 0.474,
+      "ratio": 0.974
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.516,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.518,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "pt-BR-Standard-B",
+      "duration_diff": 0.52,
+      "ratio": 1.028
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 1.148,
+      "ratio": 1.075
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "pt-PT-Standard-F",
+      "duration_diff": 3.68,
+      "ratio": 0.782
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "pt-BR-Standard-A",
+      "duration_diff": 5.217,
+      "ratio": 1.301
+    }
+  ],
+  "ro": [
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.034,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.163,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.225,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.253,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.338,
+      "ratio": 1.021
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.343,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.376,
+      "ratio": 0.977
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.481,
+      "ratio": 1.034
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.654,
+      "ratio": 1.036
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 0.824,
+      "ratio": 0.946
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.064,
+      "ratio": 1.07
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.072,
+      "ratio": 1.068
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.094,
+      "ratio": 1.077
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.108,
+      "ratio": 1.059
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.462,
+      "ratio": 1.103
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.492,
+      "ratio": 1.099
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.701,
+      "ratio": 1.1
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.768,
+      "ratio": 1.122
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.868,
+      "ratio": 0.883
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 1.89,
+      "ratio": 1.154
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 2.025,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 2.108,
+      "ratio": 1.137
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 2.493,
+      "ratio": 1.157
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 2.624,
+      "ratio": 1.188
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 3.138,
+      "ratio": 1.177
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 3.423,
+      "ratio": 1.186
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 3.776,
+      "ratio": 1.188
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 4.129,
+      "ratio": 1.278
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 4.51,
+      "ratio": 1.276
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ro-RO-Standard-B",
+      "duration_diff": 5.121,
+      "ratio": 1.322
+    }
+  ],
+  "ru": [
+    {
+      "voice": "Charon",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.024,
+      "ratio": 1.001
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ru-RU-Standard-C",
+      "duration_diff": 0.032,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ru-RU-Standard-D",
+      "duration_diff": 0.09,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ru-RU-Standard-E",
+      "duration_diff": 0.128,
+      "ratio": 0.993
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ru-RU-Standard-D",
+      "duration_diff": 0.295,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.34,
+      "ratio": 1.025
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.389,
+      "ratio": 1.026
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.608,
+      "ratio": 1.047
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.731,
+      "ratio": 1.066
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 0.917,
+      "ratio": 1.065
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ru-RU-Standard-C",
+      "duration_diff": 1.023,
+      "ratio": 1.057
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.023,
+      "ratio": 1.072
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.204,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.408,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.531,
+      "ratio": 1.113
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.729,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.749,
+      "ratio": 1.099
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.764,
+      "ratio": 1.128
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.938,
+      "ratio": 1.131
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 1.958,
+      "ratio": 1.15
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.05,
+      "ratio": 1.143
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ru-RU-Standard-B",
+      "duration_diff": 2.462,
+      "ratio": 0.854
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.568,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.595,
+      "ratio": 1.214
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.599,
+      "ratio": 1.16
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.7,
+      "ratio": 1.178
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 2.864,
+      "ratio": 1.268
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 3.337,
+      "ratio": 1.229
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 4.767,
+      "ratio": 1.405
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ru-RU-Standard-A",
+      "duration_diff": 6.636,
+      "ratio": 1.582
+    }
+  ],
+  "sk": [
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 0.716,
+      "ratio": 1.063
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 0.798,
+      "ratio": 1.05
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 0.836,
+      "ratio": 1.087
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.148,
+      "ratio": 1.09
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.485,
+      "ratio": 1.103
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.514,
+      "ratio": 1.138
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.594,
+      "ratio": 1.102
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.707,
+      "ratio": 1.137
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.777,
+      "ratio": 1.163
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.851,
+      "ratio": 1.119
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 1.956,
+      "ratio": 1.205
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.054,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.263,
+      "ratio": 1.224
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.434,
+      "ratio": 1.167
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.677,
+      "ratio": 1.169
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.763,
+      "ratio": 1.202
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.768,
+      "ratio": 1.15
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.81,
+      "ratio": 1.204
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 2.837,
+      "ratio": 1.205
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.306,
+      "ratio": 1.21
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.335,
+      "ratio": 1.203
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.34,
+      "ratio": 1.278
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.452,
+      "ratio": 1.237
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.563,
+      "ratio": 1.253
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.576,
+      "ratio": 1.155
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.663,
+      "ratio": 1.288
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.737,
+      "ratio": 1.25
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 3.799,
+      "ratio": 1.273
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 4.098,
+      "ratio": 1.277
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "sk-SK-Standard-B",
+      "duration_diff": 5.438,
+      "ratio": 1.391
+    }
+  ],
+  "sv": [
+    {
+      "voice": "Despina",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.186,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.208,
+      "ratio": 0.987
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.214,
+      "ratio": 0.987
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.394,
+      "ratio": 1.024
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.558,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.562,
+      "ratio": 1.051
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.599,
+      "ratio": 1.046
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.636,
+      "ratio": 1.038
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 0.986,
+      "ratio": 1.073
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.024,
+      "ratio": 1.07
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.132,
+      "ratio": 1.08
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.163,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.178,
+      "ratio": 1.076
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.311,
+      "ratio": 1.103
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.391,
+      "ratio": 0.929
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.51,
+      "ratio": 1.113
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.512,
+      "ratio": 1.095
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.517,
+      "ratio": 1.098
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.534,
+      "ratio": 1.106
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.557,
+      "ratio": 1.094
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.574,
+      "ratio": 1.134
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.68,
+      "ratio": 1.124
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.687,
+      "ratio": 1.117
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 1.85,
+      "ratio": 1.107
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 2.176,
+      "ratio": 1.154
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 2.234,
+      "ratio": 1.183
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 2.48,
+      "ratio": 1.23
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 3.27,
+      "ratio": 1.194
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 3.467,
+      "ratio": 1.194
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "sv-SE-Standard-B",
+      "duration_diff": 4.114,
+      "ratio": 1.309
+    }
+  ],
+  "ta": [
+    {
+      "voice": "Algieba",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.058,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.084,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 0.195,
+      "ratio": 1.015
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.208,
+      "ratio": 1.01
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.21,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.227,
+      "ratio": 1.013
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 0.3,
+      "ratio": 1.024
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.372,
+      "ratio": 0.972
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.375,
+      "ratio": 0.977
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 0.404,
+      "ratio": 1.026
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.459,
+      "ratio": 0.966
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.487,
+      "ratio": 1.034
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 0.487,
+      "ratio": 1.052
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.492,
+      "ratio": 0.966
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.497,
+      "ratio": 0.97
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.504,
+      "ratio": 0.968
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.523,
+      "ratio": 0.966
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.538,
+      "ratio": 0.966
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.559,
+      "ratio": 1.038
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.62,
+      "ratio": 0.965
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.694,
+      "ratio": 1.054
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.828,
+      "ratio": 0.953
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 0.83,
+      "ratio": 1.057
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.855,
+      "ratio": 1.055
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 0.952,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "ta-IN-Standard-B",
+      "duration_diff": 1.01,
+      "ratio": 0.924
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 1.064,
+      "ratio": 1.067
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 1.125,
+      "ratio": 1.063
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 1.676,
+      "ratio": 1.106
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "ta-IN-Standard-A",
+      "duration_diff": 1.731,
+      "ratio": 1.089
+    }
+  ],
+  "th": [
+    {
+      "voice": "Charon",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.314,
+      "ratio": 0.983
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.475,
+      "ratio": 1.039
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.502,
+      "ratio": 0.97
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.538,
+      "ratio": 1.037
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.552,
+      "ratio": 1.042
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.597,
+      "ratio": 1.042
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.684,
+      "ratio": 0.957
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 0.957,
+      "ratio": 1.079
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.032,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.153,
+      "ratio": 1.071
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.214,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.304,
+      "ratio": 1.086
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.318,
+      "ratio": 1.095
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.446,
+      "ratio": 1.091
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.489,
+      "ratio": 1.138
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.5,
+      "ratio": 1.114
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.533,
+      "ratio": 1.123
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.582,
+      "ratio": 1.102
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.643,
+      "ratio": 1.127
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.803,
+      "ratio": 1.125
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 1.956,
+      "ratio": 1.109
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.094,
+      "ratio": 1.158
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.258,
+      "ratio": 1.169
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.342,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.511,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.666,
+      "ratio": 1.227
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 2.849,
+      "ratio": 1.169
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 3.072,
+      "ratio": 1.22
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 3.653,
+      "ratio": 1.258
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "th-TH-Standard-A",
+      "duration_diff": 4.054,
+      "ratio": 1.265
+    }
+  ],
+  "tr": [
+    {
+      "voice": "Aoede",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.018,
+      "ratio": 0.999
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.018,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.031,
+      "ratio": 0.998
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.043,
+      "ratio": 0.996
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.052,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.066,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "tr-TR-Standard-C",
+      "duration_diff": 0.088,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.092,
+      "ratio": 1.007
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "tr-TR-Standard-C",
+      "duration_diff": 0.11,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "tr-TR-Standard-A",
+      "duration_diff": 0.144,
+      "ratio": 1.008
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.156,
+      "ratio": 0.987
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.184,
+      "ratio": 1.011
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.191,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.205,
+      "ratio": 0.984
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "tr-TR-Standard-A",
+      "duration_diff": 0.207,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "tr-TR-Standard-C",
+      "duration_diff": 0.22,
+      "ratio": 0.989
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.236,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "tr-TR-Standard-D",
+      "duration_diff": 0.239,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.252,
+      "ratio": 1.017
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.263,
+      "ratio": 0.981
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "tr-TR-Standard-C",
+      "duration_diff": 0.273,
+      "ratio": 0.983
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.29,
+      "ratio": 0.978
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "tr-TR-Standard-B",
+      "duration_diff": 0.292,
+      "ratio": 0.981
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "tr-TR-Standard-A",
+      "duration_diff": 0.371,
+      "ratio": 1.023
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "tr-TR-Standard-A",
+      "duration_diff": 0.402,
+      "ratio": 1.029
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "tr-TR-Standard-E",
+      "duration_diff": 0.785,
+      "ratio": 0.938
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "tr-TR-Standard-E",
+      "duration_diff": 1.421,
+      "ratio": 0.88
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "tr-TR-Standard-E",
+      "duration_diff": 1.71,
+      "ratio": 0.899
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "tr-TR-Standard-E",
+      "duration_diff": 6.043,
+      "ratio": 0.643
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "tr-TR-Standard-A",
+      "duration_diff": 8.4,
+      "ratio": 1.724
+    }
+  ],
+  "uk": [
+    {
+      "voice": "Achernar",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 0.216,
+      "ratio": 1.016
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 0.388,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 0.395,
+      "ratio": 1.024
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 0.624,
+      "ratio": 1.052
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 0.74,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.057,
+      "ratio": 1.081
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.214,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.222,
+      "ratio": 1.111
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.288,
+      "ratio": 1.079
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.352,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.446,
+      "ratio": 1.118
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.461,
+      "ratio": 1.091
+    },
+    {
+      "voice": "Leda",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.56,
+      "ratio": 1.102
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.687,
+      "ratio": 1.113
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.749,
+      "ratio": 1.118
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.77,
+      "ratio": 1.106
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.856,
+      "ratio": 1.145
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.892,
+      "ratio": 1.145
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 1.896,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 2.172,
+      "ratio": 1.149
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 2.187,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 2.342,
+      "ratio": 1.192
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 2.37,
+      "ratio": 1.168
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 2.428,
+      "ratio": 1.15
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 3.026,
+      "ratio": 1.244
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 3.055,
+      "ratio": 1.193
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 3.203,
+      "ratio": 1.182
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 3.494,
+      "ratio": 1.288
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 3.74,
+      "ratio": 1.269
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "uk-UA-Standard-B",
+      "duration_diff": 4.203,
+      "ratio": 1.37
+    }
+  ],
+  "vi": [
+    {
+      "voice": "Leda",
+      "gcp_voice": "vi-VN-Standard-B",
+      "duration_diff": 0.0,
+      "ratio": 1.0
+    },
+    {
+      "voice": "Sulafat",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.032,
+      "ratio": 1.002
+    },
+    {
+      "voice": "Aoede",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.037,
+      "ratio": 1.004
+    },
+    {
+      "voice": "Sadachbia",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 0.042,
+      "ratio": 1.003
+    },
+    {
+      "voice": "Alnilam",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 0.06,
+      "ratio": 0.995
+    },
+    {
+      "voice": "Despina",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.076,
+      "ratio": 0.995
+    },
+    {
+      "voice": "Fenrir",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.09,
+      "ratio": 0.994
+    },
+    {
+      "voice": "Achernar",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 0.1,
+      "ratio": 1.006
+    },
+    {
+      "voice": "Pulcherrima",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 0.126,
+      "ratio": 0.992
+    },
+    {
+      "voice": "Zubenelgenubi",
+      "gcp_voice": "vi-VN-Standard-D",
+      "duration_diff": 0.149,
+      "ratio": 0.985
+    },
+    {
+      "voice": "Laomedeia",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 0.156,
+      "ratio": 0.99
+    },
+    {
+      "voice": "Erinome",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.179,
+      "ratio": 1.012
+    },
+    {
+      "voice": "Algenib",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.221,
+      "ratio": 0.988
+    },
+    {
+      "voice": "Orus",
+      "gcp_voice": "vi-VN-Standard-D",
+      "duration_diff": 0.259,
+      "ratio": 0.986
+    },
+    {
+      "voice": "Schedar",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.283,
+      "ratio": 1.022
+    },
+    {
+      "voice": "Puck",
+      "gcp_voice": "vi-VN-Standard-D",
+      "duration_diff": 0.287,
+      "ratio": 0.982
+    },
+    {
+      "voice": "Iapetus",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.474,
+      "ratio": 1.042
+    },
+    {
+      "voice": "Callirrhoe",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.709,
+      "ratio": 1.06
+    },
+    {
+      "voice": "Achird",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 0.854,
+      "ratio": 1.074
+    },
+    {
+      "voice": "Autonoe",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.042,
+      "ratio": 1.069
+    },
+    {
+      "voice": "Algieba",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.161,
+      "ratio": 1.084
+    },
+    {
+      "voice": "Sadaltager",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.178,
+      "ratio": 1.072
+    },
+    {
+      "voice": "Umbriel",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.221,
+      "ratio": 1.088
+    },
+    {
+      "voice": "Charon",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.718,
+      "ratio": 1.144
+    },
+    {
+      "voice": "Rasalgethi",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 1.774,
+      "ratio": 1.112
+    },
+    {
+      "voice": "Kore",
+      "gcp_voice": "vi-VN-Standard-C",
+      "duration_diff": 2.124,
+      "ratio": 1.145
+    },
+    {
+      "voice": "Gacrux",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 2.199,
+      "ratio": 1.124
+    },
+    {
+      "voice": "Zephyr",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 2.442,
+      "ratio": 1.158
+    },
+    {
+      "voice": "Vindemiatrix",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 2.542,
+      "ratio": 1.164
+    },
+    {
+      "voice": "Enceladus",
+      "gcp_voice": "vi-VN-Standard-A",
+      "duration_diff": 3.862,
+      "ratio": 1.321
+    }
+  ]
+}
