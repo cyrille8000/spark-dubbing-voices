@@ -79,7 +79,8 @@
         "ca": "female/ca/zephyr.mp3",
         "ta": "female/ta/zephyr.mp3",
         "af": "female/af/zephyr.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Kore": {
       "gender": "female",
@@ -122,7 +123,8 @@
         "ca": "female/ca/kore.mp3",
         "ta": "female/ta/kore.mp3",
         "af": "female/af/kore.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Leda": {
       "gender": "female",
@@ -165,7 +167,8 @@
         "ca": "female/ca/leda.mp3",
         "ta": "female/ta/leda.mp3",
         "af": "female/af/leda.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Aoede": {
       "gender": "female",
@@ -208,7 +211,8 @@
         "ca": "female/ca/aoede.mp3",
         "ta": "female/ta/aoede.mp3",
         "af": "female/af/aoede.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Callirrhoe": {
       "gender": "female",
@@ -251,7 +255,8 @@
         "ca": "female/ca/callirrhoe.mp3",
         "ta": "female/ta/callirrhoe.mp3",
         "af": "female/af/callirrhoe.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Autonoe": {
       "gender": "female",
@@ -294,7 +299,8 @@
         "ca": "female/ca/autonoe.mp3",
         "ta": "female/ta/autonoe.mp3",
         "af": "female/af/autonoe.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Despina": {
       "gender": "female",
@@ -337,7 +343,8 @@
         "ca": "female/ca/despina.mp3",
         "ta": "female/ta/despina.mp3",
         "af": "female/af/despina.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Erinome": {
       "gender": "female",
@@ -380,7 +387,8 @@
         "ca": "female/ca/erinome.mp3",
         "ta": "female/ta/erinome.mp3",
         "af": "female/af/erinome.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Laomedeia": {
       "gender": "female",
@@ -423,7 +431,8 @@
         "ca": "female/ca/laomedeia.mp3",
         "ta": "female/ta/laomedeia.mp3",
         "af": "female/af/laomedeia.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Achernar": {
       "gender": "female",
@@ -466,7 +475,8 @@
         "ca": "female/ca/achernar.mp3",
         "ta": "female/ta/achernar.mp3",
         "af": "female/af/achernar.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Gacrux": {
       "gender": "female",
@@ -509,7 +519,8 @@
         "ca": "female/ca/gacrux.mp3",
         "ta": "female/ta/gacrux.mp3",
         "af": "female/af/gacrux.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Vindemiatrix": {
       "gender": "female",
@@ -552,7 +563,8 @@
         "ca": "female/ca/vindemiatrix.mp3",
         "ta": "female/ta/vindemiatrix.mp3",
         "af": "female/af/vindemiatrix.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Sulafat": {
       "gender": "female",
@@ -595,7 +607,8 @@
         "ca": "female/ca/sulafat.mp3",
         "ta": "female/ta/sulafat.mp3",
         "af": "female/af/sulafat.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Puck": {
       "gender": "male",
@@ -638,7 +651,8 @@
         "ca": "male/ca/puck.mp3",
         "ta": "male/ta/puck.mp3",
         "af": "male/af/puck.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Charon": {
       "gender": "male",
@@ -681,7 +695,8 @@
         "ca": "male/ca/charon.mp3",
         "ta": "male/ta/charon.mp3",
         "af": "male/af/charon.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Fenrir": {
       "gender": "male",
@@ -724,7 +739,8 @@
         "ca": "male/ca/fenrir.mp3",
         "ta": "male/ta/fenrir.mp3",
         "af": "male/af/fenrir.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Orus": {
       "gender": "male",
@@ -767,7 +783,8 @@
         "ca": "male/ca/orus.mp3",
         "ta": "male/ta/orus.mp3",
         "af": "male/af/orus.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Enceladus": {
       "gender": "male",
@@ -810,7 +827,8 @@
         "ca": "male/ca/enceladus.mp3",
         "ta": "male/ta/enceladus.mp3",
         "af": "male/af/enceladus.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Iapetus": {
       "gender": "male",
@@ -853,7 +871,8 @@
         "ca": "male/ca/iapetus.mp3",
         "ta": "male/ta/iapetus.mp3",
         "af": "male/af/iapetus.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Umbriel": {
       "gender": "male",
@@ -896,7 +915,8 @@
         "ca": "male/ca/umbriel.mp3",
         "ta": "male/ta/umbriel.mp3",
         "af": "male/af/umbriel.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Algieba": {
       "gender": "male",
@@ -939,7 +959,8 @@
         "ca": "male/ca/algieba.mp3",
         "ta": "male/ta/algieba.mp3",
         "af": "male/af/algieba.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Algenib": {
       "gender": "male",
@@ -982,7 +1003,8 @@
         "ca": "male/ca/algenib.mp3",
         "ta": "male/ta/algenib.mp3",
         "af": "male/af/algenib.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Rasalgethi": {
       "gender": "male",
@@ -1025,7 +1047,8 @@
         "ca": "male/ca/rasalgethi.mp3",
         "ta": "male/ta/rasalgethi.mp3",
         "af": "male/af/rasalgethi.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Alnilam": {
       "gender": "male",
@@ -1068,7 +1091,8 @@
         "ca": "male/ca/alnilam.mp3",
         "ta": "male/ta/alnilam.mp3",
         "af": "male/af/alnilam.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Schedar": {
       "gender": "male",
@@ -1111,7 +1135,8 @@
         "ca": "male/ca/schedar.mp3",
         "ta": "male/ta/schedar.mp3",
         "af": "male/af/schedar.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Pulcherrima": {
       "gender": "male",
@@ -1154,7 +1179,8 @@
         "ca": "male/ca/pulcherrima.mp3",
         "ta": "male/ta/pulcherrima.mp3",
         "af": "male/af/pulcherrima.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Achird": {
       "gender": "male",
@@ -1197,7 +1223,8 @@
         "ca": "male/ca/achird.mp3",
         "ta": "male/ta/achird.mp3",
         "af": "male/af/achird.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Zubenelgenubi": {
       "gender": "male",
@@ -1240,7 +1267,8 @@
         "ca": "male/ca/zubenelgenubi.mp3",
         "ta": "male/ta/zubenelgenubi.mp3",
         "af": "male/af/zubenelgenubi.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Sadachbia": {
       "gender": "male",
@@ -1283,7 +1311,8 @@
         "ca": "male/ca/sadachbia.mp3",
         "ta": "male/ta/sadachbia.mp3",
         "af": "male/af/sadachbia.mp3"
-      }
+      },
+      "provider": "gemini"
     },
     "Sadaltager": {
       "gender": "male",
@@ -1326,6 +1355,322 @@
         "ca": "male/ca/sadaltager.mp3",
         "ta": "male/ta/sadaltager.mp3",
         "af": "male/af/sadaltager.mp3"
+      },
+      "provider": "gemini"
+    },
+    "alloy": {
+      "gender": "male",
+      "style": "Neutral",
+      "pitch": "Mid",
+      "description": "Balanced and versatile neutral voice",
+      "azure_voice": "en-US-AlloyTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "male/en/alloy.mp3",
+        "fr": "male/fr/alloy.mp3",
+        "es": "male/es/alloy.mp3",
+        "de": "male/de/alloy.mp3",
+        "it": "male/it/alloy.mp3",
+        "pt": "male/pt/alloy.mp3",
+        "ja": "male/ja/alloy.mp3",
+        "ko": "male/ko/alloy.mp3",
+        "cmn": "male/cmn/alloy.mp3",
+        "ar": "male/ar/alloy.mp3",
+        "hi": "male/hi/alloy.mp3",
+        "ru": "male/ru/alloy.mp3",
+        "tr": "male/tr/alloy.mp3",
+        "nl": "male/nl/alloy.mp3",
+        "pl": "male/pl/alloy.mp3",
+        "id": "male/id/alloy.mp3",
+        "uk": "male/uk/alloy.mp3",
+        "vi": "male/vi/alloy.mp3",
+        "th": "male/th/alloy.mp3",
+        "ro": "male/ro/alloy.mp3",
+        "el": "male/el/alloy.mp3",
+        "cs": "male/cs/alloy.mp3",
+        "fi": "male/fi/alloy.mp3",
+        "bg": "male/bg/alloy.mp3",
+        "da": "male/da/alloy.mp3",
+        "he": "male/he/alloy.mp3",
+        "ms": "male/ms/alloy.mp3",
+        "sk": "male/sk/alloy.mp3",
+        "sv": "male/sv/alloy.mp3",
+        "fil": "male/fil/alloy.mp3",
+        "hu": "male/hu/alloy.mp3",
+        "nb": "male/nb/alloy.mp3",
+        "ca": "male/ca/alloy.mp3",
+        "ta": "male/ta/alloy.mp3",
+        "af": "male/af/alloy.mp3"
+      }
+    },
+    "nova": {
+      "gender": "female",
+      "style": "Modern",
+      "pitch": "Mid",
+      "description": "Confident and modern female voice",
+      "azure_voice": "en-US-NovaTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "female/en/nova.mp3",
+        "fr": "female/fr/nova.mp3",
+        "es": "female/es/nova.mp3",
+        "de": "female/de/nova.mp3",
+        "it": "female/it/nova.mp3",
+        "pt": "female/pt/nova.mp3",
+        "ja": "female/ja/nova.mp3",
+        "ko": "female/ko/nova.mp3",
+        "cmn": "female/cmn/nova.mp3",
+        "ar": "female/ar/nova.mp3",
+        "hi": "female/hi/nova.mp3",
+        "ru": "female/ru/nova.mp3",
+        "tr": "female/tr/nova.mp3",
+        "nl": "female/nl/nova.mp3",
+        "pl": "female/pl/nova.mp3",
+        "id": "female/id/nova.mp3",
+        "uk": "female/uk/nova.mp3",
+        "vi": "female/vi/nova.mp3",
+        "th": "female/th/nova.mp3",
+        "ro": "female/ro/nova.mp3",
+        "el": "female/el/nova.mp3",
+        "cs": "female/cs/nova.mp3",
+        "fi": "female/fi/nova.mp3",
+        "bg": "female/bg/nova.mp3",
+        "da": "female/da/nova.mp3",
+        "he": "female/he/nova.mp3",
+        "ms": "female/ms/nova.mp3",
+        "sk": "female/sk/nova.mp3",
+        "sv": "female/sv/nova.mp3",
+        "fil": "female/fil/nova.mp3",
+        "hu": "female/hu/nova.mp3",
+        "nb": "female/nb/nova.mp3",
+        "ca": "female/ca/nova.mp3",
+        "ta": "female/ta/nova.mp3",
+        "af": "female/af/nova.mp3"
+      }
+    },
+    "echo": {
+      "gender": "male",
+      "style": "Clear",
+      "pitch": "Mid",
+      "description": "Clear and grounded male voice",
+      "azure_voice": "en-US-EchoTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "male/en/echo.mp3",
+        "fr": "male/fr/echo.mp3",
+        "es": "male/es/echo.mp3",
+        "de": "male/de/echo.mp3",
+        "it": "male/it/echo.mp3",
+        "pt": "male/pt/echo.mp3",
+        "ja": "male/ja/echo.mp3",
+        "ko": "male/ko/echo.mp3",
+        "cmn": "male/cmn/echo.mp3",
+        "ar": "male/ar/echo.mp3",
+        "hi": "male/hi/echo.mp3",
+        "ru": "male/ru/echo.mp3",
+        "tr": "male/tr/echo.mp3",
+        "nl": "male/nl/echo.mp3",
+        "pl": "male/pl/echo.mp3",
+        "id": "male/id/echo.mp3",
+        "uk": "male/uk/echo.mp3",
+        "vi": "male/vi/echo.mp3",
+        "th": "male/th/echo.mp3",
+        "ro": "male/ro/echo.mp3",
+        "el": "male/el/echo.mp3",
+        "cs": "male/cs/echo.mp3",
+        "fi": "male/fi/echo.mp3",
+        "bg": "male/bg/echo.mp3",
+        "da": "male/da/echo.mp3",
+        "he": "male/he/echo.mp3",
+        "ms": "male/ms/echo.mp3",
+        "sk": "male/sk/echo.mp3",
+        "sv": "male/sv/echo.mp3",
+        "fil": "male/fil/echo.mp3",
+        "hu": "male/hu/echo.mp3",
+        "nb": "male/nb/echo.mp3",
+        "ca": "male/ca/echo.mp3",
+        "ta": "male/ta/echo.mp3",
+        "af": "male/af/echo.mp3"
+      }
+    },
+    "onyx": {
+      "gender": "male",
+      "style": "Deep",
+      "pitch": "Lower",
+      "description": "Deep and resonant male voice",
+      "azure_voice": "en-US-OnyxTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "male/en/onyx.mp3",
+        "fr": "male/fr/onyx.mp3",
+        "es": "male/es/onyx.mp3",
+        "de": "male/de/onyx.mp3",
+        "it": "male/it/onyx.mp3",
+        "pt": "male/pt/onyx.mp3",
+        "ja": "male/ja/onyx.mp3",
+        "ko": "male/ko/onyx.mp3",
+        "cmn": "male/cmn/onyx.mp3",
+        "ar": "male/ar/onyx.mp3",
+        "hi": "male/hi/onyx.mp3",
+        "ru": "male/ru/onyx.mp3",
+        "tr": "male/tr/onyx.mp3",
+        "nl": "male/nl/onyx.mp3",
+        "pl": "male/pl/onyx.mp3",
+        "id": "male/id/onyx.mp3",
+        "uk": "male/uk/onyx.mp3",
+        "vi": "male/vi/onyx.mp3",
+        "th": "male/th/onyx.mp3",
+        "ro": "male/ro/onyx.mp3",
+        "el": "male/el/onyx.mp3",
+        "cs": "male/cs/onyx.mp3",
+        "fi": "male/fi/onyx.mp3",
+        "bg": "male/bg/onyx.mp3",
+        "da": "male/da/onyx.mp3",
+        "he": "male/he/onyx.mp3",
+        "ms": "male/ms/onyx.mp3",
+        "sk": "male/sk/onyx.mp3",
+        "sv": "male/sv/onyx.mp3",
+        "fil": "male/fil/onyx.mp3",
+        "hu": "male/hu/onyx.mp3",
+        "nb": "male/nb/onyx.mp3",
+        "ca": "male/ca/onyx.mp3",
+        "ta": "male/ta/onyx.mp3",
+        "af": "male/af/onyx.mp3"
+      }
+    },
+    "shimmer": {
+      "gender": "female",
+      "style": "Soft",
+      "pitch": "Mid",
+      "description": "Soft and gentle female voice",
+      "azure_voice": "en-US-ShimmerTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "female/en/shimmer.mp3",
+        "fr": "female/fr/shimmer.mp3",
+        "es": "female/es/shimmer.mp3",
+        "de": "female/de/shimmer.mp3",
+        "it": "female/it/shimmer.mp3",
+        "pt": "female/pt/shimmer.mp3",
+        "ja": "female/ja/shimmer.mp3",
+        "ko": "female/ko/shimmer.mp3",
+        "cmn": "female/cmn/shimmer.mp3",
+        "ar": "female/ar/shimmer.mp3",
+        "hi": "female/hi/shimmer.mp3",
+        "ru": "female/ru/shimmer.mp3",
+        "tr": "female/tr/shimmer.mp3",
+        "nl": "female/nl/shimmer.mp3",
+        "pl": "female/pl/shimmer.mp3",
+        "id": "female/id/shimmer.mp3",
+        "uk": "female/uk/shimmer.mp3",
+        "vi": "female/vi/shimmer.mp3",
+        "th": "female/th/shimmer.mp3",
+        "ro": "female/ro/shimmer.mp3",
+        "el": "female/el/shimmer.mp3",
+        "cs": "female/cs/shimmer.mp3",
+        "fi": "female/fi/shimmer.mp3",
+        "bg": "female/bg/shimmer.mp3",
+        "da": "female/da/shimmer.mp3",
+        "he": "female/he/shimmer.mp3",
+        "ms": "female/ms/shimmer.mp3",
+        "sk": "female/sk/shimmer.mp3",
+        "sv": "female/sv/shimmer.mp3",
+        "fil": "female/fil/shimmer.mp3",
+        "hu": "female/hu/shimmer.mp3",
+        "nb": "female/nb/shimmer.mp3",
+        "ca": "female/ca/shimmer.mp3",
+        "ta": "female/ta/shimmer.mp3",
+        "af": "female/af/shimmer.mp3"
+      }
+    },
+    "fable": {
+      "gender": "male",
+      "style": "Narrative",
+      "pitch": "Mid",
+      "description": "Expressive storyteller male voice",
+      "azure_voice": "en-US-FableTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "male/en/fable.mp3",
+        "fr": "male/fr/fable.mp3",
+        "es": "male/es/fable.mp3",
+        "de": "male/de/fable.mp3",
+        "it": "male/it/fable.mp3",
+        "pt": "male/pt/fable.mp3",
+        "ja": "male/ja/fable.mp3",
+        "ko": "male/ko/fable.mp3",
+        "cmn": "male/cmn/fable.mp3",
+        "ar": "male/ar/fable.mp3",
+        "hi": "male/hi/fable.mp3",
+        "ru": "male/ru/fable.mp3",
+        "tr": "male/tr/fable.mp3",
+        "nl": "male/nl/fable.mp3",
+        "pl": "male/pl/fable.mp3",
+        "id": "male/id/fable.mp3",
+        "uk": "male/uk/fable.mp3",
+        "vi": "male/vi/fable.mp3",
+        "th": "male/th/fable.mp3",
+        "ro": "male/ro/fable.mp3",
+        "el": "male/el/fable.mp3",
+        "cs": "male/cs/fable.mp3",
+        "fi": "male/fi/fable.mp3",
+        "bg": "male/bg/fable.mp3",
+        "da": "male/da/fable.mp3",
+        "he": "male/he/fable.mp3",
+        "ms": "male/ms/fable.mp3",
+        "sk": "male/sk/fable.mp3",
+        "sv": "male/sv/fable.mp3",
+        "fil": "male/fil/fable.mp3",
+        "hu": "male/hu/fable.mp3",
+        "nb": "male/nb/fable.mp3",
+        "ca": "male/ca/fable.mp3",
+        "ta": "male/ta/fable.mp3",
+        "af": "male/af/fable.mp3"
+      }
+    },
+    "ash": {
+      "gender": "male",
+      "style": "Calm",
+      "pitch": "Mid",
+      "description": "Calm and measured male voice",
+      "azure_voice": "en-US-AshTurboMultilingualNeural",
+      "provider": "openai",
+      "files": {
+        "en": "male/en/ash.mp3",
+        "fr": "male/fr/ash.mp3",
+        "es": "male/es/ash.mp3",
+        "de": "male/de/ash.mp3",
+        "it": "male/it/ash.mp3",
+        "pt": "male/pt/ash.mp3",
+        "ja": "male/ja/ash.mp3",
+        "ko": "male/ko/ash.mp3",
+        "cmn": "male/cmn/ash.mp3",
+        "ar": "male/ar/ash.mp3",
+        "hi": "male/hi/ash.mp3",
+        "ru": "male/ru/ash.mp3",
+        "tr": "male/tr/ash.mp3",
+        "nl": "male/nl/ash.mp3",
+        "pl": "male/pl/ash.mp3",
+        "id": "male/id/ash.mp3",
+        "uk": "male/uk/ash.mp3",
+        "vi": "male/vi/ash.mp3",
+        "th": "male/th/ash.mp3",
+        "ro": "male/ro/ash.mp3",
+        "el": "male/el/ash.mp3",
+        "cs": "male/cs/ash.mp3",
+        "fi": "male/fi/ash.mp3",
+        "bg": "male/bg/ash.mp3",
+        "da": "male/da/ash.mp3",
+        "he": "male/he/ash.mp3",
+        "ms": "male/ms/ash.mp3",
+        "sk": "male/sk/ash.mp3",
+        "sv": "male/sv/ash.mp3",
+        "fil": "male/fil/ash.mp3",
+        "hu": "male/hu/ash.mp3",
+        "nb": "male/nb/ash.mp3",
+        "ca": "male/ca/ash.mp3",
+        "ta": "male/ta/ash.mp3",
+        "af": "male/af/ash.mp3"
       }
     }
   }

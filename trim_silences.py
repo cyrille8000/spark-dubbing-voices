@@ -169,15 +169,24 @@ def _process_one(args):
         sf.write(wav_buffer, trimmed, sr, format='WAV')
         wav_buffer.seek(0)
         audio_seg = AudioSegment.from_wav(wav_buffer)
-        audio_seg.export(out_path_str, format='mp3', bitrate='192k')
+
+        # Ecriture atomique : tmp -> rename, evite la corruption en cas de crash
+        tmp_path = out_path_str + ".tmp"
+        audio_seg.export(tmp_path, format='mp3', bitrate='192k')
+        import os as _os
+        _os.replace(tmp_path, out_path_str)
 
         return (True, orig_dur, new_dur, saved, None)
     except Exception as e:
         return (False, 0, 0, 0, str(e))
 
 
-def process_all(root_dir: str, max_silence: float = 0.05):
-    """Traite tous les fichiers MP3 en parallele, sauvegarde dans trimmed/."""
+def process_all(root_dir: str, max_silence: float = 0.05, in_place: bool = False):
+    """Traite tous les fichiers MP3 en parallele.
+
+    - in_place=False (defaut) : sortie dans <root>/trimmed/<rel_path>, skip si deja present.
+    - in_place=True : ecrase les fichiers d'origine (utile apres une regen complete).
+    """
     root = Path(root_dir)
     output_dir = root / "trimmed"
     mp3_files = sorted([f for f in root.rglob("*.mp3") if "trimmed" not in f.parts])
@@ -186,22 +195,30 @@ def process_all(root_dir: str, max_silence: float = 0.05):
     skipped = 0
     for mp3_path in mp3_files:
         rel = mp3_path.relative_to(root)
-        out_path = output_dir / rel
-        if out_path.exists():
-            skipped += 1
-        else:
+        if in_place:
+            out_path = mp3_path
             tasks.append((str(mp3_path), str(out_path), max_silence))
+        else:
+            out_path = output_dir / rel
+            if out_path.exists():
+                skipped += 1
+            else:
+                tasks.append((str(mp3_path), str(out_path), max_silence))
 
     total = len(mp3_files)
     to_process = len(tasks)
-    workers = min(cpu_count(), 10)
+    import os as _os
+    workers_env = _os.environ.get("WORKERS")
+    workers = int(workers_env) if workers_env else min(cpu_count(), 4)
 
     print(f"Fichiers trouves: {total}")
+    print(f"Mode: {'in-place (ecrase)' if in_place else 'output -> trimmed/'}")
     print(f"Deja faits (skip): {skipped}")
     print(f"A traiter: {to_process}")
     print(f"Workers: {workers}")
     print(f"Silence max: {max_silence}s")
-    print(f"Sortie: {output_dir}")
+    if not in_place:
+        print(f"Sortie: {output_dir}")
     print("-" * 60, flush=True)
 
     total_saved = 0.0
@@ -235,10 +252,15 @@ def process_all(root_dir: str, max_silence: float = 0.05):
 if __name__ == "__main__":
     root_dir = str(Path(__file__).parent)
     max_silence = 0.05
+    in_place = False
 
-    if len(sys.argv) > 1:
-        root_dir = sys.argv[1]
-    if len(sys.argv) > 2:
-        max_silence = float(sys.argv[2])
+    args = [a for a in sys.argv[1:] if a]
+    if "--in-place" in args:
+        in_place = True
+        args = [a for a in args if a != "--in-place"]
+    if len(args) > 0:
+        root_dir = args[0]
+    if len(args) > 1:
+        max_silence = float(args[1])
 
-    process_all(root_dir, max_silence)
+    process_all(root_dir, max_silence, in_place)

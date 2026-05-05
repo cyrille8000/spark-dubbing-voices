@@ -119,11 +119,24 @@ def process_voice_lang(voice_name, lang, text, gcp_voices, our_duration):
         except Exception:
             continue
 
+    if not best_match:
+        return {
+            "gcp_voice": None,
+            "duration_diff": None,
+            "our_duration": round(our_duration, 3),
+            "gcp_duration": None,
+            "ratio": None,
+            "duree_sans_silence": round(our_duration, 3),
+        }
+
+    ratio = best_gcp_dur / our_duration if our_duration > 0 else None
     return {
         "gcp_voice": best_match,
-        "duration_diff": round(best_diff, 3) if best_match else None,
+        "duration_diff": round(best_diff, 3),
         "our_duration": round(our_duration, 3),
-        "gcp_duration": round(best_gcp_dur, 3) if best_match else None,
+        "gcp_duration": round(best_gcp_dur, 3),
+        "ratio": round(ratio, 3) if ratio is not None else None,
+        "duree_sans_silence": round(our_duration, 3),
     }
 
 
@@ -201,13 +214,55 @@ def main():
             else:
                 print(f"[{done}/{len(tasks)}] {vname}/{lang}: no match", flush=True)
 
-    # Sauvegarder
+    # Sauvegarder gcp_matches.json (par voix puis langue)
     output_path = root / "gcp_matches.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
+    # Construire la version ranked, groupee par provider puis par langue
+    # Structure: { lang: { gemini: [...], openai: [...] } }
+    voice_provider = {
+        vname: vdata.get("provider", "gemini")
+        for vname, vdata in voices.items()
+    }
+
+    ranked = {}
+    for vname, by_lang in results.items():
+        provider = voice_provider.get(vname, "gemini")
+        for lang, r in by_lang.items():
+            if not r or not r.get("gcp_voice"):
+                continue
+            entry = {
+                "voice": vname,
+                "gcp_voice": r["gcp_voice"],
+                "duration_diff": r["duration_diff"],
+                "ratio": r["ratio"],
+                "duree_sans_silence": r["duree_sans_silence"],
+            }
+            ranked.setdefault(lang, {}).setdefault(provider, []).append(entry)
+
+    for lang, by_provider in ranked.items():
+        for provider in by_provider:
+            by_provider[provider].sort(key=lambda x: x["duration_diff"])
+
+    # Tri des langues par ordre alphabetique, providers dans un ordre fixe
+    provider_order = ["gemini", "openai"]
+    ranked_sorted = {}
+    for lang in sorted(ranked.keys()):
+        ranked_sorted[lang] = {
+            p: ranked[lang][p]
+            for p in provider_order
+            if p in ranked[lang]
+        }
+
+    ranked_path = root / "gcp_matches_ranked.json"
+    with open(ranked_path, "w", encoding="utf-8") as f:
+        json.dump(ranked_sorted, f, indent=2, ensure_ascii=False)
+
     print("-" * 60)
-    print(f"Resultats sauvegardes dans {output_path}")
+    print(f"Resultats sauvegardes dans :")
+    print(f"  - {output_path}")
+    print(f"  - {ranked_path}")
 
 
 if __name__ == "__main__":
