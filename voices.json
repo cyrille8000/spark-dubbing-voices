@@ -1681,7 +1681,26 @@
       "language_boost": "English",
       "emotion": "auto",
       "files": {
-        "en": "minimax/en/English_Trustworth_Man.wav"
+        "en": "minimax/en/English_Trustworth_Man.wav",
+        "af": "minimax/af/English_Trustworth_Man.wav",
+        "bg": "minimax/bg/English_Trustworth_Man.wav",
+        "ca": "minimax/ca/English_Trustworth_Man.wav",
+        "cs": "minimax/cs/English_Trustworth_Man.wav",
+        "da": "minimax/da/English_Trustworth_Man.wav",
+        "el": "minimax/el/English_Trustworth_Man.wav",
+        "fi": "minimax/fi/English_Trustworth_Man.wav",
+        "fil": "minimax/fil/English_Trustworth_Man.wav",
+        "he": "minimax/he/English_Trustworth_Man.wav",
+        "hi": "minimax/hi/English_Trustworth_Man.wav",
+        "hu": "minimax/hu/English_Trustworth_Man.wav",
+        "ms": "minimax/ms/English_Trustworth_Man.wav",
+        "nb": "minimax/nb/English_Trustworth_Man.wav",
+        "pl": "minimax/pl/English_Trustworth_Man.wav",
+        "ro": "minimax/ro/English_Trustworth_Man.wav",
+        "sk": "minimax/sk/English_Trustworth_Man.wav",
+        "sv": "minimax/sv/English_Trustworth_Man.wav",
+        "ta": "minimax/ta/English_Trustworth_Man.wav",
+        "th": "minimax/th/English_Trustworth_Man.wav"
       }
     },
     "English_Aussie_Bloke": {
@@ -1703,7 +1722,26 @@
       "language_boost": "English",
       "emotion": "auto",
       "files": {
-        "en": "minimax/en/English_CalmWoman.wav"
+        "en": "minimax/en/English_CalmWoman.wav",
+        "af": "minimax/af/English_CalmWoman.wav",
+        "bg": "minimax/bg/English_CalmWoman.wav",
+        "ca": "minimax/ca/English_CalmWoman.wav",
+        "cs": "minimax/cs/English_CalmWoman.wav",
+        "da": "minimax/da/English_CalmWoman.wav",
+        "el": "minimax/el/English_CalmWoman.wav",
+        "fi": "minimax/fi/English_CalmWoman.wav",
+        "fil": "minimax/fil/English_CalmWoman.wav",
+        "he": "minimax/he/English_CalmWoman.wav",
+        "hi": "minimax/hi/English_CalmWoman.wav",
+        "hu": "minimax/hu/English_CalmWoman.wav",
+        "ms": "minimax/ms/English_CalmWoman.wav",
+        "nb": "minimax/nb/English_CalmWoman.wav",
+        "pl": "minimax/pl/English_CalmWoman.wav",
+        "ro": "minimax/ro/English_CalmWoman.wav",
+        "sk": "minimax/sk/English_CalmWoman.wav",
+        "sv": "minimax/sv/English_CalmWoman.wav",
+        "ta": "minimax/ta/English_CalmWoman.wav",
+        "th": "minimax/th/English_CalmWoman.wav"
       }
     },
     "English_UpsetGirl": {
@@ -1747,7 +1785,26 @@
       "language_boost": "English",
       "emotion": "auto",
       "files": {
-        "en": "minimax/en/English_Diligent_Man.wav"
+        "en": "minimax/en/English_Diligent_Man.wav",
+        "af": "minimax/af/English_Diligent_Man.wav",
+        "bg": "minimax/bg/English_Diligent_Man.wav",
+        "ca": "minimax/ca/English_Diligent_Man.wav",
+        "cs": "minimax/cs/English_Diligent_Man.wav",
+        "da": "minimax/da/English_Diligent_Man.wav",
+        "el": "minimax/el/English_Diligent_Man.wav",
+        "fi": "minimax/fi/English_Diligent_Man.wav",
+        "fil": "minimax/fil/English_Diligent_Man.wav",
+        "he": "minimax/he/English_Diligent_Man.wav",
+        "hi": "minimax/hi/English_Diligent_Man.wav",
+        "hu": "minimax/hu/English_Diligent_Man.wav",
+        "ms": "minimax/ms/English_Diligent_Man.wav",
+        "nb": "minimax/nb/English_Diligent_Man.wav",
+        "pl": "minimax/pl/English_Diligent_Man.wav",
+        "ro": "minimax/ro/English_Diligent_Man.wav",
+        "sk": "minimax/sk/English_Diligent_Man.wav",
+        "sv": "minimax/sv/English_Diligent_Man.wav",
+        "ta": "minimax/ta/English_Diligent_Man.wav",
+        "th": "minimax/th/English_Diligent_Man.wav"
       }
     },
     "English_Graceful_Lady": {
@@ -1989,7 +2046,26 @@
       "language_boost": "English",
       "emotion": "auto",
       "files": {
-        "en": "minimax/en/English_ConfidentWoman.wav"
+        "en": "minimax/en/English_ConfidentWoman.wav",
+        "af": "minimax/af/English_ConfidentWoman.wav",
+        "bg": "minimax/bg/English_ConfidentWoman.wav",
+        "ca": "minimax/ca/English_ConfidentWoman.wav",
+        "cs": "minimax/cs/English_ConfidentWoman.wav",
+        "da": "minimax/da/English_ConfidentWoman.wav",
+        "el": "minimax/el/English_ConfidentWoman.wav",
+        "fi": "minimax/fi/English_ConfidentWoman.wav",
+        "fil": "minimax/fil/English_ConfidentWoman.wav",
+        "he": "minimax/he/English_ConfidentWoman.wav",
+        "hi": "minimax/hi/English_ConfidentWoman.wav",
+        "hu": "minimax/hu/English_ConfidentWoman.wav",
+        "ms": "minimax/ms/English_ConfidentWoman.wav",
+        "nb": "minimax/nb/English_ConfidentWoman.wav",
+        "pl": "minimax/pl/English_ConfidentWoman.wav",
+        "ro": "minimax/ro/English_ConfidentWoman.wav",
+        "sk": "minimax/sk/English_ConfidentWoman.wav",
+        "sv": "minimax/sv/English_ConfidentWoman.wav",
+        "ta": "minimax/ta/English_ConfidentWoman.wav",
+        "th": "minimax/th/English_ConfidentWoman.wav"
       }
     },
     "English_PatientMan": {

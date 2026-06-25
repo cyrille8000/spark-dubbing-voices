@@ -35,9 +35,34 @@ import warnings
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import ssl
 import requests
+import certifi
+from requests.adapters import HTTPAdapter
+from urllib3.poolmanager import PoolManager
 
 warnings.filterwarnings("ignore")
+
+
+# --- TLS : magasin de certificats de l'OS EN PLUS de certifi ---
+# Derriere un proxy/antivirus qui intercepte le HTTPS, le CA du proxy est dans
+# le magasin Windows mais pas dans certifi -> "unable to get local issuer
+# certificate". On combine les deux trust stores. (OpenSSL ne verifie pas la
+# revocation, donc pas de CRYPT_E_NO_REVOCATION_CHECK comme avec Schannel.)
+class _OSStoreAdapter(HTTPAdapter):
+    def init_poolmanager(self, connections, maxsize, block=False, **kw):
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        try:
+            ctx.load_default_certs()
+        except Exception:
+            pass
+        self.poolmanager = PoolManager(
+            num_pools=connections, maxsize=maxsize, block=block, ssl_context=ctx
+        )
+
+
+SESSION = requests.Session()
+SESSION.mount("https://", _OSStoreAdapter())
 
 API_TOKEN = os.environ.get("REPLICATE_API_TOKEN", "")
 WORKERS = int(os.environ.get("WORKERS", "6"))
@@ -51,6 +76,21 @@ PREDICT_URL = f"https://api.replicate.com/v1/models/{MODEL}/predictions"
 CHANNEL = "mono"
 EMOTION = "auto"
 AUDIO_FORMAT = "wav"
+
+# language_boost MiniMax par code langue. Le boost suit la LANGUE du fichier
+# (et non la langue native de la voix) : les voix anglaises cross-lingual
+# servent les langues sans voix dediee via le boost de la langue cible.
+LANG_TO_BOOST = {
+    "en": "English", "cmn": "Chinese", "ja": "Japanese", "ko": "Korean",
+    "es": "Spanish", "pt": "Portuguese", "fr": "French", "id": "Indonesian",
+    "de": "German", "ru": "Russian", "it": "Italian", "nl": "Dutch",
+    "vi": "Vietnamese", "ar": "Arabic", "tr": "Turkish", "uk": "Ukrainian",
+    "af": "Afrikaans", "bg": "Bulgarian", "ca": "Catalan", "cs": "Czech",
+    "da": "Danish", "el": "Greek", "fi": "Finnish", "fil": "Filipino",
+    "he": "Hebrew", "hi": "Hindi", "hu": "Hungarian", "ms": "Malay",
+    "nb": "Norwegian", "pl": "Polish", "ro": "Romanian", "sk": "Slovak",
+    "sv": "Swedish", "ta": "Tamil", "th": "Thai",
+}
 
 TERMINAL = {"succeeded", "failed", "canceled"}
 
@@ -77,7 +117,7 @@ def create_prediction(text, voice_id, language_boost):
             "language_boost": language_boost,
         }
     }
-    r = requests.post(PREDICT_URL, headers=_headers(wait=True), json=body, timeout=120)
+    r = SESSION.post(PREDICT_URL, headers=_headers(wait=True), json=body, timeout=120)
     return r
 
 
@@ -85,7 +125,7 @@ def poll_prediction(get_url):
     """Poll une prediction jusqu'a un etat terminal ou POLL_TIMEOUT."""
     deadline = time.time() + POLL_TIMEOUT
     while True:
-        r = requests.get(get_url, headers=_headers(), timeout=60)
+        r = SESSION.get(get_url, headers=_headers(), timeout=60)
         if r.status_code != 200:
             raise RuntimeError(f"poll HTTP {r.status_code}: {r.text[:200]}")
         data = r.json()
@@ -132,7 +172,7 @@ def synth_one(text, voice_id, language_boost):
                     time.sleep(backoff)
                     backoff = min(backoff * 1.7, 30)
                     continue
-                ar = requests.get(out, timeout=180)
+                ar = SESSION.get(out, timeout=180)
                 if ar.status_code == 200 and ar.content:
                     return ar.content
                 last_err = f"download HTTP {ar.status_code}"
@@ -214,11 +254,13 @@ def build_tasks(voices_data, texts_data, root, voice_filter, lang_filter, limit,
             continue
 
         voice_id = vdata.get("minimax_voice_id", vid)
-        language_boost = vdata.get("language_boost", "None")
 
         for lang, file_rel in vdata["files"].items():
             if lang_filter and lang != lang_filter:
                 continue
+            # language_boost derive de la LANGUE du fichier (pas de la voix) :
+            # une meme voix anglaise sert plusieurs langues (cross-lingual).
+            language_boost = LANG_TO_BOOST.get(lang, vdata.get("language_boost", "None"))
             text = lookup_text(texts_data, vid, lang)
             if not text:
                 print(f"WARN: pas de texte pour {vid}/{lang}", file=sys.stderr)
