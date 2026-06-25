@@ -1672,6 +1672,3262 @@
         "ta": "male/ta/ash.mp3",
         "af": "male/af/ash.mp3"
       }
+    },
+    "English_Trustworth_Man": {
+      "gender": "male",
+      "description": "Trustworth Man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Trustworth_Man",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Trustworth_Man.wav"
+      }
+    },
+    "English_Aussie_Bloke": {
+      "gender": "male",
+      "description": "Aussie Bloke",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Aussie_Bloke",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Aussie_Bloke.wav"
+      }
+    },
+    "English_CalmWoman": {
+      "gender": "female",
+      "description": "Calm Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "English_CalmWoman",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_CalmWoman.wav"
+      }
+    },
+    "English_UpsetGirl": {
+      "gender": "female",
+      "description": "Upset Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_UpsetGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_UpsetGirl.wav"
+      }
+    },
+    "English_Gentle-voiced_man": {
+      "gender": "male",
+      "description": "Gentle voiced man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Gentle-voiced_man",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Gentle-voiced_man.wav"
+      }
+    },
+    "English_Whispering_girl": {
+      "gender": "female",
+      "description": "Whispering girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Whispering_girl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Whispering_girl.wav"
+      }
+    },
+    "English_Diligent_Man": {
+      "gender": "male",
+      "description": "Diligent Man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Diligent_Man",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Diligent_Man.wav"
+      }
+    },
+    "English_Graceful_Lady": {
+      "gender": "female",
+      "description": "Graceful Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Graceful_Lady",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Graceful_Lady.wav"
+      }
+    },
+    "English_ReservedYoungMan": {
+      "gender": "male",
+      "description": "Reserved Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_ReservedYoungMan",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_ReservedYoungMan.wav"
+      }
+    },
+    "English_PlayfulGirl": {
+      "gender": "female",
+      "description": "Playful Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_PlayfulGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_PlayfulGirl.wav"
+      }
+    },
+    "English_ManWithDeepVoice": {
+      "gender": "male",
+      "description": "Man With Deep Voice",
+      "provider": "minimax",
+      "minimax_voice_id": "English_ManWithDeepVoice",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_ManWithDeepVoice.wav"
+      }
+    },
+    "English_MaturePartner": {
+      "gender": "male",
+      "description": "Mature Partner",
+      "provider": "minimax",
+      "minimax_voice_id": "English_MaturePartner",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_MaturePartner.wav"
+      }
+    },
+    "English_FriendlyPerson": {
+      "gender": "neutral",
+      "description": "Friendly Person",
+      "provider": "minimax",
+      "minimax_voice_id": "English_FriendlyPerson",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_FriendlyPerson.wav"
+      }
+    },
+    "English_MatureBoss": {
+      "gender": "neutral",
+      "description": "Mature Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "English_MatureBoss",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_MatureBoss.wav"
+      }
+    },
+    "English_Debator": {
+      "gender": "neutral",
+      "description": "Debator",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Debator",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Debator.wav"
+      }
+    },
+    "English_LovelyGirl": {
+      "gender": "female",
+      "description": "Lovely Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_LovelyGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_LovelyGirl.wav"
+      }
+    },
+    "English_Steadymentor": {
+      "gender": "male",
+      "description": "Steadymentor",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Steadymentor",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Steadymentor.wav"
+      }
+    },
+    "English_Deep-VoicedGentleman": {
+      "gender": "male",
+      "description": "Deep Voiced Gentleman",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Deep-VoicedGentleman",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Deep-VoicedGentleman.wav"
+      }
+    },
+    "English_Wiselady": {
+      "gender": "female",
+      "description": "Wiselady",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Wiselady",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Wiselady.wav"
+      }
+    },
+    "English_CaptivatingStoryteller": {
+      "gender": "neutral",
+      "description": "Captivating Storyteller",
+      "provider": "minimax",
+      "minimax_voice_id": "English_CaptivatingStoryteller",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_CaptivatingStoryteller.wav"
+      }
+    },
+    "English_DecentYoungMan": {
+      "gender": "male",
+      "description": "Decent Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_DecentYoungMan",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_DecentYoungMan.wav"
+      }
+    },
+    "English_SentimentalLady": {
+      "gender": "female",
+      "description": "Sentimental Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "English_SentimentalLady",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_SentimentalLady.wav"
+      }
+    },
+    "English_ImposingManner": {
+      "gender": "male",
+      "description": "Imposing Manner",
+      "provider": "minimax",
+      "minimax_voice_id": "English_ImposingManner",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_ImposingManner.wav"
+      }
+    },
+    "English_SadTeen": {
+      "gender": "neutral",
+      "description": "Sad Teen",
+      "provider": "minimax",
+      "minimax_voice_id": "English_SadTeen",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_SadTeen.wav"
+      }
+    },
+    "English_PassionateWarrior": {
+      "gender": "male",
+      "description": "Passionate Warrior",
+      "provider": "minimax",
+      "minimax_voice_id": "English_PassionateWarrior",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_PassionateWarrior.wav"
+      }
+    },
+    "English_WiseScholar": {
+      "gender": "neutral",
+      "description": "Wise Scholar",
+      "provider": "minimax",
+      "minimax_voice_id": "English_WiseScholar",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_WiseScholar.wav"
+      }
+    },
+    "English_Soft-spokenGirl": {
+      "gender": "female",
+      "description": "Soft spoken Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Soft-spokenGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Soft-spokenGirl.wav"
+      }
+    },
+    "English_SereneWoman": {
+      "gender": "female",
+      "description": "Serene Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "English_SereneWoman",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_SereneWoman.wav"
+      }
+    },
+    "English_ConfidentWoman": {
+      "gender": "female",
+      "description": "Confident Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "English_ConfidentWoman",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_ConfidentWoman.wav"
+      }
+    },
+    "English_PatientMan": {
+      "gender": "male",
+      "description": "Patient Man",
+      "provider": "minimax",
+      "minimax_voice_id": "English_PatientMan",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_PatientMan.wav"
+      }
+    },
+    "English_Comedian": {
+      "gender": "neutral",
+      "description": "Comedian",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Comedian",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Comedian.wav"
+      }
+    },
+    "English_BossyLeader": {
+      "gender": "neutral",
+      "description": "Bossy Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "English_BossyLeader",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_BossyLeader.wav"
+      }
+    },
+    "English_Strong-WilledBoy": {
+      "gender": "male",
+      "description": "Strong Willed Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Strong-WilledBoy",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Strong-WilledBoy.wav"
+      }
+    },
+    "English_StressedLady": {
+      "gender": "female",
+      "description": "Stressed Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "English_StressedLady",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_StressedLady.wav"
+      }
+    },
+    "English_AssertiveQueen": {
+      "gender": "female",
+      "description": "Assertive Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "English_AssertiveQueen",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_AssertiveQueen.wav"
+      }
+    },
+    "English_AnimeCharacter": {
+      "gender": "neutral",
+      "description": "Anime Character",
+      "provider": "minimax",
+      "minimax_voice_id": "English_AnimeCharacter",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_AnimeCharacter.wav"
+      }
+    },
+    "English_Jovialman": {
+      "gender": "male",
+      "description": "Jovialman",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Jovialman",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Jovialman.wav"
+      }
+    },
+    "English_WhimsicalGirl": {
+      "gender": "female",
+      "description": "Whimsical Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_WhimsicalGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_WhimsicalGirl.wav"
+      }
+    },
+    "English_Kind-heartedGirl": {
+      "gender": "female",
+      "description": "Kind hearted Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "English_Kind-heartedGirl",
+      "language_boost": "English",
+      "emotion": "auto",
+      "files": {
+        "en": "minimax/en/English_Kind-heartedGirl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Reliable_Executive": {
+      "gender": "male",
+      "description": "Reliable Executive",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Reliable_Executive.wav"
+      }
+    },
+    "Chinese (Mandarin)_News_Anchor": {
+      "gender": "neutral",
+      "description": "News Anchor",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_News_Anchor",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__News_Anchor.wav"
+      }
+    },
+    "Chinese (Mandarin)_Unrestrained_Young_Man": {
+      "gender": "male",
+      "description": "Unrestrained Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Unrestrained_Young_Man",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Unrestrained_Young_Man.wav"
+      }
+    },
+    "Chinese (Mandarin)_Mature_Woman": {
+      "gender": "female",
+      "description": "Mature Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Mature_Woman",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Mature_Woman.wav"
+      }
+    },
+    "Arrogant_Miss": {
+      "gender": "female",
+      "description": "Arrogant Miss",
+      "provider": "minimax",
+      "minimax_voice_id": "Arrogant_Miss",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Arrogant_Miss.wav"
+      }
+    },
+    "Robot_Armor": {
+      "gender": "neutral",
+      "description": "Robot Armor",
+      "provider": "minimax",
+      "minimax_voice_id": "Robot_Armor",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Robot_Armor.wav"
+      }
+    },
+    "Chinese (Mandarin)_Kind-hearted_Antie": {
+      "gender": "female",
+      "description": "Kind hearted Antie",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Kind-hearted_Antie",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Kind-hearted_Antie.wav"
+      }
+    },
+    "Chinese (Mandarin)_Refreshing_Young_Man": {
+      "gender": "male",
+      "description": "Refreshing Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Refreshing_Young_Man",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Refreshing_Young_Man.wav"
+      }
+    },
+    "Chinese (Mandarin)_HK_Flight_Attendant": {
+      "gender": "neutral",
+      "description": "HK Flight Attendant",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_HK_Flight_Attendant",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__HK_Flight_Attendant.wav"
+      }
+    },
+    "Chinese (Mandarin)_Humorous_Elder": {
+      "gender": "neutral",
+      "description": "Humorous Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Humorous_Elder",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Humorous_Elder.wav"
+      }
+    },
+    "Chinese (Mandarin)_Gentleman": {
+      "gender": "male",
+      "description": "Gentleman",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Gentleman",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Gentleman.wav"
+      }
+    },
+    "Chinese (Mandarin)_Warm_Bestie": {
+      "gender": "female",
+      "description": "Warm Bestie",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Warm_Bestie",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Warm_Bestie.wav"
+      }
+    },
+    "Chinese (Mandarin)_Stubborn_Friend": {
+      "gender": "neutral",
+      "description": "Stubborn Friend",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Stubborn_Friend",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Stubborn_Friend.wav"
+      }
+    },
+    "Chinese (Mandarin)_Sweet_Lady": {
+      "gender": "female",
+      "description": "Sweet Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Sweet_Lady",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Sweet_Lady.wav"
+      }
+    },
+    "Chinese (Mandarin)_Southern_Young_Man": {
+      "gender": "male",
+      "description": "Southern Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Southern_Young_Man",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Southern_Young_Man.wav"
+      }
+    },
+    "Chinese (Mandarin)_Wise_Women": {
+      "gender": "female",
+      "description": "Wise Women",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Wise_Women",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Wise_Women.wav"
+      }
+    },
+    "Chinese (Mandarin)_Gentle_Youth": {
+      "gender": "male",
+      "description": "Gentle Youth",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Gentle_Youth",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Gentle_Youth.wav"
+      }
+    },
+    "Chinese (Mandarin)_Warm_Girl": {
+      "gender": "female",
+      "description": "Warm Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Warm_Girl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Warm_Girl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Male_Announcer": {
+      "gender": "male",
+      "description": "Male Announcer",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Male_Announcer",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Male_Announcer.wav"
+      }
+    },
+    "Chinese (Mandarin)_Kind-hearted_Elder": {
+      "gender": "neutral",
+      "description": "Kind hearted Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Kind-hearted_Elder",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Kind-hearted_Elder.wav"
+      }
+    },
+    "Chinese (Mandarin)_Cute_Spirit": {
+      "gender": "neutral",
+      "description": "Cute Spirit",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Cute_Spirit",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Cute_Spirit.wav"
+      }
+    },
+    "Chinese (Mandarin)_Radio_Host": {
+      "gender": "neutral",
+      "description": "Radio Host",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Radio_Host",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Radio_Host.wav"
+      }
+    },
+    "Chinese (Mandarin)_Lyrical_Voice": {
+      "gender": "neutral",
+      "description": "Lyrical Voice",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Lyrical_Voice",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Lyrical_Voice.wav"
+      }
+    },
+    "Chinese (Mandarin)_Straightforward_Boy": {
+      "gender": "male",
+      "description": "Straightforward Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Straightforward_Boy",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Straightforward_Boy.wav"
+      }
+    },
+    "Chinese (Mandarin)_Sincere_Adult": {
+      "gender": "neutral",
+      "description": "Sincere Adult",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Sincere_Adult",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Sincere_Adult.wav"
+      }
+    },
+    "Chinese (Mandarin)_Gentle_Senior": {
+      "gender": "neutral",
+      "description": "Gentle Senior",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Gentle_Senior",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Gentle_Senior.wav"
+      }
+    },
+    "Chinese (Mandarin)_Crisp_Girl": {
+      "gender": "female",
+      "description": "Crisp Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Crisp_Girl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Crisp_Girl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Pure-hearted_Boy": {
+      "gender": "male",
+      "description": "Pure hearted Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Pure-hearted_Boy",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Pure-hearted_Boy.wav"
+      }
+    },
+    "Chinese (Mandarin)_Soft_Girl": {
+      "gender": "female",
+      "description": "Soft Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Soft_Girl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Soft_Girl.wav"
+      }
+    },
+    "Chinese (Mandarin)_IntellectualGirl": {
+      "gender": "female",
+      "description": "Intellectual Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_IntellectualGirl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__IntellectualGirl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Warm_HeartedGirl": {
+      "gender": "female",
+      "description": "Warm Hearted Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Warm_HeartedGirl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Warm_HeartedGirl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Laid_BackGirl": {
+      "gender": "female",
+      "description": "Laid Back Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Laid_BackGirl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Laid_BackGirl.wav"
+      }
+    },
+    "Chinese (Mandarin)_ExplorativeGirl": {
+      "gender": "female",
+      "description": "Explorative Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_ExplorativeGirl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__ExplorativeGirl.wav"
+      }
+    },
+    "Chinese (Mandarin)_Warm-HeartedAunt": {
+      "gender": "female",
+      "description": "Warm Hearted Aunt",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_Warm-HeartedAunt",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__Warm-HeartedAunt.wav"
+      }
+    },
+    "Chinese (Mandarin)_BashfulGirl": {
+      "gender": "female",
+      "description": "Bashful Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Chinese (Mandarin)_BashfulGirl",
+      "language_boost": "Chinese",
+      "emotion": "auto",
+      "files": {
+        "cmn": "minimax/cmn/Chinese__Mandarin__BashfulGirl.wav"
+      }
+    },
+    "Japanese_IntellectualSenior": {
+      "gender": "neutral",
+      "description": "Intellectual Senior",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_IntellectualSenior",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_IntellectualSenior.wav"
+      }
+    },
+    "Japanese_DecisivePrincess": {
+      "gender": "female",
+      "description": "Decisive Princess",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_DecisivePrincess",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_DecisivePrincess.wav"
+      }
+    },
+    "Japanese_LoyalKnight": {
+      "gender": "male",
+      "description": "Loyal Knight",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_LoyalKnight",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_LoyalKnight.wav"
+      }
+    },
+    "Japanese_DominantMan": {
+      "gender": "male",
+      "description": "Dominant Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_DominantMan",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_DominantMan.wav"
+      }
+    },
+    "Japanese_SeriousCommander": {
+      "gender": "male",
+      "description": "Serious Commander",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_SeriousCommander",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_SeriousCommander.wav"
+      }
+    },
+    "Japanese_ColdQueen": {
+      "gender": "female",
+      "description": "Cold Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_ColdQueen",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_ColdQueen.wav"
+      }
+    },
+    "Japanese_DependableWoman": {
+      "gender": "female",
+      "description": "Dependable Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_DependableWoman",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_DependableWoman.wav"
+      }
+    },
+    "Japanese_GentleButler": {
+      "gender": "male",
+      "description": "Gentle Butler",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_GentleButler",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_GentleButler.wav"
+      }
+    },
+    "Japanese_KindLady": {
+      "gender": "female",
+      "description": "Kind Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_KindLady",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_KindLady.wav"
+      }
+    },
+    "Japanese_CalmLady": {
+      "gender": "female",
+      "description": "Calm Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_CalmLady",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_CalmLady.wav"
+      }
+    },
+    "Japanese_OptimisticYouth": {
+      "gender": "male",
+      "description": "Optimistic Youth",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_OptimisticYouth",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_OptimisticYouth.wav"
+      }
+    },
+    "Japanese_GenerousIzakayaOwner": {
+      "gender": "neutral",
+      "description": "Generous Izakaya Owner",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_GenerousIzakayaOwner",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_GenerousIzakayaOwner.wav"
+      }
+    },
+    "Japanese_SportyStudent": {
+      "gender": "neutral",
+      "description": "Sporty Student",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_SportyStudent",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_SportyStudent.wav"
+      }
+    },
+    "Japanese_InnocentBoy": {
+      "gender": "male",
+      "description": "Innocent Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_InnocentBoy",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_InnocentBoy.wav"
+      }
+    },
+    "Japanese_GracefulMaiden": {
+      "gender": "female",
+      "description": "Graceful Maiden",
+      "provider": "minimax",
+      "minimax_voice_id": "Japanese_GracefulMaiden",
+      "language_boost": "Japanese",
+      "emotion": "auto",
+      "files": {
+        "ja": "minimax/ja/Japanese_GracefulMaiden.wav"
+      }
+    },
+    "Korean_SweetGirl": {
+      "gender": "female",
+      "description": "Sweet Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_SweetGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_SweetGirl.wav"
+      }
+    },
+    "Korean_CheerfulBoyfriend": {
+      "gender": "male",
+      "description": "Cheerful Boyfriend",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CheerfulBoyfriend",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CheerfulBoyfriend.wav"
+      }
+    },
+    "Korean_EnchantingSister": {
+      "gender": "female",
+      "description": "Enchanting Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_EnchantingSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_EnchantingSister.wav"
+      }
+    },
+    "Korean_ShyGirl": {
+      "gender": "female",
+      "description": "Shy Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ShyGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ShyGirl.wav"
+      }
+    },
+    "Korean_ReliableSister": {
+      "gender": "female",
+      "description": "Reliable Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ReliableSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ReliableSister.wav"
+      }
+    },
+    "Korean_StrictBoss": {
+      "gender": "neutral",
+      "description": "Strict Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_StrictBoss",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_StrictBoss.wav"
+      }
+    },
+    "Korean_SassyGirl": {
+      "gender": "female",
+      "description": "Sassy Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_SassyGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_SassyGirl.wav"
+      }
+    },
+    "Korean_ChildhoodFriendGirl": {
+      "gender": "female",
+      "description": "Childhood Friend Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ChildhoodFriendGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ChildhoodFriendGirl.wav"
+      }
+    },
+    "Korean_PlayboyCharmer": {
+      "gender": "male",
+      "description": "Playboy Charmer",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_PlayboyCharmer",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_PlayboyCharmer.wav"
+      }
+    },
+    "Korean_ElegantPrincess": {
+      "gender": "female",
+      "description": "Elegant Princess",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ElegantPrincess",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ElegantPrincess.wav"
+      }
+    },
+    "Korean_BraveFemaleWarrior": {
+      "gender": "female",
+      "description": "Brave Female Warrior",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_BraveFemaleWarrior",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_BraveFemaleWarrior.wav"
+      }
+    },
+    "Korean_BraveYouth": {
+      "gender": "male",
+      "description": "Brave Youth",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_BraveYouth",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_BraveYouth.wav"
+      }
+    },
+    "Korean_CalmLady": {
+      "gender": "female",
+      "description": "Calm Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CalmLady",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CalmLady.wav"
+      }
+    },
+    "Korean_EnthusiasticTeen": {
+      "gender": "neutral",
+      "description": "Enthusiastic Teen",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_EnthusiasticTeen",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_EnthusiasticTeen.wav"
+      }
+    },
+    "Korean_SoothingLady": {
+      "gender": "female",
+      "description": "Soothing Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_SoothingLady",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_SoothingLady.wav"
+      }
+    },
+    "Korean_IntellectualSenior": {
+      "gender": "neutral",
+      "description": "Intellectual Senior",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_IntellectualSenior",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_IntellectualSenior.wav"
+      }
+    },
+    "Korean_LonelyWarrior": {
+      "gender": "male",
+      "description": "Lonely Warrior",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_LonelyWarrior",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_LonelyWarrior.wav"
+      }
+    },
+    "Korean_MatureLady": {
+      "gender": "female",
+      "description": "Mature Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_MatureLady",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_MatureLady.wav"
+      }
+    },
+    "Korean_InnocentBoy": {
+      "gender": "male",
+      "description": "Innocent Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_InnocentBoy",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_InnocentBoy.wav"
+      }
+    },
+    "Korean_CharmingSister": {
+      "gender": "female",
+      "description": "Charming Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CharmingSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CharmingSister.wav"
+      }
+    },
+    "Korean_AthleticStudent": {
+      "gender": "neutral",
+      "description": "Athletic Student",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_AthleticStudent",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_AthleticStudent.wav"
+      }
+    },
+    "Korean_BraveAdventurer": {
+      "gender": "male",
+      "description": "Brave Adventurer",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_BraveAdventurer",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_BraveAdventurer.wav"
+      }
+    },
+    "Korean_CalmGentleman": {
+      "gender": "male",
+      "description": "Calm Gentleman",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CalmGentleman",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CalmGentleman.wav"
+      }
+    },
+    "Korean_WiseElf": {
+      "gender": "neutral",
+      "description": "Wise Elf",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_WiseElf",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_WiseElf.wav"
+      }
+    },
+    "Korean_CheerfulCoolJunior": {
+      "gender": "male",
+      "description": "Cheerful Cool Junior",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CheerfulCoolJunior",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CheerfulCoolJunior.wav"
+      }
+    },
+    "Korean_DecisiveQueen": {
+      "gender": "female",
+      "description": "Decisive Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_DecisiveQueen",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_DecisiveQueen.wav"
+      }
+    },
+    "Korean_ColdYoungMan": {
+      "gender": "male",
+      "description": "Cold Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ColdYoungMan",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ColdYoungMan.wav"
+      }
+    },
+    "Korean_MysteriousGirl": {
+      "gender": "female",
+      "description": "Mysterious Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_MysteriousGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_MysteriousGirl.wav"
+      }
+    },
+    "Korean_QuirkyGirl": {
+      "gender": "female",
+      "description": "Quirky Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_QuirkyGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_QuirkyGirl.wav"
+      }
+    },
+    "Korean_ConsiderateSenior": {
+      "gender": "neutral",
+      "description": "Considerate Senior",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ConsiderateSenior",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ConsiderateSenior.wav"
+      }
+    },
+    "Korean_CheerfulLittleSister": {
+      "gender": "female",
+      "description": "Cheerful Little Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CheerfulLittleSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CheerfulLittleSister.wav"
+      }
+    },
+    "Korean_DominantMan": {
+      "gender": "male",
+      "description": "Dominant Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_DominantMan",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_DominantMan.wav"
+      }
+    },
+    "Korean_AirheadedGirl": {
+      "gender": "female",
+      "description": "Airheaded Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_AirheadedGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_AirheadedGirl.wav"
+      }
+    },
+    "Korean_ReliableYouth": {
+      "gender": "male",
+      "description": "Reliable Youth",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ReliableYouth",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ReliableYouth.wav"
+      }
+    },
+    "Korean_FriendlyBigSister": {
+      "gender": "female",
+      "description": "Friendly Big Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_FriendlyBigSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_FriendlyBigSister.wav"
+      }
+    },
+    "Korean_GentleBoss": {
+      "gender": "neutral",
+      "description": "Gentle Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_GentleBoss",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_GentleBoss.wav"
+      }
+    },
+    "Korean_ColdGirl": {
+      "gender": "female",
+      "description": "Cold Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ColdGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ColdGirl.wav"
+      }
+    },
+    "Korean_HaughtyLady": {
+      "gender": "female",
+      "description": "Haughty Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_HaughtyLady",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_HaughtyLady.wav"
+      }
+    },
+    "Korean_CharmingElderSister": {
+      "gender": "female",
+      "description": "Charming Elder Sister",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CharmingElderSister",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CharmingElderSister.wav"
+      }
+    },
+    "Korean_IntellectualMan": {
+      "gender": "male",
+      "description": "Intellectual Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_IntellectualMan",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_IntellectualMan.wav"
+      }
+    },
+    "Korean_CaringWoman": {
+      "gender": "female",
+      "description": "Caring Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CaringWoman",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CaringWoman.wav"
+      }
+    },
+    "Korean_WiseTeacher": {
+      "gender": "neutral",
+      "description": "Wise Teacher",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_WiseTeacher",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_WiseTeacher.wav"
+      }
+    },
+    "Korean_ConfidentBoss": {
+      "gender": "neutral",
+      "description": "Confident Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ConfidentBoss",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ConfidentBoss.wav"
+      }
+    },
+    "Korean_AthleticGirl": {
+      "gender": "female",
+      "description": "Athletic Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_AthleticGirl",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_AthleticGirl.wav"
+      }
+    },
+    "Korean_PossessiveMan": {
+      "gender": "male",
+      "description": "Possessive Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_PossessiveMan",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_PossessiveMan.wav"
+      }
+    },
+    "Korean_GentleWoman": {
+      "gender": "female",
+      "description": "Gentle Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_GentleWoman",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_GentleWoman.wav"
+      }
+    },
+    "Korean_CockyGuy": {
+      "gender": "male",
+      "description": "Cocky Guy",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_CockyGuy",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_CockyGuy.wav"
+      }
+    },
+    "Korean_ThoughtfulWoman": {
+      "gender": "female",
+      "description": "Thoughtful Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_ThoughtfulWoman",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_ThoughtfulWoman.wav"
+      }
+    },
+    "Korean_OptimisticYouth": {
+      "gender": "male",
+      "description": "Optimistic Youth",
+      "provider": "minimax",
+      "minimax_voice_id": "Korean_OptimisticYouth",
+      "language_boost": "Korean",
+      "emotion": "auto",
+      "files": {
+        "ko": "minimax/ko/Korean_OptimisticYouth.wav"
+      }
+    },
+    "Spanish_SereneWoman": {
+      "gender": "female",
+      "description": "Serene Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SereneWoman",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SereneWoman.wav"
+      }
+    },
+    "Spanish_MaturePartner": {
+      "gender": "male",
+      "description": "Mature Partner",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_MaturePartner",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_MaturePartner.wav"
+      }
+    },
+    "Spanish_CaptivatingStoryteller": {
+      "gender": "neutral",
+      "description": "Captivating Storyteller",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_CaptivatingStoryteller",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_CaptivatingStoryteller.wav"
+      }
+    },
+    "Spanish_Narrator": {
+      "gender": "neutral",
+      "description": "Narrator",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Narrator",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Narrator.wav"
+      }
+    },
+    "Spanish_WiseScholar": {
+      "gender": "neutral",
+      "description": "Wise Scholar",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_WiseScholar",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_WiseScholar.wav"
+      }
+    },
+    "Spanish_Kind-heartedGirl": {
+      "gender": "female",
+      "description": "Kind hearted Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Kind-heartedGirl",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Kind-heartedGirl.wav"
+      }
+    },
+    "Spanish_DeterminedManager": {
+      "gender": "male",
+      "description": "Determined Manager",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_DeterminedManager",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_DeterminedManager.wav"
+      }
+    },
+    "Spanish_BossyLeader": {
+      "gender": "neutral",
+      "description": "Bossy Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_BossyLeader",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_BossyLeader.wav"
+      }
+    },
+    "Spanish_ReservedYoungMan": {
+      "gender": "male",
+      "description": "Reserved Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ReservedYoungMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ReservedYoungMan.wav"
+      }
+    },
+    "Spanish_ConfidentWoman": {
+      "gender": "female",
+      "description": "Confident Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ConfidentWoman",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ConfidentWoman.wav"
+      }
+    },
+    "Spanish_ThoughtfulMan": {
+      "gender": "male",
+      "description": "Thoughtful Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ThoughtfulMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ThoughtfulMan.wav"
+      }
+    },
+    "Spanish_Strong-WilledBoy": {
+      "gender": "male",
+      "description": "Strong Willed Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Strong-WilledBoy",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Strong-WilledBoy.wav"
+      }
+    },
+    "Spanish_SophisticatedLady": {
+      "gender": "female",
+      "description": "Sophisticated Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SophisticatedLady",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SophisticatedLady.wav"
+      }
+    },
+    "Spanish_RationalMan": {
+      "gender": "male",
+      "description": "Rational Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_RationalMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_RationalMan.wav"
+      }
+    },
+    "Spanish_AnimeCharacter": {
+      "gender": "neutral",
+      "description": "Anime Character",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_AnimeCharacter",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_AnimeCharacter.wav"
+      }
+    },
+    "Spanish_Deep-tonedMan": {
+      "gender": "male",
+      "description": "Deep toned Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Deep-tonedMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Deep-tonedMan.wav"
+      }
+    },
+    "Spanish_Fussyhostess": {
+      "gender": "female",
+      "description": "Fussyhostess",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Fussyhostess",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Fussyhostess.wav"
+      }
+    },
+    "Spanish_SincereTeen": {
+      "gender": "neutral",
+      "description": "Sincere Teen",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SincereTeen",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SincereTeen.wav"
+      }
+    },
+    "Spanish_FrankLady": {
+      "gender": "female",
+      "description": "Frank Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_FrankLady",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_FrankLady.wav"
+      }
+    },
+    "Spanish_Comedian": {
+      "gender": "neutral",
+      "description": "Comedian",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Comedian",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Comedian.wav"
+      }
+    },
+    "Spanish_Debator": {
+      "gender": "neutral",
+      "description": "Debator",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Debator",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Debator.wav"
+      }
+    },
+    "Spanish_ToughBoss": {
+      "gender": "neutral",
+      "description": "Tough Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ToughBoss",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ToughBoss.wav"
+      }
+    },
+    "Spanish_Wiselady": {
+      "gender": "female",
+      "description": "Wiselady",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Wiselady",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Wiselady.wav"
+      }
+    },
+    "Spanish_Steadymentor": {
+      "gender": "male",
+      "description": "Steadymentor",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Steadymentor",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Steadymentor.wav"
+      }
+    },
+    "Spanish_Jovialman": {
+      "gender": "male",
+      "description": "Jovialman",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Jovialman",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Jovialman.wav"
+      }
+    },
+    "Spanish_SantaClaus": {
+      "gender": "male",
+      "description": "Santa Claus",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SantaClaus",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SantaClaus.wav"
+      }
+    },
+    "Spanish_Rudolph": {
+      "gender": "male",
+      "description": "Rudolph",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Rudolph",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Rudolph.wav"
+      }
+    },
+    "Spanish_Intonategirl": {
+      "gender": "female",
+      "description": "Intonategirl",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Intonategirl",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Intonategirl.wav"
+      }
+    },
+    "Spanish_Arnold": {
+      "gender": "male",
+      "description": "Arnold",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Arnold",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Arnold.wav"
+      }
+    },
+    "Spanish_Ghost": {
+      "gender": "neutral",
+      "description": "Ghost",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_Ghost",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_Ghost.wav"
+      }
+    },
+    "Spanish_HumorousElder": {
+      "gender": "neutral",
+      "description": "Humorous Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_HumorousElder",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_HumorousElder.wav"
+      }
+    },
+    "Spanish_EnergeticBoy": {
+      "gender": "male",
+      "description": "Energetic Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_EnergeticBoy",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_EnergeticBoy.wav"
+      }
+    },
+    "Spanish_WhimsicalGirl": {
+      "gender": "female",
+      "description": "Whimsical Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_WhimsicalGirl",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_WhimsicalGirl.wav"
+      }
+    },
+    "Spanish_StrictBoss": {
+      "gender": "neutral",
+      "description": "Strict Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_StrictBoss",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_StrictBoss.wav"
+      }
+    },
+    "Spanish_ReliableMan": {
+      "gender": "male",
+      "description": "Reliable Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ReliableMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ReliableMan.wav"
+      }
+    },
+    "Spanish_SereneElder": {
+      "gender": "neutral",
+      "description": "Serene Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SereneElder",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SereneElder.wav"
+      }
+    },
+    "Spanish_AngryMan": {
+      "gender": "male",
+      "description": "Angry Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_AngryMan",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_AngryMan.wav"
+      }
+    },
+    "Spanish_AssertiveQueen": {
+      "gender": "female",
+      "description": "Assertive Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_AssertiveQueen",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_AssertiveQueen.wav"
+      }
+    },
+    "Spanish_CaringGirlfriend": {
+      "gender": "female",
+      "description": "Caring Girlfriend",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_CaringGirlfriend",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_CaringGirlfriend.wav"
+      }
+    },
+    "Spanish_PowerfulSoldier": {
+      "gender": "male",
+      "description": "Powerful Soldier",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_PowerfulSoldier",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_PowerfulSoldier.wav"
+      }
+    },
+    "Spanish_PassionateWarrior": {
+      "gender": "male",
+      "description": "Passionate Warrior",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_PassionateWarrior",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_PassionateWarrior.wav"
+      }
+    },
+    "Spanish_ChattyGirl": {
+      "gender": "female",
+      "description": "Chatty Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ChattyGirl",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ChattyGirl.wav"
+      }
+    },
+    "Spanish_RomanticHusband": {
+      "gender": "male",
+      "description": "Romantic Husband",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_RomanticHusband",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_RomanticHusband.wav"
+      }
+    },
+    "Spanish_CompellingGirl": {
+      "gender": "female",
+      "description": "Compelling Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_CompellingGirl",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_CompellingGirl.wav"
+      }
+    },
+    "Spanish_PowerfulVeteran": {
+      "gender": "male",
+      "description": "Powerful Veteran",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_PowerfulVeteran",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_PowerfulVeteran.wav"
+      }
+    },
+    "Spanish_SensibleManager": {
+      "gender": "male",
+      "description": "Sensible Manager",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_SensibleManager",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_SensibleManager.wav"
+      }
+    },
+    "Spanish_ThoughtfulLady": {
+      "gender": "female",
+      "description": "Thoughtful Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Spanish_ThoughtfulLady",
+      "language_boost": "Spanish",
+      "emotion": "auto",
+      "files": {
+        "es": "minimax/es/Spanish_ThoughtfulLady.wav"
+      }
+    },
+    "Portuguese_SentimentalLady": {
+      "gender": "female",
+      "description": "Sentimental Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SentimentalLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SentimentalLady.wav"
+      }
+    },
+    "Portuguese_BossyLeader": {
+      "gender": "neutral",
+      "description": "Bossy Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_BossyLeader",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_BossyLeader.wav"
+      }
+    },
+    "Portuguese_Wiselady": {
+      "gender": "female",
+      "description": "Wiselady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Wiselady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Wiselady.wav"
+      }
+    },
+    "Portuguese_Strong-WilledBoy": {
+      "gender": "male",
+      "description": "Strong Willed Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Strong-WilledBoy",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Strong-WilledBoy.wav"
+      }
+    },
+    "Portuguese_Deep-VoicedGentleman": {
+      "gender": "male",
+      "description": "Deep Voiced Gentleman",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Deep-VoicedGentleman",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Deep-VoicedGentleman.wav"
+      }
+    },
+    "Portuguese_UpsetGirl": {
+      "gender": "female",
+      "description": "Upset Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_UpsetGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_UpsetGirl.wav"
+      }
+    },
+    "Portuguese_PassionateWarrior": {
+      "gender": "male",
+      "description": "Passionate Warrior",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_PassionateWarrior",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_PassionateWarrior.wav"
+      }
+    },
+    "Portuguese_AnimeCharacter": {
+      "gender": "neutral",
+      "description": "Anime Character",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_AnimeCharacter",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_AnimeCharacter.wav"
+      }
+    },
+    "Portuguese_ConfidentWoman": {
+      "gender": "female",
+      "description": "Confident Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ConfidentWoman",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ConfidentWoman.wav"
+      }
+    },
+    "Portuguese_AngryMan": {
+      "gender": "male",
+      "description": "Angry Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_AngryMan",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_AngryMan.wav"
+      }
+    },
+    "Portuguese_CaptivatingStoryteller": {
+      "gender": "neutral",
+      "description": "Captivating Storyteller",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CaptivatingStoryteller",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CaptivatingStoryteller.wav"
+      }
+    },
+    "Portuguese_Godfather": {
+      "gender": "male",
+      "description": "Godfather",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Godfather",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Godfather.wav"
+      }
+    },
+    "Portuguese_ReservedYoungMan": {
+      "gender": "male",
+      "description": "Reserved Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ReservedYoungMan",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ReservedYoungMan.wav"
+      }
+    },
+    "Portuguese_SmartYoungGirl": {
+      "gender": "female",
+      "description": "Smart Young Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SmartYoungGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SmartYoungGirl.wav"
+      }
+    },
+    "Portuguese_Kind-heartedGirl": {
+      "gender": "female",
+      "description": "Kind hearted Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Kind-heartedGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Kind-heartedGirl.wav"
+      }
+    },
+    "Portuguese_Pompouslady": {
+      "gender": "female",
+      "description": "Pompouslady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Pompouslady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Pompouslady.wav"
+      }
+    },
+    "Portuguese_Grinch": {
+      "gender": "male",
+      "description": "Grinch",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Grinch",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Grinch.wav"
+      }
+    },
+    "Portuguese_Debator": {
+      "gender": "neutral",
+      "description": "Debator",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Debator",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Debator.wav"
+      }
+    },
+    "Portuguese_SweetGirl": {
+      "gender": "female",
+      "description": "Sweet Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SweetGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SweetGirl.wav"
+      }
+    },
+    "Portuguese_AttractiveGirl": {
+      "gender": "female",
+      "description": "Attractive Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_AttractiveGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_AttractiveGirl.wav"
+      }
+    },
+    "Portuguese_ThoughtfulMan": {
+      "gender": "male",
+      "description": "Thoughtful Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ThoughtfulMan",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ThoughtfulMan.wav"
+      }
+    },
+    "Portuguese_PlayfulGirl": {
+      "gender": "female",
+      "description": "Playful Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_PlayfulGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_PlayfulGirl.wav"
+      }
+    },
+    "Portuguese_GorgeousLady": {
+      "gender": "female",
+      "description": "Gorgeous Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_GorgeousLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_GorgeousLady.wav"
+      }
+    },
+    "Portuguese_LovelyLady": {
+      "gender": "female",
+      "description": "Lovely Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_LovelyLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_LovelyLady.wav"
+      }
+    },
+    "Portuguese_SereneWoman": {
+      "gender": "female",
+      "description": "Serene Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SereneWoman",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SereneWoman.wav"
+      }
+    },
+    "Portuguese_SadTeen": {
+      "gender": "neutral",
+      "description": "Sad Teen",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SadTeen",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SadTeen.wav"
+      }
+    },
+    "Portuguese_MaturePartner": {
+      "gender": "male",
+      "description": "Mature Partner",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_MaturePartner",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_MaturePartner.wav"
+      }
+    },
+    "Portuguese_Comedian": {
+      "gender": "neutral",
+      "description": "Comedian",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Comedian",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Comedian.wav"
+      }
+    },
+    "Portuguese_NaughtySchoolgirl": {
+      "gender": "female",
+      "description": "Naughty Schoolgirl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_NaughtySchoolgirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_NaughtySchoolgirl.wav"
+      }
+    },
+    "Portuguese_Narrator": {
+      "gender": "neutral",
+      "description": "Narrator",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Narrator",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Narrator.wav"
+      }
+    },
+    "Portuguese_ToughBoss": {
+      "gender": "neutral",
+      "description": "Tough Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ToughBoss",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ToughBoss.wav"
+      }
+    },
+    "Portuguese_Fussyhostess": {
+      "gender": "female",
+      "description": "Fussyhostess",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Fussyhostess",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Fussyhostess.wav"
+      }
+    },
+    "Portuguese_Dramatist": {
+      "gender": "neutral",
+      "description": "Dramatist",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Dramatist",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Dramatist.wav"
+      }
+    },
+    "Portuguese_Steadymentor": {
+      "gender": "male",
+      "description": "Steadymentor",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Steadymentor",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Steadymentor.wav"
+      }
+    },
+    "Portuguese_Jovialman": {
+      "gender": "male",
+      "description": "Jovialman",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Jovialman",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Jovialman.wav"
+      }
+    },
+    "Portuguese_CharmingQueen": {
+      "gender": "female",
+      "description": "Charming Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CharmingQueen",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CharmingQueen.wav"
+      }
+    },
+    "Portuguese_SantaClaus": {
+      "gender": "male",
+      "description": "Santa Claus",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SantaClaus",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SantaClaus.wav"
+      }
+    },
+    "Portuguese_Rudolph": {
+      "gender": "male",
+      "description": "Rudolph",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Rudolph",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Rudolph.wav"
+      }
+    },
+    "Portuguese_Arnold": {
+      "gender": "male",
+      "description": "Arnold",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Arnold",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Arnold.wav"
+      }
+    },
+    "Portuguese_CharmingSanta": {
+      "gender": "female",
+      "description": "Charming Santa",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CharmingSanta",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CharmingSanta.wav"
+      }
+    },
+    "Portuguese_CharmingLady": {
+      "gender": "female",
+      "description": "Charming Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CharmingLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CharmingLady.wav"
+      }
+    },
+    "Portuguese_Ghost": {
+      "gender": "neutral",
+      "description": "Ghost",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Ghost",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Ghost.wav"
+      }
+    },
+    "Portuguese_HumorousElder": {
+      "gender": "neutral",
+      "description": "Humorous Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_HumorousElder",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_HumorousElder.wav"
+      }
+    },
+    "Portuguese_CalmLeader": {
+      "gender": "neutral",
+      "description": "Calm Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CalmLeader",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CalmLeader.wav"
+      }
+    },
+    "Portuguese_GentleTeacher": {
+      "gender": "neutral",
+      "description": "Gentle Teacher",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_GentleTeacher",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_GentleTeacher.wav"
+      }
+    },
+    "Portuguese_EnergeticBoy": {
+      "gender": "male",
+      "description": "Energetic Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_EnergeticBoy",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_EnergeticBoy.wav"
+      }
+    },
+    "Portuguese_ReliableMan": {
+      "gender": "male",
+      "description": "Reliable Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ReliableMan",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ReliableMan.wav"
+      }
+    },
+    "Portuguese_SereneElder": {
+      "gender": "neutral",
+      "description": "Serene Elder",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SereneElder",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SereneElder.wav"
+      }
+    },
+    "Portuguese_GrimReaper": {
+      "gender": "neutral",
+      "description": "Grim Reaper",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_GrimReaper",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_GrimReaper.wav"
+      }
+    },
+    "Portuguese_AssertiveQueen": {
+      "gender": "female",
+      "description": "Assertive Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_AssertiveQueen",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_AssertiveQueen.wav"
+      }
+    },
+    "Portuguese_WhimsicalGirl": {
+      "gender": "female",
+      "description": "Whimsical Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_WhimsicalGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_WhimsicalGirl.wav"
+      }
+    },
+    "Portuguese_StressedLady": {
+      "gender": "female",
+      "description": "Stressed Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_StressedLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_StressedLady.wav"
+      }
+    },
+    "Portuguese_FriendlyNeighbor": {
+      "gender": "neutral",
+      "description": "Friendly Neighbor",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_FriendlyNeighbor",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_FriendlyNeighbor.wav"
+      }
+    },
+    "Portuguese_CaringGirlfriend": {
+      "gender": "female",
+      "description": "Caring Girlfriend",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CaringGirlfriend",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CaringGirlfriend.wav"
+      }
+    },
+    "Portuguese_PowerfulSoldier": {
+      "gender": "male",
+      "description": "Powerful Soldier",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_PowerfulSoldier",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_PowerfulSoldier.wav"
+      }
+    },
+    "Portuguese_FascinatingBoy": {
+      "gender": "male",
+      "description": "Fascinating Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_FascinatingBoy",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_FascinatingBoy.wav"
+      }
+    },
+    "Portuguese_RomanticHusband": {
+      "gender": "male",
+      "description": "Romantic Husband",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_RomanticHusband",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_RomanticHusband.wav"
+      }
+    },
+    "Portuguese_StrictBoss": {
+      "gender": "neutral",
+      "description": "Strict Boss",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_StrictBoss",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_StrictBoss.wav"
+      }
+    },
+    "Portuguese_InspiringLady": {
+      "gender": "female",
+      "description": "Inspiring Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_InspiringLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_InspiringLady.wav"
+      }
+    },
+    "Portuguese_PlayfulSpirit": {
+      "gender": "neutral",
+      "description": "Playful Spirit",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_PlayfulSpirit",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_PlayfulSpirit.wav"
+      }
+    },
+    "Portuguese_ElegantGirl": {
+      "gender": "female",
+      "description": "Elegant Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ElegantGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ElegantGirl.wav"
+      }
+    },
+    "Portuguese_CompellingGirl": {
+      "gender": "female",
+      "description": "Compelling Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_CompellingGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_CompellingGirl.wav"
+      }
+    },
+    "Portuguese_PowerfulVeteran": {
+      "gender": "male",
+      "description": "Powerful Veteran",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_PowerfulVeteran",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_PowerfulVeteran.wav"
+      }
+    },
+    "Portuguese_SensibleManager": {
+      "gender": "male",
+      "description": "Sensible Manager",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_SensibleManager",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_SensibleManager.wav"
+      }
+    },
+    "Portuguese_ThoughtfulLady": {
+      "gender": "female",
+      "description": "Thoughtful Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ThoughtfulLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ThoughtfulLady.wav"
+      }
+    },
+    "Portuguese_TheatricalActor": {
+      "gender": "neutral",
+      "description": "Theatrical Actor",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_TheatricalActor",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_TheatricalActor.wav"
+      }
+    },
+    "Portuguese_FragileBoy": {
+      "gender": "male",
+      "description": "Fragile Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_FragileBoy",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_FragileBoy.wav"
+      }
+    },
+    "Portuguese_ChattyGirl": {
+      "gender": "female",
+      "description": "Chatty Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_ChattyGirl",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_ChattyGirl.wav"
+      }
+    },
+    "Portuguese_Conscientiousinstructor": {
+      "gender": "neutral",
+      "description": "Conscientiousinstructor",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_Conscientiousinstructor",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_Conscientiousinstructor.wav"
+      }
+    },
+    "Portuguese_RationalMan": {
+      "gender": "male",
+      "description": "Rational Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_RationalMan",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_RationalMan.wav"
+      }
+    },
+    "Portuguese_WiseScholar": {
+      "gender": "neutral",
+      "description": "Wise Scholar",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_WiseScholar",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_WiseScholar.wav"
+      }
+    },
+    "Portuguese_FrankLady": {
+      "gender": "female",
+      "description": "Frank Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_FrankLady",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_FrankLady.wav"
+      }
+    },
+    "Portuguese_DeterminedManager": {
+      "gender": "male",
+      "description": "Determined Manager",
+      "provider": "minimax",
+      "minimax_voice_id": "Portuguese_DeterminedManager",
+      "language_boost": "Portuguese",
+      "emotion": "auto",
+      "files": {
+        "pt": "minimax/pt/Portuguese_DeterminedManager.wav"
+      }
+    },
+    "French_Male_Speech_New": {
+      "gender": "male",
+      "description": "Male Speech New",
+      "provider": "minimax",
+      "minimax_voice_id": "French_Male_Speech_New",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_Male_Speech_New.wav"
+      }
+    },
+    "French_Female_News Anchor": {
+      "gender": "female",
+      "description": "Female News Anchor",
+      "provider": "minimax",
+      "minimax_voice_id": "French_Female_News Anchor",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_Female_News_Anchor.wav"
+      }
+    },
+    "French_CasualMan": {
+      "gender": "male",
+      "description": "Casual Man",
+      "provider": "minimax",
+      "minimax_voice_id": "French_CasualMan",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_CasualMan.wav"
+      }
+    },
+    "French_MovieLeadFemale": {
+      "gender": "female",
+      "description": "Movie Lead Female",
+      "provider": "minimax",
+      "minimax_voice_id": "French_MovieLeadFemale",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_MovieLeadFemale.wav"
+      }
+    },
+    "French_FemaleAnchor": {
+      "gender": "female",
+      "description": "Female Anchor",
+      "provider": "minimax",
+      "minimax_voice_id": "French_FemaleAnchor",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_FemaleAnchor.wav"
+      }
+    },
+    "French_MaleNarrator": {
+      "gender": "male",
+      "description": "Male Narrator",
+      "provider": "minimax",
+      "minimax_voice_id": "French_MaleNarrator",
+      "language_boost": "French",
+      "emotion": "auto",
+      "files": {
+        "fr": "minimax/fr/French_MaleNarrator.wav"
+      }
+    },
+    "Indonesian_SweetGirl": {
+      "gender": "female",
+      "description": "Sweet Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_SweetGirl",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_SweetGirl.wav"
+      }
+    },
+    "Indonesian_ReservedYoungMan": {
+      "gender": "male",
+      "description": "Reserved Young Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_ReservedYoungMan",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_ReservedYoungMan.wav"
+      }
+    },
+    "Indonesian_CharmingGirl": {
+      "gender": "female",
+      "description": "Charming Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_CharmingGirl",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_CharmingGirl.wav"
+      }
+    },
+    "Indonesian_CalmWoman": {
+      "gender": "female",
+      "description": "Calm Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_CalmWoman",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_CalmWoman.wav"
+      }
+    },
+    "Indonesian_ConfidentWoman": {
+      "gender": "female",
+      "description": "Confident Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_ConfidentWoman",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_ConfidentWoman.wav"
+      }
+    },
+    "Indonesian_CaringMan": {
+      "gender": "male",
+      "description": "Caring Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_CaringMan",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_CaringMan.wav"
+      }
+    },
+    "Indonesian_BossyLeader": {
+      "gender": "neutral",
+      "description": "Bossy Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_BossyLeader",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_BossyLeader.wav"
+      }
+    },
+    "Indonesian_DeterminedBoy": {
+      "gender": "male",
+      "description": "Determined Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_DeterminedBoy",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_DeterminedBoy.wav"
+      }
+    },
+    "Indonesian_GentleGirl": {
+      "gender": "female",
+      "description": "Gentle Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Indonesian_GentleGirl",
+      "language_boost": "Indonesian",
+      "emotion": "auto",
+      "files": {
+        "id": "minimax/id/Indonesian_GentleGirl.wav"
+      }
+    },
+    "German_FriendlyMan": {
+      "gender": "male",
+      "description": "Friendly Man",
+      "provider": "minimax",
+      "minimax_voice_id": "German_FriendlyMan",
+      "language_boost": "German",
+      "emotion": "auto",
+      "files": {
+        "de": "minimax/de/German_FriendlyMan.wav"
+      }
+    },
+    "German_SweetLady": {
+      "gender": "female",
+      "description": "Sweet Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "German_SweetLady",
+      "language_boost": "German",
+      "emotion": "auto",
+      "files": {
+        "de": "minimax/de/German_SweetLady.wav"
+      }
+    },
+    "German_PlayfulMan": {
+      "gender": "male",
+      "description": "Playful Man",
+      "provider": "minimax",
+      "minimax_voice_id": "German_PlayfulMan",
+      "language_boost": "German",
+      "emotion": "auto",
+      "files": {
+        "de": "minimax/de/German_PlayfulMan.wav"
+      }
+    },
+    "Russian_HandsomeChildhoodFriend": {
+      "gender": "neutral",
+      "description": "Handsome Childhood Friend",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_HandsomeChildhoodFriend",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_HandsomeChildhoodFriend.wav"
+      }
+    },
+    "Russian_BrightHeroine": {
+      "gender": "female",
+      "description": "Bright Heroine",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_BrightHeroine",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_BrightHeroine.wav"
+      }
+    },
+    "Russian_AmbitiousWoman": {
+      "gender": "female",
+      "description": "Ambitious Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_AmbitiousWoman",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_AmbitiousWoman.wav"
+      }
+    },
+    "Russian_ReliableMan": {
+      "gender": "male",
+      "description": "Reliable Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_ReliableMan",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_ReliableMan.wav"
+      }
+    },
+    "Russian_CrazyQueen": {
+      "gender": "female",
+      "description": "Crazy Queen",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_CrazyQueen",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_CrazyQueen.wav"
+      }
+    },
+    "Russian_PessimisticGirl": {
+      "gender": "female",
+      "description": "Pessimistic Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_PessimisticGirl",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_PessimisticGirl.wav"
+      }
+    },
+    "Russian_AttractiveGuy": {
+      "gender": "male",
+      "description": "Attractive Guy",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_AttractiveGuy",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_AttractiveGuy.wav"
+      }
+    },
+    "Russian_Bad-temperedBoy": {
+      "gender": "male",
+      "description": "Bad tempered Boy",
+      "provider": "minimax",
+      "minimax_voice_id": "Russian_Bad-temperedBoy",
+      "language_boost": "Russian",
+      "emotion": "auto",
+      "files": {
+        "ru": "minimax/ru/Russian_Bad-temperedBoy.wav"
+      }
+    },
+    "Italian_BraveHeroine": {
+      "gender": "female",
+      "description": "Brave Heroine",
+      "provider": "minimax",
+      "minimax_voice_id": "Italian_BraveHeroine",
+      "language_boost": "Italian",
+      "emotion": "auto",
+      "files": {
+        "it": "minimax/it/Italian_BraveHeroine.wav"
+      }
+    },
+    "Italian_Narrator": {
+      "gender": "neutral",
+      "description": "Narrator",
+      "provider": "minimax",
+      "minimax_voice_id": "Italian_Narrator",
+      "language_boost": "Italian",
+      "emotion": "auto",
+      "files": {
+        "it": "minimax/it/Italian_Narrator.wav"
+      }
+    },
+    "Italian_WanderingSorcerer": {
+      "gender": "male",
+      "description": "Wandering Sorcerer",
+      "provider": "minimax",
+      "minimax_voice_id": "Italian_WanderingSorcerer",
+      "language_boost": "Italian",
+      "emotion": "auto",
+      "files": {
+        "it": "minimax/it/Italian_WanderingSorcerer.wav"
+      }
+    },
+    "Italian_DiligentLeader": {
+      "gender": "neutral",
+      "description": "Diligent Leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Italian_DiligentLeader",
+      "language_boost": "Italian",
+      "emotion": "auto",
+      "files": {
+        "it": "minimax/it/Italian_DiligentLeader.wav"
+      }
+    },
+    "Dutch_kindhearted_girl": {
+      "gender": "female",
+      "description": "kindhearted girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Dutch_kindhearted_girl",
+      "language_boost": "Dutch",
+      "emotion": "auto",
+      "files": {
+        "nl": "minimax/nl/Dutch_kindhearted_girl.wav"
+      }
+    },
+    "Dutch_bossy_leader": {
+      "gender": "neutral",
+      "description": "bossy leader",
+      "provider": "minimax",
+      "minimax_voice_id": "Dutch_bossy_leader",
+      "language_boost": "Dutch",
+      "emotion": "auto",
+      "files": {
+        "nl": "minimax/nl/Dutch_bossy_leader.wav"
+      }
+    },
+    "Vietnamese_kindhearted_girl": {
+      "gender": "female",
+      "description": "kindhearted girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Vietnamese_kindhearted_girl",
+      "language_boost": "Vietnamese",
+      "emotion": "auto",
+      "files": {
+        "vi": "minimax/vi/Vietnamese_kindhearted_girl.wav"
+      }
+    },
+    "Arabic_CalmWoman": {
+      "gender": "female",
+      "description": "Calm Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Arabic_CalmWoman",
+      "language_boost": "Arabic",
+      "emotion": "auto",
+      "files": {
+        "ar": "minimax/ar/Arabic_CalmWoman.wav"
+      }
+    },
+    "Arabic_FriendlyGuy": {
+      "gender": "male",
+      "description": "Friendly Guy",
+      "provider": "minimax",
+      "minimax_voice_id": "Arabic_FriendlyGuy",
+      "language_boost": "Arabic",
+      "emotion": "auto",
+      "files": {
+        "ar": "minimax/ar/Arabic_FriendlyGuy.wav"
+      }
+    },
+    "Turkish_CalmWoman": {
+      "gender": "female",
+      "description": "Calm Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Turkish_CalmWoman",
+      "language_boost": "Turkish",
+      "emotion": "auto",
+      "files": {
+        "tr": "minimax/tr/Turkish_CalmWoman.wav"
+      }
+    },
+    "Turkish_Trustworthyman": {
+      "gender": "male",
+      "description": "Trustworthyman",
+      "provider": "minimax",
+      "minimax_voice_id": "Turkish_Trustworthyman",
+      "language_boost": "Turkish",
+      "emotion": "auto",
+      "files": {
+        "tr": "minimax/tr/Turkish_Trustworthyman.wav"
+      }
+    },
+    "Ukrainian_CalmWoman": {
+      "gender": "female",
+      "description": "Calm Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Ukrainian_CalmWoman",
+      "language_boost": "Ukrainian",
+      "emotion": "auto",
+      "files": {
+        "uk": "minimax/uk/Ukrainian_CalmWoman.wav"
+      }
     }
   }
 }

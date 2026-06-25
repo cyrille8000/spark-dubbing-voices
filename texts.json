@@ -1367,5 +1367,893 @@
     "ca": "Hola. Sóc l'Ash, una veu masculina calmada i mesurada, amb un to ferm i reflexiu. M'adapto bé a documentals, explicacions pensades i qualsevol contingut que es beneficiï d'una entrega serena i conscient, sense pressa innecessària.",
     "ta": "வணக்கம். நான் Ash, அமைதியான மற்றும் மிதமான ஆண் குரல், நிலையான மற்றும் சிந்தனைமிக்க தொனியுடன். ஆவணப்படங்கள், கவனமாக விளக்கும் வீடியோக்கள், மற்றும் தேவையற்ற அவசரம் இல்லாமல் அமைதியான, விழிப்புணர்வு கொண்ட வழங்கலினால் பயன் பெறும் எந்த உள்ளடக்கத்திற்கும் நான் பொருந்துகிறேன்.",
     "af": "Hallo. Ek is Ash, 'n kalm en gemete manlike stem met 'n stewige, nadenkende toon. Ek pas goed by dokumentêre programme, deurdagte verduidelikingsvideo's en enige inhoud wat baat by 'n bedaarde, bedagsame aflewering, vry van onnodige haas."
+  },
+  "English_Trustworth_Man": {
+    "en": "You have my word on this, and I promise I'll be right here every step of the way."
+  },
+  "English_Aussie_Bloke": {
+    "en": "No worries, mate, chuck us the keys and we'll have this sorted before lunch, easy as that."
+  },
+  "English_CalmWoman": {
+    "en": "Take a slow, deep breath with me now, and let your shoulders settle gently down."
+  },
+  "English_UpsetGirl": {
+    "en": "I really thought you'd remember today, and honestly it just hurts that you forgot again."
+  },
+  "English_Gentle-voiced_man": {
+    "en": "It's alright, you can rest now; everything you needed to do today is already finished."
+  },
+  "English_Whispering_girl": {
+    "en": "Come a little closer, I have a secret, but you mustn't tell another living soul."
+  },
+  "English_Diligent_Man": {
+    "en": "I've checked every figure twice and filed each report, so we're fully ready for tomorrow's meeting."
+  },
+  "English_Graceful_Lady": {
+    "en": "Do come in and make yourself comfortable; I've been so looking forward to your visit all week."
+  },
+  "English_ReservedYoungMan": {
+    "en": "I'd rather not say too much, but I think the plan could work if we're careful."
+  },
+  "English_PlayfulGirl": {
+    "en": "Race you to the swings, and whoever loses has to buy the biggest ice cream cone ever!"
+  },
+  "English_ManWithDeepVoice": {
+    "en": "The road ahead is long and the night is cold, yet we press onward without fear."
+  },
+  "English_MaturePartner": {
+    "en": "We've built something good together over the years, and I wouldn't trade a single moment of it."
+  },
+  "English_FriendlyPerson": {
+    "en": "Hey, so glad you stopped by; grab a seat and tell me all about your day."
+  },
+  "English_MatureBoss": {
+    "en": "Good work this quarter, everyone; now let's stay focused and finish the project strong together."
+  },
+  "English_Debator": {
+    "en": "With respect, the evidence simply doesn't support that claim, and I'm happy to explain exactly why."
+  },
+  "English_LovelyGirl": {
+    "en": "You always know how to make me smile, even on the rainiest, gloomiest of mornings."
+  },
+  "English_Steadymentor": {
+    "en": "Mistakes are part of learning, so take your time, trust the process, and keep moving forward."
+  },
+  "English_Deep-VoicedGentleman": {
+    "en": "Allow me to offer you my seat; a long journey is far better shared with good company."
+  },
+  "English_Wiselady": {
+    "en": "I've seen many seasons come and go, and patience, my dear, is the truest kind of strength."
+  },
+  "English_CaptivatingStoryteller": {
+    "en": "Once, beyond the silver mountains, a small lantern flickered, and that tiny flame changed everything."
+  },
+  "English_DecentYoungMan": {
+    "en": "Let me carry those bags for you; it's no trouble at all, and you've had a long day."
+  },
+  "English_SentimentalLady": {
+    "en": "Whenever I hear that old song, I think of summers we'll never quite get back again."
+  },
+  "English_ImposingManner": {
+    "en": "Stand aside and listen closely, because I will not repeat myself a second time today."
+  },
+  "English_SadTeen": {
+    "en": "Nobody really gets it, you know; sometimes I just want to disappear for a little while."
+  },
+  "English_PassionateWarrior": {
+    "en": "Raise your shields and hold the line, for tonight we fight for everything we hold dear!"
+  },
+  "English_WiseScholar": {
+    "en": "Knowledge, like a river, deepens the longer we follow it, so let us examine this carefully."
+  },
+  "English_Soft-spokenGirl": {
+    "en": "I made you a little card, and I hope it brightens your day just a tiny bit."
+  },
+  "English_SereneWoman": {
+    "en": "Let the world grow quiet around you; there is nothing here that you must rush toward."
+  },
+  "English_ConfidentWoman": {
+    "en": "I know exactly what I want, and trust me, I have absolutely no intention of backing down."
+  },
+  "English_PatientMan": {
+    "en": "Take all the time you need; I'm not going anywhere, and we'll figure this out together."
+  },
+  "English_Comedian": {
+    "en": "I told my plants a joke today, and honestly? They didn't laugh, but they sure grew distant."
+  },
+  "English_BossyLeader": {
+    "en": "Enough talking, people; I need those numbers on my desk in ten minutes, no excuses."
+  },
+  "English_Strong-WilledBoy": {
+    "en": "I don't care how hard it is, I'm climbing that hill and nobody's going to stop me."
+  },
+  "English_StressedLady": {
+    "en": "There's far too much to do and not nearly enough time, and everyone needs an answer right now."
+  },
+  "English_AssertiveQueen": {
+    "en": "Let it be known throughout the realm that my decision is final and shall not be questioned."
+  },
+  "English_AnimeCharacter": {
+    "en": "Believe in yourself and never give up, because that's the promise we made, and I always keep mine!"
+  },
+  "English_Jovialman": {
+    "en": "Come on in, the more the merrier; pull up a chair and let's get this party started!"
+  },
+  "English_WhimsicalGirl": {
+    "en": "What if the clouds are just sleepy sheep, and the moon is their nightlight up there?"
+  },
+  "English_Kind-heartedGirl": {
+    "en": "Don't worry about a thing; I'll stay right beside you until you feel completely better, okay?"
+  },
+  "Chinese (Mandarin)_Reliable_Executive": {
+    "cmn": "各位放心，这个季度的目标我们一定能如期完成，接下来请按照计划稳步推进。"
+  },
+  "Chinese (Mandarin)_News_Anchor": {
+    "cmn": "晚上好，欢迎收看今天的新闻，下面为您播报几条重要的最新消息。"
+  },
+  "Chinese (Mandarin)_Unrestrained_Young_Man": {
+    "cmn": "走啦走啦，别磨蹭了，背上包说走就走，这趟旅行咱们一定要玩个痛快！"
+  },
+  "Chinese (Mandarin)_Mature_Woman": {
+    "cmn": "这些年我也算见过些风浪，慢慢来，沉住气，路总会一步步走出来的。"
+  },
+  "Arrogant_Miss": {
+    "cmn": "哼，这点小事也值得拿来烦我？你应该知道，我的标准从来都不会随便降低。"
+  },
+  "Robot_Armor": {
+    "cmn": "系统启动完毕，能源已满，目标已锁定。请下达指令，本单位随时待命执行。"
+  },
+  "Chinese (Mandarin)_Kind-hearted_Antie": {
+    "cmn": "孩子，外面天凉了，多穿点衣服，饿了就回家来，阿姨给你留着热乎饭呢。"
+  },
+  "Chinese (Mandarin)_Refreshing_Young_Man": {
+    "cmn": "嘿，早上好啊！今天天气真不错，一起去操场跑两圈，顺便把昨天的事聊聊？"
+  },
+  "Chinese (Mandarin)_HK_Flight_Attendant": {
+    "cmn": "各位旅客您好，飞机即将起飞，请系好安全带，收起小桌板，祝您旅途愉快。"
+  },
+  "Chinese (Mandarin)_Humorous_Elder": {
+    "cmn": "哈哈，想当年我可是村里跑得最快的，现在嘛，腿脚不行喽，嘴皮子还利索着呢！"
+  },
+  "Chinese (Mandarin)_Gentleman": {
+    "cmn": "晚上好，今晚的安排已经为您准备妥当，若有任何需要，尽管开口便是。"
+  },
+  "Chinese (Mandarin)_Warm_Bestie": {
+    "cmn": "别难过啦，有什么委屈都跟我说，咱俩这么多年，我永远站在你这边。"
+  },
+  "Chinese (Mandarin)_Stubborn_Friend": {
+    "cmn": "我话就放这儿了，认准的事就不会回头，你拦我也没用，我就是要试一次。"
+  },
+  "Chinese (Mandarin)_Sweet_Lady": {
+    "cmn": "辛苦一整天了吧，先坐下喝杯热茶，慢慢歇会儿，剩下的事我来帮你。"
+  },
+  "Chinese (Mandarin)_Southern_Young_Man": {
+    "cmn": "走，我带你去街角那家小店，老板手艺特别好，保证你吃了还想再来一碗。"
+  },
+  "Chinese (Mandarin)_Wise_Women": {
+    "cmn": "人这一辈子啊，遇到坎别急着退，静下心想想，办法往往就藏在难处里。"
+  },
+  "Chinese (Mandarin)_Gentle_Youth": {
+    "cmn": "没关系的，你已经做得很好了，我们一步步来，我会一直陪在你身边。"
+  },
+  "Chinese (Mandarin)_Warm_Girl": {
+    "cmn": "你回来啦，我给你留了点心呢，快趁热吃，今天过得开不开心，说给我听听？"
+  },
+  "Chinese (Mandarin)_Male_Announcer": {
+    "cmn": "现在，让我们用最热烈的掌声，共同迎接今晚这场盛会的正式开始！"
+  },
+  "Chinese (Mandarin)_Kind-hearted_Elder": {
+    "cmn": "好孩子，别着急，慢慢说，遇到什么难处都可以找爷爷，咱们一起想办法。"
+  },
+  "Chinese (Mandarin)_Cute_Spirit": {
+    "cmn": "嘿嘿，被你发现啦！只要你许个小小的愿望，说不定我就能帮你实现哦！"
+  },
+  "Chinese (Mandarin)_Radio_Host": {
+    "cmn": "深夜好，欢迎收听今晚的节目，泡杯热饮放松一下，让我们慢慢聊聊心事。"
+  },
+  "Chinese (Mandarin)_Lyrical_Voice": {
+    "cmn": "微风拂过山岗，月光洒满小径，愿这静谧的夜晚，温柔地拥抱每一个梦。"
+  },
+  "Chinese (Mandarin)_Straightforward_Boy": {
+    "cmn": "我跟你直说吧，这事我办不到就是办不到，能行的我绝不含糊，痛快！"
+  },
+  "Chinese (Mandarin)_Sincere_Adult": {
+    "cmn": "谢谢你一直以来的信任，我说到就一定会做到，这件事请放心交给我。"
+  },
+  "Chinese (Mandarin)_Gentle_Senior": {
+    "cmn": "孩子，路还长着呢，别太逼自己，累了就歇歇，慢慢走也能走得很远。"
+  },
+  "Chinese (Mandarin)_Crisp_Girl": {
+    "cmn": "好嘞，交给我准没错！我这就去办，保证又快又利索，你就等我的好消息吧。"
+  },
+  "Chinese (Mandarin)_Pure-hearted_Boy": {
+    "cmn": "我答应过你的事，就一定会做到，无论遇到什么，我都不会半路放弃。"
+  },
+  "Chinese (Mandarin)_Soft_Girl": {
+    "cmn": "嗯……可以的话，能不能再陪我待一会儿呀，我有好多话想轻轻说给你听。"
+  },
+  "Chinese (Mandarin)_IntellectualGirl": {
+    "cmn": "其实这个问题没那么复杂，我们先理清思路，再一层层分析，答案自然就出来了。"
+  },
+  "Chinese (Mandarin)_Warm_HeartedGirl": {
+    "cmn": "天这么冷，你怎么穿这么少，快把围巾戴上，我送你回家，路上有我陪着呢。"
+  },
+  "Chinese (Mandarin)_Laid_BackGirl": {
+    "cmn": "急什么呀，事情慢慢来嘛，先坐下喝口水，太阳还高着呢，咱们悠着点。"
+  },
+  "Chinese (Mandarin)_ExplorativeGirl": {
+    "cmn": "哇，前面那条小路还没走过呢，咱们去看看吧，说不定会有意想不到的惊喜哦！"
+  },
+  "Chinese (Mandarin)_Warm-HeartedAunt": {
+    "cmn": "来来来，都坐下吃饭，锅里还热着汤呢，别客气，把这儿当自己家就好。"
+  },
+  "Chinese (Mandarin)_BashfulGirl": {
+    "cmn": "那个……其实我准备了好久，只是一直不太敢说，谢谢你愿意听我讲完。"
+  },
+  "Japanese_IntellectualSenior": {
+    "ja": "ふむ、長い年月をかけて見えてくるものもある。焦らず、ひとつずつ確かめていこうではないか。"
+  },
+  "Japanese_DecisivePrincess": {
+    "ja": "迷っている時間はありません。わたくしが決めます。皆、わたくしについていらっしゃい。"
+  },
+  "Japanese_LoyalKnight": {
+    "ja": "この剣に懸けて、あなた様を必ずお守りいたします。何があろうとも、私は退きません。"
+  },
+  "Japanese_DominantMan": {
+    "ja": "言い訳は聞かん。やると決めたなら、最後までやり遂げろ。俺の流儀に従ってもらう。"
+  },
+  "Japanese_SeriousCommander": {
+    "ja": "全部隊、傾注せよ。作戦開始は夜明けと同時だ。各自、持ち場を死守しろ。"
+  },
+  "Japanese_ColdQueen": {
+    "ja": "わたくしに近づきたいのなら、それ相応の覚悟をなさい。慈悲は期待しないことね。"
+  },
+  "Japanese_DependableWoman": {
+    "ja": "大丈夫、ここから先はわたしに任せて。ちゃんと最後まで面倒を見るから、安心していいよ。"
+  },
+  "Japanese_GentleButler": {
+    "ja": "お帰りなさいませ。お疲れでございましょう。すぐにお茶の準備をさせていただきます。"
+  },
+  "Japanese_KindLady": {
+    "ja": "ゆっくり休んでね。無理をしなくていいのよ。あなたの味方は、ちゃんとここにいるから。"
+  },
+  "Japanese_CalmLady": {
+    "ja": "そんなに慌てなくても大丈夫ですよ。深呼吸して、ひとつずつ片づけていきましょう。"
+  },
+  "Japanese_OptimisticYouth": {
+    "ja": "大丈夫だって、きっとうまくいくよ。失敗したって、また挑戦すればいいだけだしね。"
+  },
+  "Japanese_GenerousIzakayaOwner": {
+    "ja": "いらっしゃい、まあ座って座って。今日はおごりだ、好きなだけ飲んでいきな。"
+  },
+  "Japanese_SportyStudent": {
+    "ja": "よし、今日も全力でいくぞ。最後まで一緒に走り抜けよう。ほら、準備はいい?"
+  },
+  "Japanese_InnocentBoy": {
+    "ja": "ねえねえ、見て見て。すごいでしょ。ぼく、ひとりで全部できたんだよ。"
+  },
+  "Japanese_GracefulMaiden": {
+    "ja": "お会いできて嬉しゅうございます。どうぞ、こちらでゆるりとお過ごしくださいませ。"
+  },
+  "Korean_SweetGirl": {
+    "ko": "오늘 날씨 진짜 좋다! 우리 같이 산책하러 갈래?"
+  },
+  "Korean_CheerfulBoyfriend": {
+    "ko": "오늘 하루도 고생 많았지? 내가 맛있는 거 사줄게."
+  },
+  "Korean_EnchantingSister": {
+    "ko": "이리 가까이 와 봐. 네 이야기 좀 더 듣고 싶어졌어."
+  },
+  "Korean_ShyGirl": {
+    "ko": "저기… 혹시 시간 괜찮으면, 잠깐 얘기해도 될까요?"
+  },
+  "Korean_ReliableSister": {
+    "ko": "걱정 마, 이건 내가 알아서 처리할게. 넌 푹 쉬어."
+  },
+  "Korean_StrictBoss": {
+    "ko": "마감은 내일 아침까지입니다. 변명은 듣지 않겠습니다."
+  },
+  "Korean_SassyGirl": {
+    "ko": "뭐야, 그 정도 가지고 놀란 거야? 진짜 귀엽다, 너."
+  },
+  "Korean_ChildhoodFriendGirl": {
+    "ko": "야, 우리 어릴 때 맨날 여기서 놀았잖아. 기억나?"
+  },
+  "Korean_PlayboyCharmer": {
+    "ko": "그렇게 웃으면 반칙이지. 오늘 밤엔 내 옆에 있어 줄래?"
+  },
+  "Korean_ElegantPrincess": {
+    "ko": "이 정원은 언제 보아도 참으로 아름답군요. 함께 걸으실까요?"
+  },
+  "Korean_BraveFemaleWarrior": {
+    "ko": "물러서지 마라. 내가 앞장설 테니 끝까지 따라와."
+  },
+  "Korean_BraveYouth": {
+    "ko": "겁먹지 마! 우리가 힘을 합치면 분명히 해낼 수 있어."
+  },
+  "Korean_CalmLady": {
+    "ko": "괜찮아요, 천천히 해도 돼요. 시간은 충분하니까요."
+  },
+  "Korean_EnthusiasticTeen": {
+    "ko": "와, 이거 진짜 대박이다! 우리 빨리 가서 해 보자!"
+  },
+  "Korean_SoothingLady": {
+    "ko": "이제 모든 걱정은 내려놓으세요. 편안히 눈을 감아 보세요."
+  },
+  "Korean_IntellectualSenior": {
+    "ko": "이 문제는 조금 더 신중하게 살펴볼 필요가 있겠군요."
+  },
+  "Korean_LonelyWarrior": {
+    "ko": "혼자 걷는 길에 익숙해졌다. 이제 와서 뒤돌아볼 이유도 없지."
+  },
+  "Korean_MatureLady": {
+    "ko": "살다 보면 그런 날도 있는 거예요. 너무 자책하지 마세요."
+  },
+  "Korean_InnocentBoy": {
+    "ko": "우와, 이거 진짜 신기해요! 한 번만 만져 봐도 돼요?"
+  },
+  "Korean_CharmingSister": {
+    "ko": "그렇게 빤히 쳐다보면 내가 부끄럽잖아. 이리 와서 앉아."
+  },
+  "Korean_AthleticStudent": {
+    "ko": "자, 다 같이 몸 풀자! 오늘은 끝까지 달려 보는 거야."
+  },
+  "Korean_BraveAdventurer": {
+    "ko": "저 너머에 무엇이 있을지 궁금하지 않아? 함께 가 보자!"
+  },
+  "Korean_CalmGentleman": {
+    "ko": "서두를 것 없습니다. 차 한 잔 하면서 천천히 이야기하시죠."
+  },
+  "Korean_WiseElf": {
+    "ko": "숲은 모든 것을 기억한단다. 그 속삭임에 귀를 기울여 보렴."
+  },
+  "Korean_CheerfulCoolJunior": {
+    "ko": "선배, 그건 제가 할게요! 이런 건 저한테 맡겨 주세요."
+  },
+  "Korean_DecisiveQueen": {
+    "ko": "결정은 내려졌다. 더 이상의 논의는 필요치 않다."
+  },
+  "Korean_ColdYoungMan": {
+    "ko": "쓸데없는 말은 됐어. 용건만 간단히 말해."
+  },
+  "Korean_MysteriousGirl": {
+    "ko": "그 비밀, 정말 알고 싶어? 후회하지 않을 자신 있어?"
+  },
+  "Korean_QuirkyGirl": {
+    "ko": "헤헤, 나 방금 엄청 이상한 생각 했는데, 들어 볼래?"
+  },
+  "Korean_ConsiderateSenior": {
+    "ko": "추운데 따뜻하게 입고 다녀요. 감기 걸리면 큰일 나니까."
+  },
+  "Korean_CheerfulLittleSister": {
+    "ko": "오빠! 나 이거 다 했어! 칭찬해 줘, 빨리빨리!"
+  },
+  "Korean_DominantMan": {
+    "ko": "내 말 잘 들어. 이건 부탁이 아니라 명령이야."
+  },
+  "Korean_AirheadedGirl": {
+    "ko": "어라? 내가 분명 여기 뒀는데… 또 어디 갔지?"
+  },
+  "Korean_ReliableYouth": {
+    "ko": "걱정하지 마세요. 무슨 일이 있어도 제가 지켜 드릴게요."
+  },
+  "Korean_FriendlyBigSister": {
+    "ko": "어서 와, 배고프지? 누나가 맛있는 거 잔뜩 차려 놨어."
+  },
+  "Korean_GentleBoss": {
+    "ko": "수고 많았어요. 오늘은 일찍 들어가서 푹 쉬도록 해요."
+  },
+  "Korean_ColdGirl": {
+    "ko": "딱히 너 때문에 기다린 거 아니야. 착각하지 마."
+  },
+  "Korean_HaughtyLady": {
+    "ko": "이런 자리에 저를 부르시다니, 영광인 줄 아셔야죠."
+  },
+  "Korean_CharmingElderSister": {
+    "ko": "어머, 우리 동생 많이 컸네. 언니가 안아 줄까?"
+  },
+  "Korean_IntellectualMan": {
+    "ko": "그 가설은 흥미롭군요. 다만 근거를 좀 더 확인해 봐야겠습니다."
+  },
+  "Korean_CaringWoman": {
+    "ko": "밥은 챙겨 먹었어요? 무리하지 말고 몸부터 생각해요."
+  },
+  "Korean_WiseTeacher": {
+    "ko": "실수는 부끄러운 게 아니란다. 거기서 배우면 그걸로 충분해."
+  },
+  "Korean_ConfidentBoss": {
+    "ko": "이 정도 일은 문제없습니다. 결과로 증명해 보이죠."
+  },
+  "Korean_AthleticGirl": {
+    "ko": "자, 한 판 더 뛰자! 난 아직 하나도 안 지쳤거든."
+  },
+  "Korean_PossessiveMan": {
+    "ko": "다른 사람은 보지 마. 네 눈엔 나만 있으면 돼."
+  },
+  "Korean_GentleWoman": {
+    "ko": "괜찮아요, 천천히 말해도 돼요. 제가 다 들어 줄게요."
+  },
+  "Korean_CockyGuy": {
+    "ko": "이 정도쯤이야 식은 죽 먹기지. 잘 보라고, 보여 줄 테니까."
+  },
+  "Korean_ThoughtfulWoman": {
+    "ko": "혹시 무슨 고민 있어요? 표정이 어딘가 어두워 보여서요."
+  },
+  "Korean_OptimisticYouth": {
+    "ko": "괜찮아, 다 잘될 거야! 내일은 분명 더 좋은 날일 거라고."
+  },
+  "Spanish_SereneWoman": {
+    "es": "Respira con calma y deja que todo lo demas espere un momento; aqui no hay ninguna prisa."
+  },
+  "Spanish_MaturePartner": {
+    "es": "He estado pensando en nosotros, y quiero que sepas que siempre vamos a resolver esto juntos."
+  },
+  "Spanish_CaptivatingStoryteller": {
+    "es": "Cuentan que, mucho antes de que existieran las ciudades, una sola luz guiaba a los viajeros perdidos."
+  },
+  "Spanish_Narrator": {
+    "es": "Aquella manana, sin que nadie lo notara, el destino del pueblo entero comenzo a cambiar para siempre."
+  },
+  "Spanish_WiseScholar": {
+    "es": "Cada pregunta que te haces te acerca un poco mas a la verdad, asi que nunca dejes de preguntar."
+  },
+  "Spanish_Kind-heartedGirl": {
+    "es": "No te preocupes, yo te ayudo con eso; ven, sientate aqui conmigo y lo hacemos juntos."
+  },
+  "Spanish_DeterminedManager": {
+    "es": "Tenemos un plan claro y el equipo esta listo, asi que vamos a cumplir esta meta sin excusas."
+  },
+  "Spanish_BossyLeader": {
+    "es": "Quiero ese informe sobre mi escritorio antes del mediodia, y esta vez sin un solo error."
+  },
+  "Spanish_ReservedYoungMan": {
+    "es": "Bueno, no suelo hablar mucho de esto, pero creo que tal vez tengas razon en lo que dices."
+  },
+  "Spanish_ConfidentWoman": {
+    "es": "Se exactamente lo que valgo y lo que quiero, asi que entremos ahi y demostremos de que estamos hechos."
+  },
+  "Spanish_ThoughtfulMan": {
+    "es": "Antes de decidir, deberiamos detenernos un momento y considerar como afectara esto a todos los que dependen de nosotros."
+  },
+  "Spanish_Strong-WilledBoy": {
+    "es": "No me voy a rendir, aunque todos digan que es imposible; voy a seguir intentandolo hasta lograrlo."
+  },
+  "Spanish_SophisticatedLady": {
+    "es": "Permitame recomendarle el vino de la reserva; combina maravillosamente con la elegancia de esta velada tan especial."
+  },
+  "Spanish_RationalMan": {
+    "es": "Analicemos los datos con cuidado antes de actuar, porque las decisiones apresuradas casi siempre nos cuestan mucho mas."
+  },
+  "Spanish_AnimeCharacter": {
+    "es": "¡Vamos, no podemos rendirnos ahora! ¡Con todo el corazon vamos a ganar esta batalla, lo prometo!"
+  },
+  "Spanish_Deep-tonedMan": {
+    "es": "Cuando la noche cae sobre la ciudad, solo los valientes se atreven a cruzar esa frontera silenciosa."
+  },
+  "Spanish_Fussyhostess": {
+    "es": "Por favor, los zapatos junto a la puerta y las copas a la derecha; todo tiene que quedar perfecto."
+  },
+  "Spanish_SincereTeen": {
+    "es": "De verdad lo siento mucho, no queria lastimarte; solo quiero que sepas que fui completamente honesto contigo."
+  },
+  "Spanish_FrankLady": {
+    "es": "Te lo voy a decir sin rodeos: esa idea no va a funcionar, y todos aqui ya lo saben."
+  },
+  "Spanish_Comedian": {
+    "es": "Hoy intente hacer ejercicio, pero el sofa me miro con tanto carino que simplemente no pude decirle que no."
+  },
+  "Spanish_Debator": {
+    "es": "Respeto tu punto, pero los hechos demuestran lo contrario, y con gusto te explico exactamente por que te equivocas."
+  },
+  "Spanish_ToughBoss": {
+    "es": "Aqui no aceptamos excusas; o entregas resultados a tiempo, o le abres el lugar a quien si pueda hacerlo."
+  },
+  "Spanish_Wiselady": {
+    "es": "Con los anos aprendi que la paciencia abre mas puertas que la fuerza, asi que no te apresures, querida."
+  },
+  "Spanish_Steadymentor": {
+    "es": "Vas por buen camino; sigue practicando todos los dias y veras como, poco a poco, todo empieza a tener sentido."
+  },
+  "Spanish_Jovialman": {
+    "es": "¡Que gusto verte de nuevo, amigo! Entra, sientate y cuentame todo lo que has hecho durante este tiempo."
+  },
+  "Spanish_SantaClaus": {
+    "es": "¡Jo, jo, jo! Portate bien y se generoso, que esta Navidad tengo algo muy especial guardado para ti."
+  },
+  "Spanish_Rudolph": {
+    "es": "¡Sigueme, que mi nariz brilla en la oscuridad y esta noche nadie se va a quedar sin sus regalos!"
+  },
+  "Spanish_Intonategirl": {
+    "es": "Mira que cielo tan bonito; me dan ganas de cantar y de bailar bajo todas esas estrellas brillantes."
+  },
+  "Spanish_Arnold": {
+    "es": "Entrena con disciplina y nunca te rindas, porque cada gota de esfuerzo te acerca un paso mas a la victoria."
+  },
+  "Spanish_Ghost": {
+    "es": "Estos pasillos guardan secretos antiguos... escucha con atencion y quiza oigas un susurro que cruza las paredes frias."
+  },
+  "Spanish_HumorousElder": {
+    "es": "En mis tiempos caminabamos kilometros bajo la nieve, cuesta arriba, ¡y de regreso tambien era cuesta arriba, te lo juro!"
+  },
+  "Spanish_EnergeticBoy": {
+    "es": "¡Corre, corre, que el ultimo en llegar al arbol pierde! ¡Te apuesto a que esta vez no me alcanzas!"
+  },
+  "Spanish_WhimsicalGirl": {
+    "es": "¿Y si las nubes fueran de algodon de azucar y pudieramos volar hasta ellas con globos de colores?"
+  },
+  "Spanish_StrictBoss": {
+    "es": "Las reglas estan para cumplirse; quiero puntualidad, orden y compromiso, sin importar lo dificil que parezca el dia de hoy."
+  },
+  "Spanish_ReliableMan": {
+    "es": "Puedes contar conmigo para lo que necesites; si dije que estaria aqui, aqui voy a estar pase lo que pase."
+  },
+  "Spanish_SereneElder": {
+    "es": "La vida ensena despacio, querido; sientate un momento conmigo y deja que el tiempo nos cuente sus historias."
+  },
+  "Spanish_AngryMan": {
+    "es": "¡Ya estoy cansado de repetir lo mismo una y otra vez! ¿Acaso alguien aqui me esta escuchando de verdad?"
+  },
+  "Spanish_AssertiveQueen": {
+    "es": "Este reino prospera bajo mi mando, y nadie, absolutamente nadie, cuestionara las decisiones que tomo por mi pueblo."
+  },
+  "Spanish_CaringGirlfriend": {
+    "es": "Te prepare tu te favorito y te deje una nota; descansa un poco, que yo me encargo de todo hoy."
+  },
+  "Spanish_PowerfulSoldier": {
+    "es": "¡Manten la formacion y no retrocedas! Pase lo que pase, defenderemos esta posicion hasta el ultimo aliento."
+  },
+  "Spanish_PassionateWarrior": {
+    "es": "¡Por el honor y por todo lo que amamos, lucharemos con el corazon ardiente hasta alcanzar la gloria!"
+  },
+  "Spanish_ChattyGirl": {
+    "es": "¿A que no adivinas lo que paso hoy? Te tengo como mil cosas que contarte y no se ni por donde empezar."
+  },
+  "Spanish_RomanticHusband": {
+    "es": "Cada manana me despierto agradecido de tenerte a mi lado; eres lo mejor que me ha pasado en la vida."
+  },
+  "Spanish_CompellingGirl": {
+    "es": "Acercate y escucha bien, porque lo que voy a contarte cambiara por completo la forma en que ves el mundo."
+  },
+  "Spanish_PowerfulVeteran": {
+    "es": "He visto muchas batallas y aprendido de cada una; creeme, la verdadera fuerza nace de saber cuando mantenerse firme."
+  },
+  "Spanish_SensibleManager": {
+    "es": "Organicemos las prioridades con calma y repartamos el trabajo de forma justa, asi nadie se sentira sobrecargado esta semana."
+  },
+  "Spanish_ThoughtfulLady": {
+    "es": "A veces basta con una pausa para entender lo que de verdad importa, asi que tomemonos ese tiempo con cuidado."
+  },
+  "Portuguese_SentimentalLady": {
+    "pt": "Toda vez que olho essa foto antiga, meu coracao aperta e os olhos enchem de lagrimas saudosas."
+  },
+  "Portuguese_BossyLeader": {
+    "pt": "Chega de desculpas: quero esse relatorio pronto ate as cinco, sem erros e sem mais atrasos."
+  },
+  "Portuguese_Wiselady": {
+    "pt": "Com o tempo, querida, voce aprende que a paciencia ensina mais do que qualquer pressa do mundo."
+  },
+  "Portuguese_Strong-WilledBoy": {
+    "pt": "Eu nao vou desistir agora, nem que eu tenha que tentar mil vezes ate conseguir!"
+  },
+  "Portuguese_Deep-VoicedGentleman": {
+    "pt": "Permita-me dizer, com toda a calma, que foi uma honra imensa conhecer alguem tao gentil."
+  },
+  "Portuguese_UpsetGirl": {
+    "pt": "Eu fiz tudo certo e mesmo assim ninguem me ouviu, isso e tao injusto e frustrante."
+  },
+  "Portuguese_PassionateWarrior": {
+    "pt": "Levantem as cabecas, irmaos! Vamos lutar com toda a forca do nosso coracao por essa causa!"
+  },
+  "Portuguese_AnimeCharacter": {
+    "pt": "Nao subestime meu poder! Eu vim de muito longe so para proteger todos que eu amo!"
+  },
+  "Portuguese_ConfidentWoman": {
+    "pt": "Eu sei exatamente o que quero, e pode acreditar, nada vai me impedir de chegar la."
+  },
+  "Portuguese_AngryMan": {
+    "pt": "Ja chega! Eu avisei mais de uma vez e ninguem se importou em me escutar!"
+  },
+  "Portuguese_CaptivatingStoryteller": {
+    "pt": "Era uma noite silenciosa quando, de repente, uma luz estranha surgiu no horizonte e tudo mudou."
+  },
+  "Portuguese_Godfather": {
+    "pt": "Lembre-se bem do que vou dizer: a familia vem primeiro, sempre, acima de qualquer outra coisa."
+  },
+  "Portuguese_ReservedYoungMan": {
+    "pt": "Eu prefiro nao falar muito, mas, se voce precisar, pode contar comigo a qualquer momento."
+  },
+  "Portuguese_SmartYoungGirl": {
+    "pt": "Eu ja resolvi esse problema! Bastou pensar com calma e separar cada parte do quebra-cabeca."
+  },
+  "Portuguese_Kind-heartedGirl": {
+    "pt": "Vem ca, deixa eu te ajudar com isso, ninguem precisa passar por um dia ruim sozinho."
+  },
+  "Portuguese_Pompouslady": {
+    "pt": "Naturalmente, eu so frequento os melhores lugares; afinal, pessoas do meu nivel merecem apenas o mais refinado."
+  },
+  "Portuguese_Grinch": {
+    "pt": "Festa de novo? Que horror, so queria um pouco de paz e silencio longe dessa gritaria toda."
+  },
+  "Portuguese_Debator": {
+    "pt": "Discordo completamente, e vou explicar por que: seus argumentos nao se sustentam diante dos fatos apresentados."
+  },
+  "Portuguese_SweetGirl": {
+    "pt": "Oi! Que bom te ver por aqui, voce nao imagina como o meu dia ficou melhor."
+  },
+  "Portuguese_AttractiveGirl": {
+    "pt": "Adorei esse seu sorriso; sabe, e raro encontrar alguem que me deixa assim, sem nem perceber."
+  },
+  "Portuguese_ThoughtfulMan": {
+    "pt": "Acho que precisamos refletir com calma antes de decidir; cada escolha carrega consequencias que duram a vida toda."
+  },
+  "Portuguese_PlayfulGirl": {
+    "pt": "Corre, vem brincar comigo! Aposto que voce nao me alcanca antes de eu chegar la na esquina!"
+  },
+  "Portuguese_GorgeousLady": {
+    "pt": "Boa noite a todos; confesso que escolhi esse vestido especialmente para tornar a ocasiao ainda mais memoravel."
+  },
+  "Portuguese_LovelyLady": {
+    "pt": "Que delicia te encontrar! Senta aqui do meu lado e me conta tudo que andou aprontando."
+  },
+  "Portuguese_SereneWoman": {
+    "pt": "Respire fundo comigo; tudo vai ficar bem, basta deixar a tempestade passar com tranquilidade e fe."
+  },
+  "Portuguese_SadTeen": {
+    "pt": "Ninguem parece entender o que eu sinto, e as vezes eu so queria sumir por um tempo."
+  },
+  "Portuguese_MaturePartner": {
+    "pt": "Depois de tantos anos juntos, eu so quero que voce saiba que nunca vou te abandonar."
+  },
+  "Portuguese_Comedian": {
+    "pt": "Gente, eu tentei fazer dieta, mas a geladeira me olhou de um jeito tao carinhoso que desisti!"
+  },
+  "Portuguese_NaughtySchoolgirl": {
+    "pt": "Prometo que dessa vez eu fiz a licao, so esqueci de colocar dentro da mochila, juro mesmo!"
+  },
+  "Portuguese_Narrator": {
+    "pt": "Naquela manha, a pequena vila acordou tranquila, sem imaginar a aventura que estava prestes a comecar."
+  },
+  "Portuguese_ToughBoss": {
+    "pt": "Resultados, e so isso que me interessa. Resolvam isso hoje e nao quero ouvir mais nenhuma desculpa."
+  },
+  "Portuguese_Fussyhostess": {
+    "pt": "Esse guardanapo esta torto, troquem agora! Os convidados chegam em minutos e tudo precisa estar absolutamente perfeito."
+  },
+  "Portuguese_Dramatist": {
+    "pt": "Ah, o destino! Como ele brinca conosco, erguendo sonhos apenas para deixa-los cair no abismo mais profundo!"
+  },
+  "Portuguese_Steadymentor": {
+    "pt": "Va com calma, passo a passo; eu confio em voce e sei que vai chegar muito longe."
+  },
+  "Portuguese_Jovialman": {
+    "pt": "Bom dia, meu amigo! Que dia lindo, hein? Vamos aproveitar cada minuto desse sol maravilhoso aqui fora!"
+  },
+  "Portuguese_CharmingQueen": {
+    "pt": "Aproximem-se sem receio; um verdadeiro reino se constroi com sabedoria, generosidade e um sorriso para cada subdito."
+  },
+  "Portuguese_SantaClaus": {
+    "pt": "Ho ho ho! Tem sido um bom menino esse ano? Prepare o coracao, a magia esta chegando!"
+  },
+  "Portuguese_Rudolph": {
+    "pt": "Vamos, pessoal, sigam meu nariz brilhante; mesmo na noite mais escura, sempre encontramos o caminho de casa!"
+  },
+  "Portuguese_Arnold": {
+    "pt": "Sem dor nao ha vitoria; levante esse peso, foque no objetivo e nunca, jamais, pense em desistir."
+  },
+  "Portuguese_CharmingSanta": {
+    "pt": "Ho ho ho! Venham todos para perto da lareira; tenho um presentinho cheio de carinho para cada um."
+  },
+  "Portuguese_CharmingLady": {
+    "pt": "Seja muito bem-vindo; fique a vontade e deixe que eu cuido de tornar sua estadia inesquecivel."
+  },
+  "Portuguese_Ghost": {
+    "pt": "Voce nao deveria ter entrado aqui... essas paredes guardam segredos que ecoam por noites e noites sem fim."
+  },
+  "Portuguese_HumorousElder": {
+    "pt": "No meu tempo a gente caminhava quilometros pra escola, e olha, ainda chegava antes desse seu aplicativo carregar!"
+  },
+  "Portuguese_CalmLeader": {
+    "pt": "Mantenham a calma, todos juntos; com sangue-frio e uniao, vamos atravessar essa dificuldade sem nenhum susto."
+  },
+  "Portuguese_GentleTeacher": {
+    "pt": "Nao tenha medo de errar; cada engano e apenas mais um degrau na sua jornada de aprendizado."
+  },
+  "Portuguese_EnergeticBoy": {
+    "pt": "Anda logo, o sol ta perfeito la fora! Bora correr, pular e brincar ate cansar de verdade!"
+  },
+  "Portuguese_ReliableMan": {
+    "pt": "Pode deixar comigo; o que eu prometo, eu cumpro, e nunca te deixaria na mao numa hora dessas."
+  },
+  "Portuguese_SereneElder": {
+    "pt": "A vida me ensinou que tudo passa; entao respire, sorria e deixe o tempo cuidar do resto."
+  },
+  "Portuguese_GrimReaper": {
+    "pt": "Nao adianta correr nem implorar; mais cedo ou mais tarde, todos atendem ao chamado que ninguem pode ignorar."
+  },
+  "Portuguese_AssertiveQueen": {
+    "pt": "Minha palavra e lei neste reino; quem duvidar da minha decisao aprendera, rapidamente, o peso da coroa."
+  },
+  "Portuguese_WhimsicalGirl": {
+    "pt": "E se as nuvens fossem de algodao-doce? Eu subiria nelas pra dancar com as estrelas a noite inteira!"
+  },
+  "Portuguese_StressedLady": {
+    "pt": "Meu Deus, ja e tarde e ainda falta tanta coisa, eu nao sei como vou dar conta!"
+  },
+  "Portuguese_FriendlyNeighbor": {
+    "pt": "Oi, vizinho! Precisando de alguma coisa, e so bater na porta; estamos aqui pra ajudar no que for."
+  },
+  "Portuguese_CaringGirlfriend": {
+    "pt": "Voce parece cansado, amor; vem aqui, descansa um pouco e me deixa cuidar de voce essa noite."
+  },
+  "Portuguese_PowerfulSoldier": {
+    "pt": "Posicoes, soldados! Avancamos juntos, sem hesitar; cada um de voces e essencial para a vitoria de hoje."
+  },
+  "Portuguese_FascinatingBoy": {
+    "pt": "Tem uma historia incrivel por tras disso, e garanto que voce vai querer ouvir cada detalhe dela."
+  },
+  "Portuguese_RomanticHusband": {
+    "pt": "Mesmo depois de tantos anos, meu coracao ainda dispara toda vez que voce entra por aquela porta."
+  },
+  "Portuguese_StrictBoss": {
+    "pt": "As regras existem por um motivo; cumpram os prazos a risca ou assumam as consequencias sem reclamar."
+  },
+  "Portuguese_InspiringLady": {
+    "pt": "Acredite no seu potencial; voce tem dentro de si tudo que precisa para transformar esse sonho em realidade."
+  },
+  "Portuguese_PlayfulSpirit": {
+    "pt": "Adivinha quem chegou pra baguncar tudo? Vem comigo, prometo que hoje vai ser cheio de surpresas divertidas!"
+  },
+  "Portuguese_ElegantGirl": {
+    "pt": "Bom dia; permita-me dizer que aprecio profundamente o bom gosto e a delicadeza presentes em cada detalhe daqui."
+  },
+  "Portuguese_CompellingGirl": {
+    "pt": "Escuta so o que eu descobri; tenho certeza de que, depois disso, voce nao vai pensar igual."
+  },
+  "Portuguese_PowerfulVeteran": {
+    "pt": "Ja enfrentei batalhas que voce nem imagina; por isso, ouca meu conselho antes de seguir por esse caminho."
+  },
+  "Portuguese_SensibleManager": {
+    "pt": "Vamos analisar os numeros com cuidado; uma boa decisao nasce de dados claros e de um plano bem pensado."
+  },
+  "Portuguese_ThoughtfulLady": {
+    "pt": "Pensei muito no que voce me disse, e acho que ha mais verdade nessas palavras do que parece."
+  },
+  "Portuguese_TheatricalActor": {
+    "pt": "Senhoras e senhores, preparem-se! O espetaculo comeca agora, e nenhum coracao sairao daqui da mesma forma!"
+  },
+  "Portuguese_FragileBoy": {
+    "pt": "Por favor, nao se zangue comigo; eu so tentei ajudar e acabei estragando tudo sem querer."
+  },
+  "Portuguese_ChattyGirl": {
+    "pt": "Ai, nem te contei! Aconteceu tanta coisa hoje que eu nem sei por onde comecar, vem ca!"
+  },
+  "Portuguese_Conscientiousinstructor": {
+    "pt": "Prestem bastante atencao a cada etapa; pulando passos, voces perdem a base que sustenta todo o aprendizado."
+  },
+  "Portuguese_RationalMan": {
+    "pt": "Antes de concluir qualquer coisa, vamos analisar os fatos com frieza e deixar a emocao fora dessa decisao."
+  },
+  "Portuguese_WiseScholar": {
+    "pt": "Os antigos ja diziam que o verdadeiro saber comeca quando admitimos o quanto ainda temos a aprender."
+  },
+  "Portuguese_FrankLady": {
+    "pt": "Vou ser sincera com voce: nao gostei nada disso, e prefiro dizer logo a esconder a verdade."
+  },
+  "Portuguese_DeterminedManager": {
+    "pt": "Tracamos a meta e vamos alcanca-la; nada de hesitar agora, cada um faz a sua parte ate o fim."
+  },
+  "French_Male_Speech_New": {
+    "fr": "Bonjour à tous, je suis ravi de vous retrouver aujourd'hui pour partager quelques nouvelles importantes avec vous."
+  },
+  "French_Female_News Anchor": {
+    "fr": "Bonsoir, voici les principaux titres de la soirée, suivis d'une analyse complète de l'actualité internationale."
+  },
+  "French_CasualMan": {
+    "fr": "Bon, écoute, on prend un café tranquille et on regarde ensemble ce qu'on fait ce week-end, d'accord ?"
+  },
+  "French_MovieLeadFemale": {
+    "fr": "Je ne reculerai pas, pas cette fois ; tout ce que nous avons construit dépend de cet instant précis."
+  },
+  "French_FemaleAnchor": {
+    "fr": "Mesdames et messieurs, merci de nous rejoindre ; nous commençons immédiatement avec les informations les plus marquantes du jour."
+  },
+  "French_MaleNarrator": {
+    "fr": "Il était une fois, dans une vallée oubliée du temps, un secret que personne n'osait jamais révéler."
+  },
+  "Indonesian_SweetGirl": {
+    "id": "Hai, terima kasih sudah datang menemaniku hari ini; aku benar-benar senang kita bisa menghabiskan waktu bersama."
+  },
+  "Indonesian_ReservedYoungMan": {
+    "id": "Maaf, aku tidak terlalu banyak bicara, tapi kalau kamu butuh bantuan, aku akan selalu ada di sini."
+  },
+  "Indonesian_CharmingGirl": {
+    "id": "Senyummu hari ini benar-benar menawan, dan aku yakin malam ini akan menjadi sesuatu yang sangat istimewa untuk kita."
+  },
+  "Indonesian_CalmWoman": {
+    "id": "Tenangkan pikiranmu sejenak, tarik napas perlahan, dan biarkan semua kekhawatiran itu pergi bersama embusan angin ini."
+  },
+  "Indonesian_ConfidentWoman": {
+    "id": "Aku tahu persis apa yang kuinginkan, dan percayalah, tidak ada satu pun hal yang bisa menghentikan langkahku."
+  },
+  "Indonesian_CaringMan": {
+    "id": "Jangan khawatir, semuanya akan baik-baik saja; aku di sini untukmu, dan kita akan melewati ini bersama."
+  },
+  "Indonesian_BossyLeader": {
+    "id": "Dengarkan baik-baik, kita kerjakan ini sekarang juga, tanpa alasan dan tanpa penundaan; semua orang ikuti rencanaku."
+  },
+  "Indonesian_DeterminedBoy": {
+    "id": "Aku tidak akan menyerah sekarang; meski sulit, aku akan terus berjuang sampai impian ini benar-benar tercapai."
+  },
+  "Indonesian_GentleGirl": {
+    "id": "Pelan-pelan saja, tidak perlu terburu-buru; aku akan menemanimu dengan sabar sampai kamu merasa benar-benar tenang."
+  },
+  "German_FriendlyMan": {
+    "de": "Hallo, schön dich zu sehen! Komm doch herein, setz dich, und erzähl mir, wie dein Tag war."
+  },
+  "German_SweetLady": {
+    "de": "Mach dir keine Sorgen, mein Lieber; alles wird gut, und ich bin immer für dich da."
+  },
+  "German_PlayfulMan": {
+    "de": "Na komm schon, lach doch mal! Das Leben ist viel zu kurz, um es ständig ernst zu nehmen."
+  },
+  "Russian_HandsomeChildhoodFriend": {
+    "ru": "Помнишь, как мы бегали по этому двору в детстве? Кажется, что с тех пор прошла целая вечность."
+  },
+  "Russian_BrightHeroine": {
+    "ru": "Не бойся, вместе мы справимся со всем; я верю, что впереди нас ждёт по-настоящему светлое будущее!"
+  },
+  "Russian_AmbitiousWoman": {
+    "ru": "Я добьюсь своего, чего бы это ни стоило; ни одна преграда не остановит меня на этом пути."
+  },
+  "Russian_ReliableMan": {
+    "ru": "Можешь полностью на меня положиться; я сделаю всё, что обещал, и никогда тебя не подведу."
+  },
+  "Russian_CrazyQueen": {
+    "ru": "Ах, какая чудесная нелепость! Сегодня мы будем танцевать на крыше и считать звёзды до самого рассвета!"
+  },
+  "Russian_PessimisticGirl": {
+    "ru": "Зачем вообще пытаться? Что-нибудь обязательно пойдёт не так, как всегда, и нам опять не повезёт."
+  },
+  "Russian_AttractiveGuy": {
+    "ru": "Здравствуй, рад тебя видеть; знаешь, твоя улыбка способна сделать этот серый вечер по-настоящему незабываемым."
+  },
+  "Russian_Bad-temperedBoy": {
+    "ru": "Ну сколько можно меня дёргать? Оставьте меня наконец в покое, у меня совсем нет на это настроения."
+  },
+  "Italian_BraveHeroine": {
+    "it": "Non ho paura di affrontarli; resterò qui fino alla fine e difenderò tutto ciò in cui credo."
+  },
+  "Italian_Narrator": {
+    "it": "In un tempo lontano, oltre le montagne avvolte nella nebbia, viveva un popolo che custodiva un antico segreto."
+  },
+  "Italian_WanderingSorcerer": {
+    "it": "Le ombre sussurrano verità che pochi osano ascoltare; segui il mio cammino e svelerò ciò che è nascosto."
+  },
+  "Italian_DiligentLeader": {
+    "it": "Avanti, restiamo concentrati e lavoriamo insieme con metodo; solo così porteremo a termine questa missione con successo."
+  },
+  "Dutch_kindhearted_girl": {
+    "nl": "Wees maar niet bang, ik blijf gewoon bij je; samen komen we hier heus wel doorheen."
+  },
+  "Dutch_bossy_leader": {
+    "nl": "Luister goed, we doen dit nu meteen en volgens mijn plan; geen smoesjes, geen uitstel, iedereen aan de slag."
+  },
+  "Vietnamese_kindhearted_girl": {
+    "vi": "Đừng lo lắng nhé, mọi chuyện rồi sẽ ổn thôi; mình luôn ở đây bên cạnh để giúp đỡ bạn."
+  },
+  "Arabic_CalmWoman": {
+    "ar": "خذي نفسًا عميقًا واسترخي قليلًا، فكل شيء سيكون على ما يرام، ولست وحدك في هذا الطريق أبدًا."
+  },
+  "Arabic_FriendlyGuy": {
+    "ar": "أهلًا بك يا صديقي، تفضّل بالدخول واجلس معنا؛ سعدت كثيرًا برؤيتك اليوم بعد هذا الغياب الطويل."
+  },
+  "Turkish_CalmWoman": {
+    "tr": "Derin bir nefes al ve biraz sakinleş; her şey yoluna girecek, ben hep yanında olacağım, merak etme."
+  },
+  "Turkish_Trustworthyman": {
+    "tr": "Bana güvenebilirsin; sözümü her zaman tutarım ve verdiğim hiçbir karardan asla geri dönmem, bunu çok iyi bilirsin."
+  },
+  "Ukrainian_CalmWoman": {
+    "uk": "Зроби глибокий вдих і трохи розслабся; усе буде добре, і я завжди поруч, тож не хвилюйся."
   }
 }
