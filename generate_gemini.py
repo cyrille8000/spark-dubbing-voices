@@ -37,10 +37,33 @@ import warnings
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import ssl
 import requests
+import certifi
 from pydub import AudioSegment
+from requests.adapters import HTTPAdapter
+from urllib3.poolmanager import PoolManager
 
 warnings.filterwarnings("ignore")
+
+
+# TLS : magasin de certs de l'OS en plus de certifi — derriere un proxy/AV qui
+# intercepte le HTTPS, le CA du proxy est dans le store Windows mais pas dans
+# certifi ("unable to get local issuer certificate").
+class _OSStoreAdapter(HTTPAdapter):
+    def init_poolmanager(self, connections, maxsize, block=False, **kw):
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        try:
+            ctx.load_default_certs()
+        except Exception:
+            pass
+        self.poolmanager = PoolManager(
+            num_pools=connections, maxsize=maxsize, block=block, ssl_context=ctx
+        )
+
+
+SESSION = requests.Session()
+SESSION.mount("https://", _OSStoreAdapter())
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
 SA_KEY_JSON = os.environ.get("GEMINI_SA_KEY", "")
@@ -100,14 +123,25 @@ STYLE_PREFIX = (
     "Read aloud with a natural, expressive tone, adapting emotion and pacing to the content:"
 )
 
+# Instruction de langue explicite pour les langues que Gemini risque de mal
+# identifier d'apres le seul texte (cantonais lu en mandarin, nynorsk, etc.).
+LANG_INSTRUCTION = {
+    "yue": "Speak the following entirely in Cantonese (Hong Kong Yue Chinese), not Mandarin.",
+    "fa": "Speak the following entirely in Persian (Farsi).",
+    "hr": "Speak the following entirely in Croatian.",
+    "sl": "Speak the following entirely in Slovenian.",
+    "nn": "Speak the following entirely in Norwegian (Nynorsk).",
+}
+
 PCM_SAMPLE_RATE = 24_000
 PCM_SAMPLE_WIDTH = 2  # 16-bit
 PCM_CHANNELS = 1
 
 
-def call_gemini_tts(text, voice_name):
+def call_gemini_tts(text, voice_name, lang=None):
     """Appelle l'API Gemini TTS et retourne les bytes PCM bruts (16-bit 24kHz mono)."""
-    prompt = f"{STYLE_PREFIX} {text}"
+    instruction = LANG_INSTRUCTION.get(lang)
+    prompt = f"{instruction} {STYLE_PREFIX} {text}" if instruction else f"{STYLE_PREFIX} {text}"
     body = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -123,7 +157,7 @@ def call_gemini_tts(text, voice_name):
     for _ in range(MAX_RETRIES):
         url, headers = _build_request()
         try:
-            r = requests.post(url, headers=headers, json=body, timeout=180)
+            r = SESSION.post(url, headers=headers, json=body, timeout=180)
         except requests.RequestException as e:
             last_err = f"network: {e}"
             time.sleep(backoff)
@@ -189,7 +223,7 @@ def process_one(args):
     if skip_existing and out_path.exists():
         return ("skip", voice_name, lang, file_rel, None, None)
     try:
-        pcm = call_gemini_tts(text, voice_name)
+        pcm = call_gemini_tts(text, voice_name, lang)
         dur = pcm_to_mp3(pcm, out_path)
         return ("ok", voice_name, lang, file_rel, dur, None)
     except Exception as e:
@@ -199,6 +233,11 @@ def process_one(args):
 def build_tasks(voices_data, texts_data, root, voice_filter, lang_filter, limit):
     tasks = []
     for vname, vdata in voices_data["voices"].items():
+        # Ne traiter QUE les voix Gemini : voices.json contient aussi des voix
+        # openai (Azure) et minimax (Replicate) qu'il ne faut pas synthetiser
+        # via l'API Gemini. (Absence de provider = gemini, retro-compat.)
+        if vdata.get("provider", "gemini") != "gemini":
+            continue
         if voice_filter and vname.lower() != voice_filter.lower():
             continue
 

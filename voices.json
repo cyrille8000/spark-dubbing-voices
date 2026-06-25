@@ -78,7 +78,12 @@
         "nb": "female/nb/zephyr.mp3",
         "ca": "female/ca/zephyr.mp3",
         "ta": "female/ta/zephyr.mp3",
-        "af": "female/af/zephyr.mp3"
+        "af": "female/af/zephyr.mp3",
+        "yue": "female/yue/zephyr.mp3",
+        "fa": "female/fa/zephyr.mp3",
+        "hr": "female/hr/zephyr.mp3",
+        "sl": "female/sl/zephyr.mp3",
+        "nn": "female/nn/zephyr.mp3"
       },
       "provider": "gemini"
     },
@@ -122,7 +127,12 @@
         "nb": "female/nb/kore.mp3",
         "ca": "female/ca/kore.mp3",
         "ta": "female/ta/kore.mp3",
-        "af": "female/af/kore.mp3"
+        "af": "female/af/kore.mp3",
+        "yue": "female/yue/kore.mp3",
+        "fa": "female/fa/kore.mp3",
+        "hr": "female/hr/kore.mp3",
+        "sl": "female/sl/kore.mp3",
+        "nn": "female/nn/kore.mp3"
       },
       "provider": "gemini"
     },
@@ -166,7 +176,12 @@
         "nb": "female/nb/leda.mp3",
         "ca": "female/ca/leda.mp3",
         "ta": "female/ta/leda.mp3",
-        "af": "female/af/leda.mp3"
+        "af": "female/af/leda.mp3",
+        "yue": "female/yue/leda.mp3",
+        "fa": "female/fa/leda.mp3",
+        "hr": "female/hr/leda.mp3",
+        "sl": "female/sl/leda.mp3",
+        "nn": "female/nn/leda.mp3"
       },
       "provider": "gemini"
     },
@@ -210,7 +225,12 @@
         "nb": "female/nb/aoede.mp3",
         "ca": "female/ca/aoede.mp3",
         "ta": "female/ta/aoede.mp3",
-        "af": "female/af/aoede.mp3"
+        "af": "female/af/aoede.mp3",
+        "yue": "female/yue/aoede.mp3",
+        "fa": "female/fa/aoede.mp3",
+        "hr": "female/hr/aoede.mp3",
+        "sl": "female/sl/aoede.mp3",
+        "nn": "female/nn/aoede.mp3"
       },
       "provider": "gemini"
     },
@@ -254,7 +274,12 @@
         "nb": "female/nb/callirrhoe.mp3",
         "ca": "female/ca/callirrhoe.mp3",
         "ta": "female/ta/callirrhoe.mp3",
-        "af": "female/af/callirrhoe.mp3"
+        "af": "female/af/callirrhoe.mp3",
+        "yue": "female/yue/callirrhoe.mp3",
+        "fa": "female/fa/callirrhoe.mp3",
+        "hr": "female/hr/callirrhoe.mp3",
+        "sl": "female/sl/callirrhoe.mp3",
+        "nn": "female/nn/callirrhoe.mp3"
       },
       "provider": "gemini"
     },
@@ -298,7 +323,12 @@
         "nb": "female/nb/autonoe.mp3",
         "ca": "female/ca/autonoe.mp3",
         "ta": "female/ta/autonoe.mp3",
-        "af": "female/af/autonoe.mp3"
+        "af": "female/af/autonoe.mp3",
+        "yue": "female/yue/autonoe.mp3",
+        "fa": "female/fa/autonoe.mp3",
+        "hr": "female/hr/autonoe.mp3",
+        "sl": "female/sl/autonoe.mp3",
+        "nn": "female/nn/autonoe.mp3"
       },
       "provider": "gemini"
     },
@@ -342,7 +372,12 @@
         "nb": "female/nb/despina.mp3",
         "ca": "female/ca/despina.mp3",
         "ta": "female/ta/despina.mp3",
-        "af": "female/af/despina.mp3"
+        "af": "female/af/despina.mp3",
+        "yue": "female/yue/despina.mp3",
+        "fa": "female/fa/despina.mp3",
+        "hr": "female/hr/despina.mp3",
+        "sl": "female/sl/despina.mp3",
+        "nn": "female/nn/despina.mp3"
       },
       "provider": "gemini"
     },
@@ -386,7 +421,12 @@
         "nb": "female/nb/erinome.mp3",
         "ca": "female/ca/erinome.mp3",
         "ta": "female/ta/erinome.mp3",
-        "af": "female/af/erinome.mp3"
+        "af": "female/af/erinome.mp3",
+        "yue": "female/yue/erinome.mp3",
+        "fa": "female/fa/erinome.mp3",
+        "hr": "female/hr/erinome.mp3",
+        "sl": "female/sl/erinome.mp3",
+        "nn": "female/nn/erinome.mp3"
       },
       "provider": "gemini"
     },
@@ -430,7 +470,12 @@
         "nb": "female/nb/laomedeia.mp3",
         "ca": "female/ca/laomedeia.mp3",
         "ta": "female/ta/laomedeia.mp3",
-        "af": "female/af/laomedeia.mp3"
+        "af": "female/af/laomedeia.mp3",
+        "yue": "female/yue/laomedeia.mp3",
+        "fa": "female/fa/laomedeia.mp3",
+        "hr": "female/hr/laomedeia.mp3",
+        "sl": "female/sl/laomedeia.mp3",
+        "nn": "female/nn/laomedeia.mp3"
       },
       "provider": "gemini"
     },
@@ -474,7 +519,12 @@
         "nb": "female/nb/achernar.mp3",
         "ca": "female/ca/achernar.mp3",
         "ta": "female/ta/achernar.mp3",
-        "af": "female/af/achernar.mp3"
+        "af": "female/af/achernar.mp3",
+        "yue": "female/yue/achernar.mp3",
+        "fa": "female/fa/achernar.mp3",
+        "hr": "female/hr/achernar.mp3",
+        "sl": "female/sl/achernar.mp3",
+        "nn": "female/nn/achernar.mp3"
       },
       "provider": "gemini"
     },
@@ -518,7 +568,12 @@
         "nb": "female/nb/gacrux.mp3",
         "ca": "female/ca/gacrux.mp3",
         "ta": "female/ta/gacrux.mp3",
-        "af": "female/af/gacrux.mp3"
+        "af": "female/af/gacrux.mp3",
+        "yue": "female/yue/gacrux.mp3",
+        "fa": "female/fa/gacrux.mp3",
+        "hr": "female/hr/gacrux.mp3",
+        "sl": "female/sl/gacrux.mp3",
+        "nn": "female/nn/gacrux.mp3"
       },
       "provider": "gemini"
     },
@@ -562,7 +617,12 @@
         "nb": "female/nb/vindemiatrix.mp3",
         "ca": "female/ca/vindemiatrix.mp3",
         "ta": "female/ta/vindemiatrix.mp3",
-        "af": "female/af/vindemiatrix.mp3"
+        "af": "female/af/vindemiatrix.mp3",
+        "yue": "female/yue/vindemiatrix.mp3",
+        "fa": "female/fa/vindemiatrix.mp3",
+        "hr": "female/hr/vindemiatrix.mp3",
+        "sl": "female/sl/vindemiatrix.mp3",
+        "nn": "female/nn/vindemiatrix.mp3"
       },
       "provider": "gemini"
     },
@@ -606,7 +666,12 @@
         "nb": "female/nb/sulafat.mp3",
         "ca": "female/ca/sulafat.mp3",
         "ta": "female/ta/sulafat.mp3",
-        "af": "female/af/sulafat.mp3"
+        "af": "female/af/sulafat.mp3",
+        "yue": "female/yue/sulafat.mp3",
+        "fa": "female/fa/sulafat.mp3",
+        "hr": "female/hr/sulafat.mp3",
+        "sl": "female/sl/sulafat.mp3",
+        "nn": "female/nn/sulafat.mp3"
       },
       "provider": "gemini"
     },
@@ -650,7 +715,12 @@
         "nb": "male/nb/puck.mp3",
         "ca": "male/ca/puck.mp3",
         "ta": "male/ta/puck.mp3",
-        "af": "male/af/puck.mp3"
+        "af": "male/af/puck.mp3",
+        "yue": "male/yue/puck.mp3",
+        "fa": "male/fa/puck.mp3",
+        "hr": "male/hr/puck.mp3",
+        "sl": "male/sl/puck.mp3",
+        "nn": "male/nn/puck.mp3"
       },
       "provider": "gemini"
     },
@@ -694,7 +764,12 @@
         "nb": "male/nb/charon.mp3",
         "ca": "male/ca/charon.mp3",
         "ta": "male/ta/charon.mp3",
-        "af": "male/af/charon.mp3"
+        "af": "male/af/charon.mp3",
+        "yue": "male/yue/charon.mp3",
+        "fa": "male/fa/charon.mp3",
+        "hr": "male/hr/charon.mp3",
+        "sl": "male/sl/charon.mp3",
+        "nn": "male/nn/charon.mp3"
       },
       "provider": "gemini"
     },
@@ -738,7 +813,12 @@
         "nb": "male/nb/fenrir.mp3",
         "ca": "male/ca/fenrir.mp3",
         "ta": "male/ta/fenrir.mp3",
-        "af": "male/af/fenrir.mp3"
+        "af": "male/af/fenrir.mp3",
+        "yue": "male/yue/fenrir.mp3",
+        "fa": "male/fa/fenrir.mp3",
+        "hr": "male/hr/fenrir.mp3",
+        "sl": "male/sl/fenrir.mp3",
+        "nn": "male/nn/fenrir.mp3"
       },
       "provider": "gemini"
     },
@@ -782,7 +862,12 @@
         "nb": "male/nb/orus.mp3",
         "ca": "male/ca/orus.mp3",
         "ta": "male/ta/orus.mp3",
-        "af": "male/af/orus.mp3"
+        "af": "male/af/orus.mp3",
+        "yue": "male/yue/orus.mp3",
+        "fa": "male/fa/orus.mp3",
+        "hr": "male/hr/orus.mp3",
+        "sl": "male/sl/orus.mp3",
+        "nn": "male/nn/orus.mp3"
       },
       "provider": "gemini"
     },
@@ -826,7 +911,12 @@
         "nb": "male/nb/enceladus.mp3",
         "ca": "male/ca/enceladus.mp3",
         "ta": "male/ta/enceladus.mp3",
-        "af": "male/af/enceladus.mp3"
+        "af": "male/af/enceladus.mp3",
+        "yue": "male/yue/enceladus.mp3",
+        "fa": "male/fa/enceladus.mp3",
+        "hr": "male/hr/enceladus.mp3",
+        "sl": "male/sl/enceladus.mp3",
+        "nn": "male/nn/enceladus.mp3"
       },
       "provider": "gemini"
     },
@@ -870,7 +960,12 @@
         "nb": "male/nb/iapetus.mp3",
         "ca": "male/ca/iapetus.mp3",
         "ta": "male/ta/iapetus.mp3",
-        "af": "male/af/iapetus.mp3"
+        "af": "male/af/iapetus.mp3",
+        "yue": "male/yue/iapetus.mp3",
+        "fa": "male/fa/iapetus.mp3",
+        "hr": "male/hr/iapetus.mp3",
+        "sl": "male/sl/iapetus.mp3",
+        "nn": "male/nn/iapetus.mp3"
       },
       "provider": "gemini"
     },
@@ -914,7 +1009,12 @@
         "nb": "male/nb/umbriel.mp3",
         "ca": "male/ca/umbriel.mp3",
         "ta": "male/ta/umbriel.mp3",
-        "af": "male/af/umbriel.mp3"
+        "af": "male/af/umbriel.mp3",
+        "yue": "male/yue/umbriel.mp3",
+        "fa": "male/fa/umbriel.mp3",
+        "hr": "male/hr/umbriel.mp3",
+        "sl": "male/sl/umbriel.mp3",
+        "nn": "male/nn/umbriel.mp3"
       },
       "provider": "gemini"
     },
@@ -958,7 +1058,12 @@
         "nb": "male/nb/algieba.mp3",
         "ca": "male/ca/algieba.mp3",
         "ta": "male/ta/algieba.mp3",
-        "af": "male/af/algieba.mp3"
+        "af": "male/af/algieba.mp3",
+        "yue": "male/yue/algieba.mp3",
+        "fa": "male/fa/algieba.mp3",
+        "hr": "male/hr/algieba.mp3",
+        "sl": "male/sl/algieba.mp3",
+        "nn": "male/nn/algieba.mp3"
       },
       "provider": "gemini"
     },
@@ -1002,7 +1107,12 @@
         "nb": "male/nb/algenib.mp3",
         "ca": "male/ca/algenib.mp3",
         "ta": "male/ta/algenib.mp3",
-        "af": "male/af/algenib.mp3"
+        "af": "male/af/algenib.mp3",
+        "yue": "male/yue/algenib.mp3",
+        "fa": "male/fa/algenib.mp3",
+        "hr": "male/hr/algenib.mp3",
+        "sl": "male/sl/algenib.mp3",
+        "nn": "male/nn/algenib.mp3"
       },
       "provider": "gemini"
     },
@@ -1046,7 +1156,12 @@
         "nb": "male/nb/rasalgethi.mp3",
         "ca": "male/ca/rasalgethi.mp3",
         "ta": "male/ta/rasalgethi.mp3",
-        "af": "male/af/rasalgethi.mp3"
+        "af": "male/af/rasalgethi.mp3",
+        "yue": "male/yue/rasalgethi.mp3",
+        "fa": "male/fa/rasalgethi.mp3",
+        "hr": "male/hr/rasalgethi.mp3",
+        "sl": "male/sl/rasalgethi.mp3",
+        "nn": "male/nn/rasalgethi.mp3"
       },
       "provider": "gemini"
     },
@@ -1090,7 +1205,12 @@
         "nb": "male/nb/alnilam.mp3",
         "ca": "male/ca/alnilam.mp3",
         "ta": "male/ta/alnilam.mp3",
-        "af": "male/af/alnilam.mp3"
+        "af": "male/af/alnilam.mp3",
+        "yue": "male/yue/alnilam.mp3",
+        "fa": "male/fa/alnilam.mp3",
+        "hr": "male/hr/alnilam.mp3",
+        "sl": "male/sl/alnilam.mp3",
+        "nn": "male/nn/alnilam.mp3"
       },
       "provider": "gemini"
     },
@@ -1134,7 +1254,12 @@
         "nb": "male/nb/schedar.mp3",
         "ca": "male/ca/schedar.mp3",
         "ta": "male/ta/schedar.mp3",
-        "af": "male/af/schedar.mp3"
+        "af": "male/af/schedar.mp3",
+        "yue": "male/yue/schedar.mp3",
+        "fa": "male/fa/schedar.mp3",
+        "hr": "male/hr/schedar.mp3",
+        "sl": "male/sl/schedar.mp3",
+        "nn": "male/nn/schedar.mp3"
       },
       "provider": "gemini"
     },
@@ -1178,7 +1303,12 @@
         "nb": "male/nb/pulcherrima.mp3",
         "ca": "male/ca/pulcherrima.mp3",
         "ta": "male/ta/pulcherrima.mp3",
-        "af": "male/af/pulcherrima.mp3"
+        "af": "male/af/pulcherrima.mp3",
+        "yue": "male/yue/pulcherrima.mp3",
+        "fa": "male/fa/pulcherrima.mp3",
+        "hr": "male/hr/pulcherrima.mp3",
+        "sl": "male/sl/pulcherrima.mp3",
+        "nn": "male/nn/pulcherrima.mp3"
       },
       "provider": "gemini"
     },
@@ -1222,7 +1352,12 @@
         "nb": "male/nb/achird.mp3",
         "ca": "male/ca/achird.mp3",
         "ta": "male/ta/achird.mp3",
-        "af": "male/af/achird.mp3"
+        "af": "male/af/achird.mp3",
+        "yue": "male/yue/achird.mp3",
+        "fa": "male/fa/achird.mp3",
+        "hr": "male/hr/achird.mp3",
+        "sl": "male/sl/achird.mp3",
+        "nn": "male/nn/achird.mp3"
       },
       "provider": "gemini"
     },
@@ -1266,7 +1401,12 @@
         "nb": "male/nb/zubenelgenubi.mp3",
         "ca": "male/ca/zubenelgenubi.mp3",
         "ta": "male/ta/zubenelgenubi.mp3",
-        "af": "male/af/zubenelgenubi.mp3"
+        "af": "male/af/zubenelgenubi.mp3",
+        "yue": "male/yue/zubenelgenubi.mp3",
+        "fa": "male/fa/zubenelgenubi.mp3",
+        "hr": "male/hr/zubenelgenubi.mp3",
+        "sl": "male/sl/zubenelgenubi.mp3",
+        "nn": "male/nn/zubenelgenubi.mp3"
       },
       "provider": "gemini"
     },
@@ -1310,7 +1450,12 @@
         "nb": "male/nb/sadachbia.mp3",
         "ca": "male/ca/sadachbia.mp3",
         "ta": "male/ta/sadachbia.mp3",
-        "af": "male/af/sadachbia.mp3"
+        "af": "male/af/sadachbia.mp3",
+        "yue": "male/yue/sadachbia.mp3",
+        "fa": "male/fa/sadachbia.mp3",
+        "hr": "male/hr/sadachbia.mp3",
+        "sl": "male/sl/sadachbia.mp3",
+        "nn": "male/nn/sadachbia.mp3"
       },
       "provider": "gemini"
     },
@@ -1354,7 +1499,12 @@
         "nb": "male/nb/sadaltager.mp3",
         "ca": "male/ca/sadaltager.mp3",
         "ta": "male/ta/sadaltager.mp3",
-        "af": "male/af/sadaltager.mp3"
+        "af": "male/af/sadaltager.mp3",
+        "yue": "male/yue/sadaltager.mp3",
+        "fa": "male/fa/sadaltager.mp3",
+        "hr": "male/hr/sadaltager.mp3",
+        "sl": "male/sl/sadaltager.mp3",
+        "nn": "male/nn/sadaltager.mp3"
       },
       "provider": "gemini"
     },
@@ -1400,7 +1550,12 @@
         "nb": "female/nb/alloy.mp3",
         "ca": "female/ca/alloy.mp3",
         "ta": "female/ta/alloy.mp3",
-        "af": "female/af/alloy.mp3"
+        "af": "female/af/alloy.mp3",
+        "yue": "female/yue/alloy.mp3",
+        "fa": "female/fa/alloy.mp3",
+        "hr": "female/hr/alloy.mp3",
+        "sl": "female/sl/alloy.mp3",
+        "nn": "female/nn/alloy.mp3"
       }
     },
     "nova": {
@@ -1445,7 +1600,12 @@
         "nb": "female/nb/nova.mp3",
         "ca": "female/ca/nova.mp3",
         "ta": "female/ta/nova.mp3",
-        "af": "female/af/nova.mp3"
+        "af": "female/af/nova.mp3",
+        "yue": "female/yue/nova.mp3",
+        "fa": "female/fa/nova.mp3",
+        "hr": "female/hr/nova.mp3",
+        "sl": "female/sl/nova.mp3",
+        "nn": "female/nn/nova.mp3"
       }
     },
     "echo": {
@@ -1490,7 +1650,12 @@
         "nb": "male/nb/echo.mp3",
         "ca": "male/ca/echo.mp3",
         "ta": "male/ta/echo.mp3",
-        "af": "male/af/echo.mp3"
+        "af": "male/af/echo.mp3",
+        "yue": "male/yue/echo.mp3",
+        "fa": "male/fa/echo.mp3",
+        "hr": "male/hr/echo.mp3",
+        "sl": "male/sl/echo.mp3",
+        "nn": "male/nn/echo.mp3"
       }
     },
     "onyx": {
@@ -1535,7 +1700,12 @@
         "nb": "male/nb/onyx.mp3",
         "ca": "male/ca/onyx.mp3",
         "ta": "male/ta/onyx.mp3",
-        "af": "male/af/onyx.mp3"
+        "af": "male/af/onyx.mp3",
+        "yue": "male/yue/onyx.mp3",
+        "fa": "male/fa/onyx.mp3",
+        "hr": "male/hr/onyx.mp3",
+        "sl": "male/sl/onyx.mp3",
+        "nn": "male/nn/onyx.mp3"
       }
     },
     "shimmer": {
@@ -1580,7 +1750,12 @@
         "nb": "female/nb/shimmer.mp3",
         "ca": "female/ca/shimmer.mp3",
         "ta": "female/ta/shimmer.mp3",
-        "af": "female/af/shimmer.mp3"
+        "af": "female/af/shimmer.mp3",
+        "yue": "female/yue/shimmer.mp3",
+        "fa": "female/fa/shimmer.mp3",
+        "hr": "female/hr/shimmer.mp3",
+        "sl": "female/sl/shimmer.mp3",
+        "nn": "female/nn/shimmer.mp3"
       }
     },
     "fable": {
@@ -1625,7 +1800,12 @@
         "nb": "male/nb/fable.mp3",
         "ca": "male/ca/fable.mp3",
         "ta": "male/ta/fable.mp3",
-        "af": "male/af/fable.mp3"
+        "af": "male/af/fable.mp3",
+        "yue": "male/yue/fable.mp3",
+        "fa": "male/fa/fable.mp3",
+        "hr": "male/hr/fable.mp3",
+        "sl": "male/sl/fable.mp3",
+        "nn": "male/nn/fable.mp3"
       }
     },
     "ash": {
@@ -1670,7 +1850,12 @@
         "nb": "male/nb/ash.mp3",
         "ca": "male/ca/ash.mp3",
         "ta": "male/ta/ash.mp3",
-        "af": "male/af/ash.mp3"
+        "af": "male/af/ash.mp3",
+        "yue": "male/yue/ash.mp3",
+        "fa": "male/fa/ash.mp3",
+        "hr": "male/hr/ash.mp3",
+        "sl": "male/sl/ash.mp3",
+        "nn": "male/nn/ash.mp3"
       }
     },
     "English_Trustworth_Man": {

@@ -51,6 +51,10 @@ LANG_MAP = {
     "da": "da-DK", "he": "he-IL", "ms": "ms-MY", "sk": "sk-SK",
     "sv": "sv-SE", "fil": "fil-PH", "hu": "hu-HU", "nb": "nb-NO",
     "ca": "ca-ES", "ta": "ta-IN", "af": "af-ZA",
+    # Cantonais (zh-HK), Persan, Croate, Slovene supportes par les voix
+    # multilingues Azure. Le nynorsk n'a pas de locale Azure dedie -> nb-NO
+    # (Bokmal) : le texte reste en nynorsk, lu avec la voix norvegienne.
+    "yue": "zh-HK", "fa": "fa-IR", "hr": "hr-HR", "sl": "sl-SI", "nn": "nb-NO",
 }
 
 
