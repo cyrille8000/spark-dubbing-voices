@@ -1700,7 +1700,11 @@
         "sk": "minimax/sk/English_Trustworth_Man.wav",
         "sv": "minimax/sv/English_Trustworth_Man.wav",
         "ta": "minimax/ta/English_Trustworth_Man.wav",
-        "th": "minimax/th/English_Trustworth_Man.wav"
+        "th": "minimax/th/English_Trustworth_Man.wav",
+        "fa": "minimax/fa/English_Trustworth_Man.wav",
+        "hr": "minimax/hr/English_Trustworth_Man.wav",
+        "sl": "minimax/sl/English_Trustworth_Man.wav",
+        "nn": "minimax/nn/English_Trustworth_Man.wav"
       }
     },
     "English_Aussie_Bloke": {
@@ -1741,7 +1745,11 @@
         "sk": "minimax/sk/English_CalmWoman.wav",
         "sv": "minimax/sv/English_CalmWoman.wav",
         "ta": "minimax/ta/English_CalmWoman.wav",
-        "th": "minimax/th/English_CalmWoman.wav"
+        "th": "minimax/th/English_CalmWoman.wav",
+        "fa": "minimax/fa/English_CalmWoman.wav",
+        "hr": "minimax/hr/English_CalmWoman.wav",
+        "sl": "minimax/sl/English_CalmWoman.wav",
+        "nn": "minimax/nn/English_CalmWoman.wav"
       }
     },
     "English_UpsetGirl": {
@@ -1804,7 +1812,11 @@
         "sk": "minimax/sk/English_Diligent_Man.wav",
         "sv": "minimax/sv/English_Diligent_Man.wav",
         "ta": "minimax/ta/English_Diligent_Man.wav",
-        "th": "minimax/th/English_Diligent_Man.wav"
+        "th": "minimax/th/English_Diligent_Man.wav",
+        "fa": "minimax/fa/English_Diligent_Man.wav",
+        "hr": "minimax/hr/English_Diligent_Man.wav",
+        "sl": "minimax/sl/English_Diligent_Man.wav",
+        "nn": "minimax/nn/English_Diligent_Man.wav"
       }
     },
     "English_Graceful_Lady": {
@@ -2065,7 +2077,11 @@
         "sk": "minimax/sk/English_ConfidentWoman.wav",
         "sv": "minimax/sv/English_ConfidentWoman.wav",
         "ta": "minimax/ta/English_ConfidentWoman.wav",
-        "th": "minimax/th/English_ConfidentWoman.wav"
+        "th": "minimax/th/English_ConfidentWoman.wav",
+        "fa": "minimax/fa/English_ConfidentWoman.wav",
+        "hr": "minimax/hr/English_ConfidentWoman.wav",
+        "sl": "minimax/sl/English_ConfidentWoman.wav",
+        "nn": "minimax/nn/English_ConfidentWoman.wav"
       }
     },
     "English_PatientMan": {
@@ -5003,6 +5019,72 @@
       "emotion": "auto",
       "files": {
         "uk": "minimax/uk/Ukrainian_CalmWoman.wav"
+      }
+    },
+    "Cantonese_ProfessionalHost（F)": {
+      "gender": "female",
+      "description": "Professional Host (F)",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_ProfessionalHost（F)",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_ProfessionalHost_F_.wav"
+      }
+    },
+    "Cantonese_GentleLady": {
+      "gender": "female",
+      "description": "Gentle Lady",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_GentleLady",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_GentleLady.wav"
+      }
+    },
+    "Cantonese_ProfessionalHost（M)": {
+      "gender": "male",
+      "description": "Professional Host (M)",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_ProfessionalHost（M)",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_ProfessionalHost_M_.wav"
+      }
+    },
+    "Cantonese_PlayfulMan": {
+      "gender": "male",
+      "description": "Playful Man",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_PlayfulMan",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_PlayfulMan.wav"
+      }
+    },
+    "Cantonese_CuteGirl": {
+      "gender": "female",
+      "description": "Cute Girl",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_CuteGirl",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_CuteGirl.wav"
+      }
+    },
+    "Cantonese_KindWoman": {
+      "gender": "female",
+      "description": "Kind Woman",
+      "provider": "minimax",
+      "minimax_voice_id": "Cantonese_KindWoman",
+      "language_boost": "Chinese,Yue",
+      "emotion": "auto",
+      "files": {
+        "yue": "minimax/yue/Cantonese_KindWoman.wav"
       }
     }
   }

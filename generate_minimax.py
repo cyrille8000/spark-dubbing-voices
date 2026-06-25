@@ -43,6 +43,15 @@ from urllib3.poolmanager import PoolManager
 
 warnings.filterwarnings("ignore")
 
+# stdout/stderr en UTF-8 : certains voice_id MiniMax (cantonais) contiennent
+# des parentheses pleine largeur (U+FF08) que la console Windows (cp1252) ne
+# sait pas encoder -> sinon un simple print() plante toute la generation.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 
 # --- TLS : magasin de certificats de l'OS EN PLUS de certifi ---
 # Derriere un proxy/antivirus qui intercepte le HTTPS, le CA du proxy est dans
@@ -90,6 +99,8 @@ LANG_TO_BOOST = {
     "he": "Hebrew", "hi": "Hindi", "hu": "Hungarian", "ms": "Malay",
     "nb": "Norwegian", "pl": "Polish", "ro": "Romanian", "sk": "Slovak",
     "sv": "Swedish", "ta": "Tamil", "th": "Thai",
+    "yue": "Chinese,Yue", "fa": "Persian", "hr": "Croatian",
+    "sl": "Slovenian", "nn": "Nynorsk",
 }
 
 TERMINAL = {"succeeded", "failed", "canceled"}
