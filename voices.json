@@ -1874,6 +1874,9 @@
       "emotion": "auto",
       "files": {
         "en": "minimax/en/English_Jovialman.mp3"
+      },
+      "ratios": {
+        "en": 1.243
       }
     },
     "English_expressive_narrator": {
@@ -1887,6 +1890,9 @@
       "emotion": "auto",
       "files": {
         "en": "minimax/en/English_expressive_narrator.mp3"
+      },
+      "ratios": {
+        "en": 0.971
       }
     },
     "English_Upbeat_Woman": {
@@ -1900,6 +1906,9 @@
       "emotion": "auto",
       "files": {
         "en": "minimax/en/English_Upbeat_Woman.mp3"
+      },
+      "ratios": {
+        "en": 1.22
       }
     },
     "English_captivating_female1": {
@@ -1913,6 +1922,9 @@
       "emotion": "auto",
       "files": {
         "en": "minimax/en/English_captivating_female1.mp3"
+      },
+      "ratios": {
+        "en": 1.091
       }
     },
     "Spanish_MaturePartner": {
@@ -1926,6 +1938,9 @@
       "emotion": "auto",
       "files": {
         "es": "minimax/es/Spanish_MaturePartner.mp3"
+      },
+      "ratios": {
+        "es": 1.405
       }
     },
     "Spanish_CaptivatingStoryteller": {
@@ -1939,6 +1954,9 @@
       "emotion": "auto",
       "files": {
         "es": "minimax/es/Spanish_CaptivatingStoryteller.mp3"
+      },
+      "ratios": {
+        "es": 1.4
       }
     },
     "Spanish_ConfidentWoman": {
@@ -1952,6 +1970,9 @@
       "emotion": "auto",
       "files": {
         "es": "minimax/es/Spanish_ConfidentWoman.mp3"
+      },
+      "ratios": {
+        "es": 1.131
       }
     },
     "Spanish_Narrator": {
@@ -1965,6 +1986,9 @@
       "emotion": "auto",
       "files": {
         "es": "minimax/es/Spanish_Narrator.mp3"
+      },
+      "ratios": {
+        "es": 1.406
       }
     },
     "French_MaleNarrator": {
@@ -1978,6 +2002,9 @@
       "emotion": "auto",
       "files": {
         "fr": "minimax/fr/French_MaleNarrator.mp3"
+      },
+      "ratios": {
+        "fr": 1.151
       }
     },
     "French_Male_Speech_New": {
@@ -1991,6 +2018,9 @@
       "emotion": "auto",
       "files": {
         "fr": "minimax/fr/French_Male_Speech_New.mp3"
+      },
+      "ratios": {
+        "fr": 1.059
       }
     },
     "French_FemaleAnchor": {
@@ -2004,6 +2034,9 @@
       "emotion": "auto",
       "files": {
         "fr": "minimax/fr/French_FemaleAnchor.mp3"
+      },
+      "ratios": {
+        "fr": 0.996
       }
     },
     "French_Female_News Anchor": {
@@ -2017,6 +2050,9 @@
       "emotion": "auto",
       "files": {
         "fr": "minimax/fr/French_Female_News Anchor.mp3"
+      },
+      "ratios": {
+        "fr": 1.012
       }
     },
     "German_FriendlyMan": {
@@ -2030,6 +2066,9 @@
       "emotion": "auto",
       "files": {
         "de": "minimax/de/German_FriendlyMan.mp3"
+      },
+      "ratios": {
+        "de": 0.839
       }
     },
     "German_PlayfulMan": {
@@ -2043,6 +2082,9 @@
       "emotion": "auto",
       "files": {
         "de": "minimax/de/German_PlayfulMan.mp3"
+      },
+      "ratios": {
+        "de": 0.758
       }
     },
     "German_SweetLady": {
@@ -2056,6 +2098,9 @@
       "emotion": "auto",
       "files": {
         "de": "minimax/de/German_SweetLady.mp3"
+      },
+      "ratios": {
+        "de": 0.804
       }
     },
     "English_radiant_girl": {
@@ -2075,6 +2120,12 @@
         "da": "minimax/da/English_radiant_girl.mp3",
         "fil": "minimax/fil/English_radiant_girl.mp3",
         "af": "minimax/af/English_radiant_girl.mp3"
+      },
+      "ratios": {
+        "de": 1.077,
+        "da": 1.588,
+        "fil": 1.227,
+        "af": 1.155
       }
     },
     "Italian_Narrator": {
@@ -2088,6 +2139,9 @@
       "emotion": "auto",
       "files": {
         "it": "minimax/it/Italian_Narrator.mp3"
+      },
+      "ratios": {
+        "it": 0.851
       }
     },
     "English_magnetic_voiced_man": {
@@ -2107,6 +2161,12 @@
         "bg": "minimax/bg/English_magnetic_voiced_man.mp3",
         "hr": "minimax/hr/English_magnetic_voiced_man.mp3",
         "ta": "minimax/ta/English_magnetic_voiced_man.mp3"
+      },
+      "ratios": {
+        "it": 1.139,
+        "bg": 1.154,
+        "hr": 1.198,
+        "ta": 0.844
       }
     },
     "Italian_BraveHeroine": {
@@ -2120,6 +2180,9 @@
       "emotion": "auto",
       "files": {
         "it": "minimax/it/Italian_BraveHeroine.mp3"
+      },
+      "ratios": {
+        "it": 1.1
       }
     },
     "Italian_DiligentLeader": {
@@ -2133,6 +2196,9 @@
       "emotion": "auto",
       "files": {
         "it": "minimax/it/Italian_DiligentLeader.mp3"
+      },
+      "ratios": {
+        "it": 1.038
       }
     },
     "Portuguese_MaturePartner": {
@@ -2146,6 +2212,9 @@
       "emotion": "auto",
       "files": {
         "pt": "minimax/pt/Portuguese_MaturePartner.mp3"
+      },
+      "ratios": {
+        "pt": 1.057
       }
     },
     "Portuguese_CaptivatingStoryteller": {
@@ -2159,6 +2228,9 @@
       "emotion": "auto",
       "files": {
         "pt": "minimax/pt/Portuguese_CaptivatingStoryteller.mp3"
+      },
+      "ratios": {
+        "pt": 0.992
       }
     },
     "Portuguese_ConfidentWoman": {
@@ -2172,6 +2244,9 @@
       "emotion": "auto",
       "files": {
         "pt": "minimax/pt/Portuguese_ConfidentWoman.mp3"
+      },
+      "ratios": {
+        "pt": 0.969
       }
     },
     "Portuguese_FriendlyNeighbor": {
@@ -2185,6 +2260,9 @@
       "emotion": "auto",
       "files": {
         "pt": "minimax/pt/Portuguese_FriendlyNeighbor.mp3"
+      },
+      "ratios": {
+        "pt": 0.979
       }
     },
     "Japanese_IntellectualSenior": {
@@ -2198,6 +2276,9 @@
       "emotion": "auto",
       "files": {
         "ja": "minimax/ja/Japanese_IntellectualSenior.mp3"
+      },
+      "ratios": {
+        "ja": 1.036
       }
     },
     "Japanese_OptimisticYouth": {
@@ -2211,6 +2292,9 @@
       "emotion": "auto",
       "files": {
         "ja": "minimax/ja/Japanese_OptimisticYouth.mp3"
+      },
+      "ratios": {
+        "ja": 1.038
       }
     },
     "Japanese_CalmLady": {
@@ -2224,6 +2308,9 @@
       "emotion": "auto",
       "files": {
         "ja": "minimax/ja/Japanese_CalmLady.mp3"
+      },
+      "ratios": {
+        "ja": 1.049
       }
     },
     "Japanese_DependableWoman": {
@@ -2237,6 +2324,9 @@
       "emotion": "auto",
       "files": {
         "ja": "minimax/ja/Japanese_DependableWoman.mp3"
+      },
+      "ratios": {
+        "ja": 0.935
       }
     },
     "Korean_CheerfulCoolJunior": {
@@ -2250,6 +2340,9 @@
       "emotion": "auto",
       "files": {
         "ko": "minimax/ko/Korean_CheerfulCoolJunior.mp3"
+      },
+      "ratios": {
+        "ko": 0.952
       }
     },
     "Korean_IntellectualSenior": {
@@ -2263,6 +2356,9 @@
       "emotion": "auto",
       "files": {
         "ko": "minimax/ko/Korean_IntellectualSenior.mp3"
+      },
+      "ratios": {
+        "ko": 1.117
       }
     },
     "Korean_WiseElf": {
@@ -2276,6 +2372,9 @@
       "emotion": "auto",
       "files": {
         "ko": "minimax/ko/Korean_WiseElf.mp3"
+      },
+      "ratios": {
+        "ko": 1.211
       }
     },
     "Korean_CheerfulLittleSister": {
@@ -2289,6 +2388,9 @@
       "emotion": "auto",
       "files": {
         "ko": "minimax/ko/Korean_CheerfulLittleSister.mp3"
+      },
+      "ratios": {
+        "ko": 1.032
       }
     },
     "Russian_ReliableMan": {
@@ -2302,6 +2404,9 @@
       "emotion": "auto",
       "files": {
         "ru": "minimax/ru/Russian_ReliableMan.mp3"
+      },
+      "ratios": {
+        "ru": 1.077
       }
     },
     "Russian_AttractiveGuy": {
@@ -2315,6 +2420,9 @@
       "emotion": "auto",
       "files": {
         "ru": "minimax/ru/Russian_AttractiveGuy.mp3"
+      },
+      "ratios": {
+        "ru": 1.294
       }
     },
     "Russian_AmbitiousWoman": {
@@ -2328,6 +2436,9 @@
       "emotion": "auto",
       "files": {
         "ru": "minimax/ru/Russian_AmbitiousWoman.mp3"
+      },
+      "ratios": {
+        "ru": 1.065
       }
     },
     "English_compelling_lady1": {
@@ -2347,6 +2458,12 @@
         "he": "minimax/he/English_compelling_lady1.mp3",
         "hu": "minimax/hu/English_compelling_lady1.mp3",
         "fa": "minimax/fa/English_compelling_lady1.mp3"
+      },
+      "ratios": {
+        "ru": 1.245,
+        "he": 1.134,
+        "hu": 1.017,
+        "fa": 1.148
       }
     },
     "Turkish_Trustworthyman": {
@@ -2360,6 +2477,9 @@
       "emotion": "auto",
       "files": {
         "tr": "minimax/tr/Turkish_Trustworthyman.mp3"
+      },
+      "ratios": {
+        "tr": 1.095
       }
     },
     "English_Trustworth_Man": {
@@ -2379,6 +2499,12 @@
         "bg": "minimax/bg/English_Trustworth_Man.mp3",
         "hr": "minimax/hr/English_Trustworth_Man.mp3",
         "ta": "minimax/ta/English_Trustworth_Man.mp3"
+      },
+      "ratios": {
+        "tr": 0.995,
+        "bg": 1.134,
+        "hr": 1.02,
+        "ta": 0.871
       }
     },
     "Turkish_CalmWoman": {
@@ -2392,6 +2518,9 @@
       "emotion": "auto",
       "files": {
         "tr": "minimax/tr/Turkish_CalmWoman.mp3"
+      },
+      "ratios": {
+        "tr": 1.095
       }
     },
     "English_PlayfulGirl": {
@@ -2411,6 +2540,12 @@
         "he": "minimax/he/English_PlayfulGirl.mp3",
         "hu": "minimax/hu/English_PlayfulGirl.mp3",
         "fa": "minimax/fa/English_PlayfulGirl.mp3"
+      },
+      "ratios": {
+        "tr": 0.997,
+        "he": 1.289,
+        "hu": 0.99,
+        "fa": 1.119
       }
     },
     "English_Aussie_Bloke": {
@@ -2430,6 +2565,12 @@
         "da": "minimax/da/English_Aussie_Bloke.mp3",
         "fil": "minimax/fil/English_Aussie_Bloke.mp3",
         "af": "minimax/af/English_Aussie_Bloke.mp3"
+      },
+      "ratios": {
+        "nl": 0.887,
+        "da": 1.231,
+        "fil": 1.307,
+        "af": 1.025
       }
     },
     "English_FriendlyPerson": {
@@ -2449,6 +2590,12 @@
         "da": "minimax/da/English_FriendlyPerson.mp3",
         "fil": "minimax/fil/English_FriendlyPerson.mp3",
         "af": "minimax/af/English_FriendlyPerson.mp3"
+      },
+      "ratios": {
+        "nl": 0.744,
+        "da": 1.013,
+        "fil": 0.93,
+        "af": 0.869
       }
     },
     "Dutch_kindhearted_girl": {
@@ -2462,6 +2609,9 @@
       "emotion": "auto",
       "files": {
         "nl": "minimax/nl/Dutch_kindhearted_girl.mp3"
+      },
+      "ratios": {
+        "nl": 1.039
       }
     },
     "English_Wiselady": {
@@ -2481,6 +2631,12 @@
         "ms": "minimax/ms/English_Wiselady.mp3",
         "nb": "minimax/nb/English_Wiselady.mp3",
         "sl": "minimax/sl/English_Wiselady.mp3"
+      },
+      "ratios": {
+        "nl": 0.944,
+        "ms": 1.086,
+        "nb": 1.596,
+        "sl": 1.305
       }
     },
     "Polish_male_1_sample4": {
@@ -2494,6 +2650,9 @@
       "emotion": "auto",
       "files": {
         "pl": "minimax/pl/Polish_male_1_sample4.mp3"
+      },
+      "ratios": {
+        "pl": 1.037
       }
     },
     "Polish_male_2_sample3": {
@@ -2507,6 +2666,9 @@
       "emotion": "auto",
       "files": {
         "pl": "minimax/pl/Polish_male_2_sample3.mp3"
+      },
+      "ratios": {
+        "pl": 1.013
       }
     },
     "Polish_female_1_sample1": {
@@ -2520,6 +2682,9 @@
       "emotion": "auto",
       "files": {
         "pl": "minimax/pl/Polish_female_1_sample1.mp3"
+      },
+      "ratios": {
+        "pl": 1.115
       }
     },
     "Polish_female_2_sample3": {
@@ -2533,6 +2698,9 @@
       "emotion": "auto",
       "files": {
         "pl": "minimax/pl/Polish_female_2_sample3.mp3"
+      },
+      "ratios": {
+        "pl": 1.056
       }
     },
     "Indonesian_DeterminedBoy": {
@@ -2546,6 +2714,9 @@
       "emotion": "auto",
       "files": {
         "id": "minimax/id/Indonesian_DeterminedBoy.mp3"
+      },
+      "ratios": {
+        "id": 1.001
       }
     },
     "Indonesian_CaringMan": {
@@ -2559,6 +2730,9 @@
       "emotion": "auto",
       "files": {
         "id": "minimax/id/Indonesian_CaringMan.mp3"
+      },
+      "ratios": {
+        "id": 1.055
       }
     },
     "Indonesian_CharmingGirl": {
@@ -2572,6 +2746,9 @@
       "emotion": "auto",
       "files": {
         "id": "minimax/id/Indonesian_CharmingGirl.mp3"
+      },
+      "ratios": {
+        "id": 1.08
       }
     },
     "Indonesian_SweetGirl": {
@@ -2585,6 +2762,9 @@
       "emotion": "auto",
       "files": {
         "id": "minimax/id/Indonesian_SweetGirl.mp3"
+      },
+      "ratios": {
+        "id": 1.11
       }
     },
     "Ukrainian_WiseScholar": {
@@ -2598,6 +2778,9 @@
       "emotion": "auto",
       "files": {
         "uk": "minimax/uk/Ukrainian_WiseScholar.mp3"
+      },
+      "ratios": {
+        "uk": 1.095
       }
     },
     "English_MaturePartner": {
@@ -2617,6 +2800,12 @@
         "he": "minimax/he/English_MaturePartner.mp3",
         "hu": "minimax/hu/English_MaturePartner.mp3",
         "fa": "minimax/fa/English_MaturePartner.mp3"
+      },
+      "ratios": {
+        "uk": 1.38,
+        "he": 1.114,
+        "hu": 0.996,
+        "fa": 1.288
       }
     },
     "Ukrainian_CalmWoman": {
@@ -2630,6 +2819,9 @@
       "emotion": "auto",
       "files": {
         "uk": "minimax/uk/Ukrainian_CalmWoman.mp3"
+      },
+      "ratios": {
+        "uk": 1.186
       }
     },
     "English_LovelyGirl": {
@@ -2655,6 +2847,15 @@
         "nb": "minimax/nb/English_LovelyGirl.mp3",
         "af": "minimax/af/English_LovelyGirl.mp3",
         "sl": "minimax/sl/English_LovelyGirl.mp3"
+      },
+      "ratios": {
+        "uk": 1.375,
+        "da": 1.515,
+        "ms": 1.706,
+        "fil": 1.71,
+        "nb": 1.997,
+        "af": 1.27,
+        "sl": 1.421
       }
     },
     "English_Deep-VoicedGentleman": {
@@ -2674,6 +2875,12 @@
         "he": "minimax/he/English_Deep-VoicedGentleman.mp3",
         "hu": "minimax/hu/English_Deep-VoicedGentleman.mp3",
         "fa": "minimax/fa/English_Deep-VoicedGentleman.mp3"
+      },
+      "ratios": {
+        "vi": 1.139,
+        "he": 1.134,
+        "hu": 1.131,
+        "fa": 1.176
       }
     },
     "English_Gentle-voiced_man": {
@@ -2693,6 +2900,12 @@
         "ms": "minimax/ms/English_Gentle-voiced_man.mp3",
         "nb": "minimax/nb/English_Gentle-voiced_man.mp3",
         "sl": "minimax/sl/English_Gentle-voiced_man.mp3"
+      },
+      "ratios": {
+        "vi": 0.96,
+        "ms": 1.112,
+        "nb": 1.811,
+        "sl": 1.124
       }
     },
     "Vietnamese_kindhearted_girl": {
@@ -2706,6 +2919,9 @@
       "emotion": "auto",
       "files": {
         "vi": "minimax/vi/Vietnamese_kindhearted_girl.mp3"
+      },
+      "ratios": {
+        "vi": 1.171
       }
     },
     "English_SereneWoman": {
@@ -2723,6 +2939,11 @@
         "vi": "minimax/vi/English_SereneWoman.mp3",
         "sk": "minimax/sk/English_SereneWoman.mp3",
         "ca": "minimax/ca/English_SereneWoman.mp3"
+      },
+      "ratios": {
+        "vi": 1.057,
+        "sk": 1.056,
+        "ca": 0.909
       }
     },
     "Thai_male_2_sample2": {
@@ -2736,6 +2957,9 @@
       "emotion": "auto",
       "files": {
         "th": "minimax/th/Thai_male_2_sample2.mp3"
+      },
+      "ratios": {
+        "th": 1.241
       }
     },
     "Thai_male_1_sample8": {
@@ -2749,6 +2973,9 @@
       "emotion": "auto",
       "files": {
         "th": "minimax/th/Thai_male_1_sample8.mp3"
+      },
+      "ratios": {
+        "th": 1.095
       }
     },
     "Thai_female_1_sample1": {
@@ -2762,6 +2989,9 @@
       "emotion": "auto",
       "files": {
         "th": "minimax/th/Thai_female_1_sample1.mp3"
+      },
+      "ratios": {
+        "th": 1.248
       }
     },
     "Thai_female_2_sample2": {
@@ -2775,6 +3005,9 @@
       "emotion": "auto",
       "files": {
         "th": "minimax/th/Thai_female_2_sample2.mp3"
+      },
+      "ratios": {
+        "th": 1.226
       }
     },
     "Romanian_male_1_sample2": {
@@ -2788,6 +3021,9 @@
       "emotion": "auto",
       "files": {
         "ro": "minimax/ro/Romanian_male_1_sample2.mp3"
+      },
+      "ratios": {
+        "ro": 1.327
       }
     },
     "Romanian_male_2_sample1": {
@@ -2801,6 +3037,9 @@
       "emotion": "auto",
       "files": {
         "ro": "minimax/ro/Romanian_male_2_sample1.mp3"
+      },
+      "ratios": {
+        "ro": 1.115
       }
     },
     "Romanian_female_1_sample4": {
@@ -2814,6 +3053,9 @@
       "emotion": "auto",
       "files": {
         "ro": "minimax/ro/Romanian_female_1_sample4.mp3"
+      },
+      "ratios": {
+        "ro": 1.187
       }
     },
     "Romanian_female_2_sample1": {
@@ -2827,6 +3069,9 @@
       "emotion": "auto",
       "files": {
         "ro": "minimax/ro/Romanian_female_2_sample1.mp3"
+      },
+      "ratios": {
+        "ro": 1.116
       }
     },
     "greek_male_1a_v1": {
@@ -2840,6 +3085,9 @@
       "emotion": "auto",
       "files": {
         "el": "minimax/el/greek_male_1a_v1.mp3"
+      },
+      "ratios": {
+        "el": 1.483
       }
     },
     "English_Strong-WilledBoy": {
@@ -2859,6 +3107,12 @@
         "ms": "minimax/ms/English_Strong-WilledBoy.mp3",
         "nb": "minimax/nb/English_Strong-WilledBoy.mp3",
         "sl": "minimax/sl/English_Strong-WilledBoy.mp3"
+      },
+      "ratios": {
+        "el": 1.596,
+        "ms": 1.145,
+        "nb": 1.685,
+        "sl": 1.186
       }
     },
     "Greek_female_2_sample3": {
@@ -2872,6 +3126,9 @@
       "emotion": "auto",
       "files": {
         "el": "minimax/el/Greek_female_2_sample3.mp3"
+      },
+      "ratios": {
+        "el": 1.696
       }
     },
     "Greek_female_1_sample1": {
@@ -2885,6 +3142,9 @@
       "emotion": "auto",
       "files": {
         "el": "minimax/el/Greek_female_1_sample1.mp3"
+      },
+      "ratios": {
+        "el": 1.472
       }
     },
     "czech_male_1_v1": {
@@ -2898,6 +3158,9 @@
       "emotion": "auto",
       "files": {
         "cs": "minimax/cs/czech_male_1_v1.mp3"
+      },
+      "ratios": {
+        "cs": 0.896
       }
     },
     "English_DecentYoungMan": {
@@ -2915,6 +3178,11 @@
         "cs": "minimax/cs/English_DecentYoungMan.mp3",
         "sk": "minimax/sk/English_DecentYoungMan.mp3",
         "ca": "minimax/ca/English_DecentYoungMan.mp3"
+      },
+      "ratios": {
+        "cs": 0.983,
+        "sk": 1.004,
+        "ca": 0.878
       }
     },
     "czech_female_5_v7": {
@@ -2928,6 +3196,9 @@
       "emotion": "auto",
       "files": {
         "cs": "minimax/cs/czech_female_5_v7.mp3"
+      },
+      "ratios": {
+        "cs": 0.918
       }
     },
     "czech_female_2_v2": {
@@ -2941,6 +3212,9 @@
       "emotion": "auto",
       "files": {
         "cs": "minimax/cs/czech_female_2_v2.mp3"
+      },
+      "ratios": {
+        "cs": 0.91
       }
     },
     "finnish_male_1_v2": {
@@ -2954,6 +3228,9 @@
       "emotion": "auto",
       "files": {
         "fi": "minimax/fi/finnish_male_1_v2.mp3"
+      },
+      "ratios": {
+        "fi": 0.833
       }
     },
     "English_Diligent_Man": {
@@ -2971,6 +3248,11 @@
         "fi": "minimax/fi/English_Diligent_Man.mp3",
         "sk": "minimax/sk/English_Diligent_Man.mp3",
         "ca": "minimax/ca/English_Diligent_Man.mp3"
+      },
+      "ratios": {
+        "fi": 0.938,
+        "sk": 1.056,
+        "ca": 0.89
       }
     },
     "English_Soft-spokenGirl": {
@@ -2988,6 +3270,11 @@
         "fi": "minimax/fi/English_Soft-spokenGirl.mp3",
         "sk": "minimax/sk/English_Soft-spokenGirl.mp3",
         "ca": "minimax/ca/English_Soft-spokenGirl.mp3"
+      },
+      "ratios": {
+        "fi": 1.1,
+        "sk": 1.062,
+        "ca": 1.018
       }
     },
     "English_CalmWoman": {
@@ -3005,6 +3292,11 @@
         "fi": "minimax/fi/English_CalmWoman.mp3",
         "sv": "minimax/sv/English_CalmWoman.mp3",
         "nn": "minimax/nn/English_CalmWoman.mp3"
+      },
+      "ratios": {
+        "fi": 1.055,
+        "sv": 1.113,
+        "nn": 1.581
       }
     },
     "hindi_male_1_v2": {
@@ -3018,6 +3310,9 @@
       "emotion": "auto",
       "files": {
         "hi": "minimax/hi/hindi_male_1_v2.mp3"
+      },
+      "ratios": {
+        "hi": 0.881
       }
     },
     "English_ManWithDeepVoice": {
@@ -3035,6 +3330,11 @@
         "hi": "minimax/hi/English_ManWithDeepVoice.mp3",
         "sv": "minimax/sv/English_ManWithDeepVoice.mp3",
         "nn": "minimax/nn/English_ManWithDeepVoice.mp3"
+      },
+      "ratios": {
+        "hi": 0.954,
+        "sv": 1.057,
+        "nn": 1.367
       }
     },
     "hindi_female_1_v2": {
@@ -3048,6 +3348,9 @@
       "emotion": "auto",
       "files": {
         "hi": "minimax/hi/hindi_female_1_v2.mp3"
+      },
+      "ratios": {
+        "hi": 0.993
       }
     },
     "hindi_female_2_v1": {
@@ -3061,6 +3364,9 @@
       "emotion": "auto",
       "files": {
         "hi": "minimax/hi/hindi_female_2_v1.mp3"
+      },
+      "ratios": {
+        "hi": 0.901
       }
     },
     "Arabic_FriendlyGuy": {
@@ -3074,6 +3380,9 @@
       "emotion": "auto",
       "files": {
         "ar": "minimax/ar/Arabic_FriendlyGuy.mp3"
+      },
+      "ratios": {
+        "ar": 0.817
       }
     },
     "English_PatientMan": {
@@ -3091,6 +3400,11 @@
         "ar": "minimax/ar/English_PatientMan.mp3",
         "sv": "minimax/sv/English_PatientMan.mp3",
         "nn": "minimax/nn/English_PatientMan.mp3"
+      },
+      "ratios": {
+        "ar": 1.286,
+        "sv": 1.319,
+        "nn": 1.854
       }
     },
     "Arabic_CalmWoman": {
@@ -3104,6 +3418,9 @@
       "emotion": "auto",
       "files": {
         "ar": "minimax/ar/Arabic_CalmWoman.mp3"
+      },
+      "ratios": {
+        "ar": 1.084
       }
     },
     "English_Graceful_Lady": {
@@ -3121,6 +3438,11 @@
         "ar": "minimax/ar/English_Graceful_Lady.mp3",
         "sv": "minimax/sv/English_Graceful_Lady.mp3",
         "nn": "minimax/nn/English_Graceful_Lady.mp3"
+      },
+      "ratios": {
+        "ar": 1.372,
+        "sv": 1.451,
+        "nn": 1.96
       }
     },
     "English_Kind-heartedGirl": {
@@ -3138,6 +3460,11 @@
         "bg": "minimax/bg/English_Kind-heartedGirl.mp3",
         "hr": "minimax/hr/English_Kind-heartedGirl.mp3",
         "ta": "minimax/ta/English_Kind-heartedGirl.mp3"
+      },
+      "ratios": {
+        "bg": 1.204,
+        "hr": 1.354,
+        "ta": 0.951
       }
     },
     "English_SentimentalLady": {
@@ -3155,6 +3482,11 @@
         "bg": "minimax/bg/English_SentimentalLady.mp3",
         "hr": "minimax/hr/English_SentimentalLady.mp3",
         "ta": "minimax/ta/English_SentimentalLady.mp3"
+      },
+      "ratios": {
+        "bg": 1.553,
+        "hr": 1.446,
+        "ta": 0.921
       }
     },
     "Chinese (Mandarin)_Reliable_Executive": {
@@ -3168,6 +3500,9 @@
       "emotion": "auto",
       "files": {
         "cmn": "minimax/cmn/Chinese (Mandarin)_Reliable_Executive.mp3"
+      },
+      "ratios": {
+        "cmn": 0.788
       }
     },
     "Chinese (Mandarin)_Male_Announcer": {
@@ -3181,6 +3516,9 @@
       "emotion": "auto",
       "files": {
         "cmn": "minimax/cmn/Chinese (Mandarin)_Male_Announcer.mp3"
+      },
+      "ratios": {
+        "cmn": 1.044
       }
     },
     "Chinese (Mandarin)_News_Anchor": {
@@ -3194,6 +3532,9 @@
       "emotion": "auto",
       "files": {
         "cmn": "minimax/cmn/Chinese (Mandarin)_News_Anchor.mp3"
+      },
+      "ratios": {
+        "cmn": 1.138
       }
     },
     "Chinese (Mandarin)_Warm_Bestie": {
@@ -3207,6 +3548,9 @@
       "emotion": "auto",
       "files": {
         "cmn": "minimax/cmn/Chinese (Mandarin)_Warm_Bestie.mp3"
+      },
+      "ratios": {
+        "cmn": 0.888
       }
     },
     "Cantonese_ProfessionalHost（M)": {
@@ -3220,6 +3564,9 @@
       "emotion": "auto",
       "files": {
         "yue": "minimax/yue/Cantonese_ProfessionalHost（M).mp3"
+      },
+      "ratios": {
+        "yue": 0.729
       }
     },
     "Cantonese_PlayfulMan": {
@@ -3233,6 +3580,9 @@
       "emotion": "auto",
       "files": {
         "yue": "minimax/yue/Cantonese_PlayfulMan.mp3"
+      },
+      "ratios": {
+        "yue": 0.681
       }
     },
     "Cantonese_ProfessionalHost（F)": {
@@ -3246,6 +3596,9 @@
       "emotion": "auto",
       "files": {
         "yue": "minimax/yue/Cantonese_ProfessionalHost（F).mp3"
+      },
+      "ratios": {
+        "yue": 0.684
       }
     },
     "Cantonese_KindWoman": {
@@ -3259,7 +3612,52 @@
       "emotion": "auto",
       "files": {
         "yue": "minimax/yue/Cantonese_KindWoman.mp3"
+      },
+      "ratios": {
+        "yue": 0.864
       }
     }
+  },
+  "edge_voices": {
+    "af": "af-ZA-AdriNeural",
+    "ar": "ar-EG-SalmaNeural",
+    "bg": "bg-BG-KalinaNeural",
+    "ca": "ca-ES-JoanaNeural",
+    "cs": "cs-CZ-VlastaNeural",
+    "da": "da-DK-ChristelNeural",
+    "de": "de-DE-KatjaNeural",
+    "el": "el-GR-AthinaNeural",
+    "en": "en-US-AvaNeural",
+    "es": "es-ES-ElviraNeural",
+    "fi": "fi-FI-NooraNeural",
+    "fil": "fil-PH-BlessicaNeural",
+    "fr": "fr-FR-DeniseNeural",
+    "he": "he-IL-HilaNeural",
+    "hi": "hi-IN-SwaraNeural",
+    "hu": "hu-HU-NoemiNeural",
+    "id": "id-ID-GadisNeural",
+    "it": "it-IT-ElsaNeural",
+    "ja": "ja-JP-NanamiNeural",
+    "ko": "ko-KR-SunHiNeural",
+    "ms": "ms-MY-YasminNeural",
+    "nb": "nb-NO-PernilleNeural",
+    "nn": "nb-NO-PernilleNeural",
+    "nl": "nl-NL-ColetteNeural",
+    "pl": "pl-PL-ZofiaNeural",
+    "pt": "pt-BR-FranciscaNeural",
+    "ro": "ro-RO-AlinaNeural",
+    "ru": "ru-RU-SvetlanaNeural",
+    "sk": "sk-SK-ViktoriaNeural",
+    "sv": "sv-SE-SofieNeural",
+    "ta": "ta-IN-PallaviNeural",
+    "th": "th-TH-PremwadeeNeural",
+    "tr": "tr-TR-EmelNeural",
+    "uk": "uk-UA-PolinaNeural",
+    "vi": "vi-VN-HoaiMyNeural",
+    "cmn": "zh-CN-XiaoxiaoNeural",
+    "yue": "zh-HK-HiuGaaiNeural",
+    "fa": "fa-IR-DilaraNeural",
+    "hr": "hr-HR-GabrijelaNeural",
+    "sl": "sl-SI-PetraNeural"
   }
 }
