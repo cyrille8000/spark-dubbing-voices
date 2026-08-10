@@ -1,20 +1,26 @@
 """
-Genere les samples audio des 8 voix style OpenAI via Azure Speech HD
-(modeles XxxTurboMultilingualNeural) pour les 35 langues du repo.
+Genere les samples audio des voix OpenAI via l'API OpenAI Speech
+(modele gpt-4o-mini-tts) pour les 40 langues du repo.
 
 Pour chaque (voice, lang) declaree dans voices.json (provider == "openai") :
   1. Recupere le texte depuis texts.json (cle = nom de voix lowercase, ex "alloy")
-  2. Genere via Azure Speech avec un SSML force xml:lang=<code> (multilingue)
+  2. Genere via POST /v1/audio/speech (voice = champ `openai_voice`)
   3. Ecrit le MP3 a la destination indiquee dans voices.json
-     (ex: openai/fr/alloy.mp3) en ECRASANT le fichier existant.
+     (ex: female/fr/alloy.mp3) en ECRASANT le fichier existant.
 
 Le trim des silences est une etape separee (trim_silences.py --in-place).
 
+MOTEUR : jusqu'au 2026-08-10 ces echantillons sortaient d'Azure Speech
+(voix en-US-XxxTurboMultilingualNeural, qui imitaient les voix OpenAI). La gamme
+lite du produit appelle desormais OpenAI EN DIRECT, donc les echantillons aussi :
+un extrait doit faire entendre le moteur qui doublera reellement la video.
+La langue n'est pas un parametre de l'API — le modele la deduit du texte.
+
 Variables d'environnement :
-  AZURE_SPEECH_KEY     (requis)
-  AZURE_SPEECH_REGION  (defaut: eastus)
-  WORKERS              (defaut: 8)
-  MAX_RETRIES          (defaut: 5)
+  OPENAI_API_KEY  (requis)
+  OPENAI_TTS_MODEL (defaut: gpt-4o-mini-tts)
+  WORKERS         (defaut: 8)
+  MAX_RETRIES     (defaut: 5)
 
 Flags CLI :
   --skip-existing       N'ecrase pas les fichiers deja presents
@@ -27,105 +33,72 @@ import os
 import sys
 import json
 import time
-import warnings
+import urllib.error
+import urllib.request
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-import azure.cognitiveservices.speech as speechsdk
-
-warnings.filterwarnings("ignore")
-
-SPEECH_KEY = os.environ.get("AZURE_SPEECH_KEY", "")
-SPEECH_REGION = os.environ.get("AZURE_SPEECH_REGION", "eastus")
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+MODEL = os.environ.get("OPENAI_TTS_MODEL", "gpt-4o-mini-tts")
 WORKERS = int(os.environ.get("WORKERS", "8"))
 MAX_RETRIES = int(os.environ.get("MAX_RETRIES", "5"))
 
-# Mapping nos codes langue -> codes Azure xml:lang
-LANG_MAP = {
-    "en": "en-US", "fr": "fr-FR", "es": "es-ES", "de": "de-DE",
-    "it": "it-IT", "pt": "pt-BR", "ja": "ja-JP", "ko": "ko-KR",
-    "cmn": "zh-CN", "ar": "ar-EG", "hi": "hi-IN", "ru": "ru-RU",
-    "tr": "tr-TR", "nl": "nl-NL", "pl": "pl-PL", "id": "id-ID",
-    "uk": "uk-UA", "vi": "vi-VN", "th": "th-TH", "ro": "ro-RO",
-    "el": "el-GR", "cs": "cs-CZ", "fi": "fi-FI", "bg": "bg-BG",
-    "da": "da-DK", "he": "he-IL", "ms": "ms-MY", "sk": "sk-SK",
-    "sv": "sv-SE", "fil": "fil-PH", "hu": "hu-HU", "nb": "nb-NO",
-    "ca": "ca-ES", "ta": "ta-IN", "af": "af-ZA",
-    # Cantonais (zh-HK), Persan, Croate, Slovene supportes par les voix
-    # multilingues Azure. Le nynorsk n'a pas de locale Azure dedie -> nb-NO
-    # (Bokmal) : le texte reste en nynorsk, lu avec la voix norvegienne.
-    "yue": "zh-HK", "fa": "fa-IR", "hr": "hr-HR", "sl": "sl-SI", "nn": "nb-NO",
-}
+API_URL = "https://api.openai.com/v1/audio/speech"
+
+# Erreurs transitoires : 429 (rate limit) et 5xx. Les limites du compte
+# (5 000 RPM / 600 000 TPM) sont tres au-dessus de ce que ce script demande,
+# donc un 429 ici signale surtout une rafale ; un backoff court suffit.
+RETRYABLE_STATUS = {408, 409, 429, 500, 502, 503, 504}
 
 
-def _xml_escape(text: str) -> str:
-    return (
-        text.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-            .replace("'", "&apos;")
-    )
+def synth_to_mp3(openai_voice, text, out_path):
+    """Synthese OpenAI -> MP3 24 kHz mono. Ecriture atomique via .tmp.
 
-
-def synth_to_mp3(azure_voice, xml_lang, text, out_path):
-    """Synthese SSML -> MP3 24kHz 160kbps mono.
-
-    Synthese en memoire (audio_config=None) pour eviter que le SDK Azure
-    garde le file handle ouvert sous Windows. Ecriture atomique via .tmp.
+    Retourne (True, None) ou (False, message). Ne leve pas : l'appelant
+    decide du retry.
     """
-    speech_config = speechsdk.SpeechConfig(subscription=SPEECH_KEY, region=SPEECH_REGION)
-    speech_config.set_speech_synthesis_output_format(
-        speechsdk.SpeechSynthesisOutputFormat.Audio24Khz160KBitRateMonoMp3
-    )
+    body = json.dumps({
+        "model": MODEL,
+        "voice": openai_voice,
+        "input": text,
+        "response_format": "mp3",
+    }).encode()
+    req = urllib.request.Request(API_URL, data=body, headers={
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=300) as resp:
+            audio = resp.read()
+    except urllib.error.HTTPError as e:
+        detail = e.read().decode("utf-8", "replace")[:200]
+        return False, f"HTTP {e.code}: {detail}"
+    except Exception as e:  # noqa: BLE001 - reseau/TLS/timeout
+        return False, f"{type(e).__name__}: {e}"
 
-    synthesizer = speechsdk.SpeechSynthesizer(
-        speech_config=speech_config,
-        audio_config=None,
-    )
+    if len(audio) < 1024:
+        return False, f"reponse trop courte ({len(audio)}B)"
 
-    safe_text = _xml_escape(text)
-    ssml = (
-        f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" '
-        f'xml:lang="{xml_lang}">'
-        f'<voice name="{azure_voice}">{safe_text}</voice>'
-        f'</speak>'
-    )
-
-    result = synthesizer.speak_ssml_async(ssml).get()
-    if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        tmp_path = out_path.with_suffix(out_path.suffix + ".tmp")
-        with open(tmp_path, "wb") as f:
-            f.write(result.audio_data)
-        os.replace(tmp_path, out_path)
-        return True, None
-
-    if result.reason == speechsdk.ResultReason.Canceled:
-        details = result.cancellation_details
-        msg = f"{details.reason}"
-        if details.reason == speechsdk.CancellationReason.Error:
-            msg += f": {details.error_details}"
-        return False, msg
-
-    return False, f"unexpected reason: {result.reason}"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = out_path.with_suffix(out_path.suffix + ".tmp")
+    with open(tmp_path, "wb") as f:
+        f.write(audio)
+    os.replace(tmp_path, out_path)
+    return True, None
 
 
-def call_with_retries(azure_voice, xml_lang, text, out_path):
+def call_with_retries(openai_voice, text, out_path):
     """Wrapper avec retry exponentiel sur erreur transitoire."""
     backoff = 1.5
     last_err = None
     for _ in range(MAX_RETRIES):
-        ok, err = synth_to_mp3(azure_voice, xml_lang, text, out_path)
+        ok, err = synth_to_mp3(openai_voice, text, out_path)
         if ok:
             return True, None
         last_err = err or "unknown"
-        # Throttling Azure / 5xx -> retry
-        msg = (last_err or "").lower()
-        retryable = any(k in msg for k in (
-            "throttl", "timeout", "503", "500", "429",
-            "connectionerror", "network", "temporary",
-        ))
+        retryable = any(f"HTTP {code}" in last_err for code in RETRYABLE_STATUS) or any(
+            k in last_err.lower() for k in ("timeout", "connection", "remotedisconnected", "ssl")
+        )
         if not retryable:
             return False, last_err
         time.sleep(backoff)
@@ -134,16 +107,12 @@ def call_with_retries(azure_voice, xml_lang, text, out_path):
 
 
 def process_one(args):
-    voice_name, azure_voice, lang, text, file_rel, root, skip_existing = args
+    voice_name, openai_voice, lang, text, file_rel, root, skip_existing = args
     out_path = root / file_rel
     if skip_existing and out_path.exists():
         return ("skip", voice_name, lang, file_rel, None)
 
-    xml_lang = LANG_MAP.get(lang)
-    if not xml_lang:
-        return ("err", voice_name, lang, file_rel, f"no xml:lang mapping for {lang}")
-
-    ok, err = call_with_retries(azure_voice, xml_lang, text, out_path)
+    ok, err = call_with_retries(openai_voice, text, out_path)
     if ok:
         return ("ok", voice_name, lang, file_rel, None)
     return ("err", voice_name, lang, file_rel, err)
@@ -157,10 +126,9 @@ def build_tasks(voices_data, texts_data, root, voice_filter, lang_filter, limit,
         if voice_filter and vname.lower() != voice_filter.lower():
             continue
 
-        azure_voice = vdata.get("azure_voice")
-        if not azure_voice:
-            print(f"WARN: pas de azure_voice pour {vname}", file=sys.stderr)
-            continue
+        # `openai_voice` = l'identifiant de voix de l'API (alloy, ash, ballad...).
+        # Repli sur le nom du catalogue : les deux coincident aujourd'hui.
+        openai_voice = vdata.get("openai_voice") or vname.lower()
 
         # Lookup case-insensitive du texte
         text_key = vname if vname in texts_data else None
@@ -179,7 +147,7 @@ def build_tasks(voices_data, texts_data, root, voice_filter, lang_filter, limit,
             text = texts_data[text_key].get(lang)
             if not text:
                 continue
-            tasks.append((vname, azure_voice, lang, text, file_rel, root, skip_existing))
+            tasks.append((vname, openai_voice, lang, text, file_rel, root, skip_existing))
 
     if limit:
         tasks = tasks[:limit]
@@ -215,8 +183,8 @@ def parse_args(argv):
 
 
 def main():
-    if not SPEECH_KEY:
-        print("ERROR: AZURE_SPEECH_KEY non defini", file=sys.stderr)
+    if not API_KEY:
+        print("ERROR: OPENAI_API_KEY non defini", file=sys.stderr)
         sys.exit(1)
 
     skip_existing, voice_filter, lang_filter, limit = parse_args(sys.argv)
@@ -232,7 +200,7 @@ def main():
         voice_filter, lang_filter, limit, skip_existing,
     )
 
-    print(f"Region       : {SPEECH_REGION}")
+    print(f"Modele       : {MODEL}")
     print(f"Workers      : {WORKERS}")
     print(f"Skip existing: {skip_existing}")
     print(f"Taches       : {len(tasks)}")
